@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI';
+      font-size: var(--bs-body-font-size);
+      font-weight: var(--bs-body-font-weight);
+      line-height: var(--bs-body-line-height);
+      color: var(--bs-body-color);
+      text-align: var(--bs-body-text-align);
+      background-color: var(--bs-body-bg);
+      -webkit-text-size-adjust: 100%;
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+
+    h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+      font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    h4, .h4 {
+      font-size: calc(1.275rem + 0.3vw);
+    }
+    @media (min-width: 1200px) {
+      h4, .h4 {
+        font-size: 1.5rem;
+      }
+    }
+
+    p {
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    h2,
+    h3,
+    h4,
+    p {
+      /* Ejemplo de aplicar Segoe UI a encabezados y párrafos */
+      font-family: 'Segoe UI';
+    }
+
+    .page-section {
+    padding: 6rem 0;
+    }
+
+    .page-section h2.section-heading, .page-section .section-heading.h2 {
+      font-size: 2.5rem;
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    .page-section h3.section-subheading, .page-section .section-subheading.h3 {
+      font-size: 1rem;
+      font-weight: 400;
+      font-style: italic;
+      font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      margin-bottom: 4rem;
+    }
+
+    .bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+    }
+
+    .text-bg-light {
+    color: #000 !important;
+    background-color: RGBA(248, 249, 250, var(--bs-bg-opacity, 1)) !important;
+    }
+
+    .container,
+    .container-fluid,
+    .container-xxl,
+    .container-xl,
+    .container-lg,
+    .container-md,
+    .container-sm {
+      --bs-gutter-x: 1.5rem;
+      --bs-gutter-y: 0;
+      width: 100%;
+      padding-right: calc(var(--bs-gutter-x) * 0.5);
+      padding-left: calc(var(--bs-gutter-x) * 0.5);
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    @media (min-width: 576px) {
+      .container-sm, .container {
+      max-width: 540px;
+      }
+    }
+    @media (min-width: 768px) {
+      .container-md, .container-sm, .container {
+        max-width: 720px;
+      }
+    }
+    @media (min-width: 992px) {
+      .container-lg, .container-md, .container-sm, .container {
+        max-width: 960px;
+      }
+    }
+    @media (min-width: 1200px) {
+      .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1140px;
+      }
+    }
+    @media (min-width: 1400px) {
+      .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1320px;
+      }
+    }
+
+    .navbar > .container,
+    .navbar > .container-fluid,
+    .navbar > .container-sm,
+    .navbar > .container-md,
+    .navbar > .container-lg,
+    .navbar > .container-xl,
+    .navbar > .container-xxl {
+      display: flex;
+      flex-wrap: inherit;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toast-container {
+      --bs-toast-zindex: 1090;
+      position: absolute;
+      z-index: var(--bs-toast-zindex);
+      width: -moz-max-content;
+      width: max-content;
+      max-width: 100%;
+      pointer-events: none;
+    }
+
+    .toast-container > :not(:last-child) {
+      margin-bottom: var(--bs-toast-spacing);
+    }
+
+    .text-center {
+      text-align: center !important;
+    }
+
+    .page-section h2.section-heading, .page-section .section-heading.h2 {
+      font-size: 2.5rem;
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    /*.text-uppercase {
+      text-transform: uppercase !important;  /* Dejar en matúscula el texto
+    }*/
+
+    .text-uppercase {
+      text-transform: none !important;  /* Dejar en matúscula el texto*/
+    }
+
+    .page-section h3.section-subheading, .page-section .section-subheading.h3 {
+      font-size: 1rem;
+      font-weight: 400;
+      font-style: italic;
+      font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      margin-bottom: 4rem;
+    }
+
+    .text-muted {
+      --bs-text-opacity: 1;
+      color: #6c757d !important;
+    }
+
+    .row {
+      --bs-gutter-x: 1.5rem;
+      --bs-gutter-y: 0;
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: calc(-1 * var(--bs-gutter-y));
+      margin-right: calc(-0.5 * var(--bs-gutter-x));
+      margin-left: calc(-0.5 * var(--bs-gutter-x));
+    }
+    .row > * {
+      flex-shrink: 0;
+      width: 100%;
+      max-width: 100%;
+      padding-right: calc(var(--bs-gutter-x) * 0.5);
+      padding-left: calc(var(--bs-gutter-x) * 0.5);
+      margin-top: var(--bs-gutter-y);
+    }
+
+    .col-lg-1 {
+      flex: 0 0 auto;
+      width: 8.33%;
+    }
+
+    .col-lg-4 {
+      flex: 0 0 auto;
+      width: 33.33333333%;
+    }
+
+    .col-lg-2 {
+      flex: 0 0 auto;
+      width: 20%;
+    }
+
+    .col-lg-3 {
+      flex: 0 0 auto;
+      width: 25%;
+    }
+
+    .col-lg-8 {
+      flex: 0 0 auto;
+      width: 66.66666667%;
+    }
+
+    .team-member {
+      margin-bottom: 3rem;
+      text-align: center;
+    }
+
+    .team-member img {
+      width: 14rem;
+      height: 14rem;
+      border: 0.3rem solid rgba(0, 0, 0, 0.1);
+    }
+
+    .team-member p {
+      margin-bottom: 0.1rem;  /* Ajusta el valor de los párrafos debajo de las imagenes */
+    }
+
+    .team-member p:last-of-type {
+      margin-bottom: 1rem; /* Espacio después del último párrafo */
+    }
+
+    .team-member a {
+      margin-bottom: 0.1rem;  /* Ajusta el valor de los párrafos debajo de las imagenes */
+    }
+
+    .team-member .btn-social {
+      font-size: 25px; /* Tamaño deseado para los iconos */
+    }
+
+
+    .team-member h4, .team-member .h4 {
+      margin-top: 1.5rem;
+      margin-bottom: 0;
+    }
+
+    .mx-auto {
+      margin-right: auto !important;
+      margin-left: auto !important;
+    }
+
+    .rounded-circle {
+      border-radius: 50% !important;
+    }
+
+    .btn-check {
+      position: absolute;
+      clip: rect(0, 0, 0, 0);
+      pointer-events: none;
+    }
+
+    .btn-check[disabled] + .btn, .btn-check:disabled + .btn {
+      pointer-events: none;
+      filter: none;
+      opacity: 0.65;
+    }
+
+    .input-group .btn {
+      position: relative;
+      z-index: 2;
+    }
+
+    .input-group .btn:focus {
+      z-index: 5;
+    }
+
+    .btn {
+      --bs-btn-padding-x: 0.75rem;
+      --bs-btn-padding-y: 0.375rem;
+      --bs-btn-font-family: ;
+      --bs-btn-font-size: 1rem;
+      --bs-btn-font-weight: 400;
+      --bs-btn-line-height: 1.5;
+      --bs-btn-color: #212529;
+      --bs-btn-bg: transparent;
+      --bs-btn-border-width: 1px;
+      --bs-btn-border-color: transparent;
+      --bs-btn-border-radius: 0.375rem;
+      --bs-btn-hover-border-color: transparent;
+      --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
+      --bs-btn-disabled-opacity: 0.65;
+      --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);
+      display: inline-block;
+      padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x);
+      font-family: var(--bs-btn-font-family);
+      font-size: var(--bs-btn-font-size);
+      font-weight: var(--bs-btn-font-weight);
+      line-height: var(--bs-btn-line-height);
+      color: var(--bs-btn-color);
+      text-align: center;
+      text-decoration: none;
+      vertical-align: middle;
+      cursor: pointer;
+      -webkit-user-select: none;
+        -moz-user-select: none;
+              user-select: none;
+      border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+      border-radius: var(--bs-btn-border-radius);
+      background-color: var(--bs-btn-bg);
+      transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .btn {
+        transition: none;
+      }
+    }
+
+    .btn-dark {
+      --bs-btn-color: #fff;
+      --bs-btn-bg: #212529;
+      --bs-btn-border-color: #212529;
+      --bs-btn-hover-color: #fff;
+      --bs-btn-hover-bg: #424649;
+      --bs-btn-hover-border-color: #373b3e;
+      --bs-btn-focus-shadow-rgb: 66, 70, 73;
+      --bs-btn-active-color: #fff;
+      --bs-btn-active-bg: #4d5154;
+      --bs-btn-active-border-color: #373b3e;
+      --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+      --bs-btn-disabled-color: #fff;
+      --bs-btn-disabled-bg: #212529;
+      --bs-btn-disabled-border-color: #212529;
+    }
+
+    .btn-social {
+      height: 2.5rem;
+      width: 2.5rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      border-radius: 100%;
+    }
+
+    .mx-2 {
+      margin-right: 0.5rem !important;
+      margin-left: 0.5rem !important;
+    }
+
+
+
+    </style>
+  </head>
+  <body id="page-top">
+    <!-- Team-->
+    <section class="page-section bg-light" id="team">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Equipo de investigación</h2>
+            </div>
+            <div class="row">
+              <div class="col-lg-4"></div>
+              <div class="col-lg-4">
+                  <div class="team-member">
+                      <img class="mx-auto rounded-circle" src="C:/Users/Marfa/obrha_source/assets/images/integrantes/Mauricio_Zambrano.jpg" alt="..." />
+                      <h4>Dr. Mauricio Zambrano Bigiarini</h4>
+                      <p class="text-muted">Ing. Civil - Dr. en Ingeniería Ambiental UniTrento</p>
+                      <p class="text-muted">Dir. Observatorio de RR.HH Kimün-Ko UFRO</p>                      
+                      <p class="text-muted">mauricio.zambrano@ufrontera.cl</p>
+                      <a class="btn btn-dark btn-social mx-2" href="https://hzambran.github.io/" aria-label="Parveen Anand Github Profile"><i class="fab fa-github"></i></a>
+                      <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                  </div>
+              </div>
+              <div class="col-lg-4"></div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="C:/Users/Marfa/obrha_source/assets/images/integrantes/Rebeca_Martinez.jpg" alt="..." />
+                        <h4>Dra. Rebeca Martínez Retureta</h4>
+                        <p class="text-muted">Geógrafa - Dra. en Ciencias Ambientales c/m Sistemas Acuáticos Continentales UdeC.</p>
+                        <p class="text-muted">Investigadora Postdoctoral</p>
+                        <p class="text-muted">rebeca.martinez@ufrontera.cl</p>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                  <div class="team-member">
+                      <img class="mx-auto rounded-circle" src="C:/Users/Marfa/obrha_source/assets/images/integrantes/Violeta_Tolorza.jpg" alt="..." />
+                      <h4>Dra. Violeta Tolorza Tolorza</h4>
+                      <p class="text-muted">Geóloga - Dra. en Ciencias mención Geología UChile. </p>
+                      <p class="text-muted">Investigadora Postdoctoral</p>
+                      <p class="text-muted">violeta.tolorza@ufrontera.cl</p>
+                      <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                  </div>
+              </div>
+              <div class="col-lg-4">
+                <div class="team-member">
+                    <img class="mx-auto rounded-circle" src="C:/Users/Marfa/obrha_source/assets/images/integrantes/Fernando_Gimeno.jpg" alt="..." />
+                    <h4>Dr(c). Fernando Gimeno Molina</h4>
+                    <p class="text-muted">Geógrafo - Mg. Medio Ambiente y Naturaleza UChile. </p>
+                    <p class="text-muted">Investigador Doctoral</p>
+                    <p class="text-muted">CORREO</p>
+                    <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-1"></div>
+              <div class="col-lg-1"></div>
+              <div class="col-lg-4">
+                  <div class="team-member">
+                      <img class="mx-auto rounded-circle" src="C:/Users/Marfa/obrha_source/assets/images/integrantes/Rodrigo_Marinao.jpg" alt="..." />
+                      <h4>Ing. Rodrigo Marinao Rivas</h4>
+                      <p class="text-muted">Ing. Civil - Est. Mg. en Ciencias de la Ingeniería</p>
+                      <p class="text-muted">Asistente de Investigación Fondecyt 1212071</p>
+                      <p class="text-muted">rodrigo.marinao@ufrontera.cl</p>
+                      <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                  </div>
+              </div>
+              <div class="col-lg-4">
+                <div class="team-member">
+                    <img class="mx-auto rounded-circle" src="C:/Users/Marfa/obrha_source/assets/images/integrantes/Marfa_Saldivia.jpg" alt="..." />
+                    <h4>Lic. Marfa Saldivia Mayorga</h4>
+                    <p class="text-muted">Lic. en Ciencias de la Ingeniería - Est. Ing. Civil</p>
+                    <p class="text-muted">Asistente de Investigación</p>
+                    <p class="text-muted">m.saldivia02@ufromail.cl</p>
+                    <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-1"></div>
+          </div>
+        </div>
+    </section>
+  </body>
+</html>
