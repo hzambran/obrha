@@ -179,7 +179,7 @@ var store = [{
     "title": "IDF",
     "excerpt":"     Curvas IDF Chile                             ","url": "http://localhost:4000/idf/"
   },{
-    "title": "OBHRA",
+    "title": "Kimün-Ko",
     "excerpt":"                                                                                        International collaboration project between Chile and China (PCI CONICYT Chile - NSFC China) NSFC190018                                                                                                                                                                                         Río Petorca                                                                                                      Learn more                                                                                                                                                    Río Cauquenes                                                                                                      Learn more                                                                                                                                                    Río Trancura                                                                                                      Learn more                                                                                                                                                    Mapocho                                                                                                      Learn more                                        ","url": "http://localhost:4000/index-en.html"
   },{
     "title": "Kimün-Ko",
