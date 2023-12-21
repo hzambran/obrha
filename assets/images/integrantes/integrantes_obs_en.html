@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI';
+      font-size: var(--bs-body-font-size);
+      font-weight: var(--bs-body-font-weight);
+      line-height: var(--bs-body-line-height);
+      color: var(--bs-body-color);
+      text-align: var(--bs-body-text-align);
+      background-color: var(--bs-body-bg);
+      -webkit-text-size-adjust: 100%;
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+
+    h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+      font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    h4, .h4 {
+      font-size: calc(1.275rem + 0.3vw);
+    }
+    @media (min-width: 1200px) {
+      h4, .h4 {
+        font-size: 1.5rem;
+      }
+    }
+
+    p {
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    h2,
+    h3,
+    h4,
+    p {
+      /* Ejemplo de aplicar Segoe UI a encabezados y párrafos */
+      font-family: 'Segoe UI';
+    }
+
+    .page-section {
+    padding: 6rem 0;
+    }
+
+    .page-section h2.section-heading, .page-section .section-heading.h2 {
+      font-size: 2.5rem;
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    .page-section h3.section-subheading, .page-section .section-subheading.h3 {
+      font-size: 1rem;
+      font-weight: 400;
+      font-style: italic;
+      font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      margin-bottom: 4rem;
+    }
+
+    .bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+    }
+
+    .text-bg-light {
+    color: #000 !important;
+    background-color: RGBA(248, 249, 250, var(--bs-bg-opacity, 1)) !important;
+    }
+
+    .container,
+    .container-fluid,
+    .container-xxl,
+    .container-xl,
+    .container-lg,
+    .container-md,
+    .container-sm {
+      --bs-gutter-x: 1.5rem;
+      --bs-gutter-y: 0;
+      width: 100%;
+      padding-right: calc(var(--bs-gutter-x) * 0.5);
+      padding-left: calc(var(--bs-gutter-x) * 0.5);
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    @media (min-width: 576px) {
+      .container-sm, .container {
+      max-width: 540px;
+      }
+    }
+    @media (min-width: 768px) {
+      .container-md, .container-sm, .container {
+        max-width: 720px;
+      }
+    }
+    @media (min-width: 992px) {
+      .container-lg, .container-md, .container-sm, .container {
+        max-width: 960px;
+      }
+    }
+    @media (min-width: 1200px) {
+      .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1140px;
+      }
+    }
+    @media (min-width: 1400px) {
+      .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1320px;
+      }
+    }
+
+    .navbar > .container,
+    .navbar > .container-fluid,
+    .navbar > .container-sm,
+    .navbar > .container-md,
+    .navbar > .container-lg,
+    .navbar > .container-xl,
+    .navbar > .container-xxl {
+      display: flex;
+      flex-wrap: inherit;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toast-container {
+      --bs-toast-zindex: 1090;
+      position: absolute;
+      z-index: var(--bs-toast-zindex);
+      width: -moz-max-content;
+      width: max-content;
+      max-width: 100%;
+      pointer-events: none;
+    }
+
+    .toast-container > :not(:last-child) {
+      margin-bottom: var(--bs-toast-spacing);
+    }
+
+    .text-center {
+      text-align: center !important;
+    }
+
+    .page-section h2.section-heading, .page-section .section-heading.h2 {
+      font-size: 2.5rem;
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    /*.text-uppercase {
+      text-transform: uppercase !important;  /* Dejar en matúscula el texto
+    }*/
+
+    .text-uppercase {
+      text-transform: none !important;  /* Dejar en matúscula el texto*/
+    }
+
+    .page-section h3.section-subheading, .page-section .section-subheading.h3 {
+      font-size: 1rem;
+      font-weight: 400;
+      font-style: italic;
+      font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      margin-bottom: 4rem;
+    }
+
+    .text-muted {
+      --bs-text-opacity: 1;
+      color: #6c757d !important;
+    }
+
+    .row {
+      --bs-gutter-x: 1.5rem;
+      --bs-gutter-y: 0;
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: calc(-1 * var(--bs-gutter-y));
+      margin-right: calc(-0.5 * var(--bs-gutter-x));
+      margin-left: calc(-0.5 * var(--bs-gutter-x));
+    }
+    .row > * {
+      flex-shrink: 0;
+      width: 100%;
+      max-width: 100%;
+      padding-right: calc(var(--bs-gutter-x) * 0.5);
+      padding-left: calc(var(--bs-gutter-x) * 0.5);
+      margin-top: var(--bs-gutter-y);
+    }
+
+    .col-lg-1 {
+      flex: 0 0 auto;
+      width: 8.33%;
+    }
+
+    .col-lg-4 {
+      flex: 0 0 auto;
+      width: 33.33333333%;
+    }
+
+    .col-lg-2 {
+      flex: 0 0 auto;
+      width: 20%;
+    }
+
+    .col-lg-3 {
+      flex: 0 0 auto;
+      width: 25%;
+    }
+
+    .col-lg-8 {
+      flex: 0 0 auto;
+      width: 66.66666667%;
+    }
+
+    .team-member {
+      margin-bottom: 3rem;
+      text-align: center;
+    }
+
+    .team-member img {
+      width: 14rem;
+      height: 14rem;
+      border: 0.3rem solid rgba(0, 0, 0, 0.1);
+    }
+
+    .team-member p {
+      margin-bottom: 0.1rem;  /* Ajusta el valor de los párrafos debajo de las imagenes */
+    }
+
+    .team-member p:last-of-type {
+      margin-bottom: 1rem; /* Espacio después del último párrafo */
+    }
+
+    .team-member a {
+      margin-bottom: 0.1rem;  /* Ajusta el valor de los párrafos debajo de las imagenes */
+    }
+
+    .team-member .btn-social {
+      font-size: 25px; /* Tamaño deseado para los iconos */
+    }
+
+
+    .team-member h4, .team-member .h4 {
+      margin-top: 1.5rem;
+      margin-bottom: 0;
+    }
+
+    .mx-auto {
+      margin-right: auto !important;
+      margin-left: auto !important;
+    }
+
+    .rounded-circle {
+      border-radius: 50% !important;
+    }
+
+    .btn-check {
+      position: absolute;
+      clip: rect(0, 0, 0, 0);
+      pointer-events: none;
+    }
+
+    .btn-check[disabled] + .btn, .btn-check:disabled + .btn {
+      pointer-events: none;
+      filter: none;
+      opacity: 0.65;
+    }
+
+    .input-group .btn {
+      position: relative;
+      z-index: 2;
+    }
+
+    .input-group .btn:focus {
+      z-index: 5;
+    }
+
+    .btn {
+      --bs-btn-padding-x: 0.75rem;
+      --bs-btn-padding-y: 0.75rem;
+      --bs-btn-font-family: ;
+      --bs-btn-font-size: 1rem;
+      --bs-btn-font-weight: 400;
+      --bs-btn-line-height: 1.5;
+      --bs-btn-color: #212529;
+      --bs-btn-bg: transparent;
+      --bs-btn-border-width: 1px;
+      --bs-btn-border-color: transparent;
+      --bs-btn-border-radius: 0.375rem;
+      --bs-btn-hover-border-color: transparent;
+      --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
+      --bs-btn-disabled-opacity: 0.65;
+      --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);
+      display: inline-block;
+      padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x);
+      font-family: var(--bs-btn-font-family);
+      font-size: var(--bs-btn-font-size);
+      font-weight: var(--bs-btn-font-weight);
+      line-height: var(--bs-btn-line-height);
+      color: var(--bs-btn-color);
+      text-align: center;
+      text-decoration: none;
+      vertical-align: middle;
+      cursor: pointer;
+      -webkit-user-select: none;
+        -moz-user-select: none;
+              user-select: none;
+      border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+      border-radius: var(--bs-btn-border-radius);
+      background-color: var(--bs-btn-bg);
+      transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .btn {
+        transition: none;
+      }
+    }
+
+    .btn-dark {
+      --bs-btn-color: #fff;
+      --bs-btn-bg: #212529;
+      --bs-btn-border-color: #212529;
+      --bs-btn-hover-color: #fff;
+      --bs-btn-hover-bg: #424649;
+      --bs-btn-hover-border-color: #373b3e;
+      --bs-btn-focus-shadow-rgb: 66, 70, 73;
+      --bs-btn-active-color: #fff;
+      --bs-btn-active-bg: #4d5154;
+      --bs-btn-active-border-color: #373b3e;
+      --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+      --bs-btn-disabled-color: #fff;
+      --bs-btn-disabled-bg: #212529;
+      --bs-btn-disabled-border-color: #212529;
+    }
+
+    .btn-social {
+      height: 2.5rem;
+      width: 2.5rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      border-radius: 100%;
+    }
+
+    .mx-2 {
+      margin-right: 0.5rem !important;
+      margin-left: 0.5rem !important;
+    }
+
+    .custom-icon {
+      /* Estilos generales del contenedor del icono */
+      display: inline-block;
+      width: 60px; /* Ancho deseado */
+      height: 60px; /* Alto deseado */
+      color: #007bb5; /* Color del icono */
+    }
+
+    .custom-icon svg {
+      /* Estilos específicos del icono SVG dentro del contenedor */
+      width: 100%; /* Ancho del SVG al 100% del contenedor */
+      height: 100%; /* Alto del SVG al 100% del contenedor */
+      fill: currentColor; /* Relleno del SVG usando el color del contenedor */
+    }
+
+
+
+
+
+    </style>
+  </head>
+  <body id="page-top">
+    <!-- Team-->
+    <section class="page-section bg-light" id="team">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Research team</h2>
+            </div>
+            <div class="row">
+              <div class="col-lg-4"></div>
+              <div class="col-lg-4">
+                  <div class="team-member">
+                      <img class="mx-auto rounded-circle" src="Mauricio_Zambrano.jpg" alt="..." />
+                      <h4>PhD. Mauricio Zambrano Bigiarini</h4>
+                      <p class="text-muted">Civil Engineer - PhD. in Environmental Engineering, UniTrento</p>
+                      <p class="text-muted">Dir. UFRO's Kimün-Ko Water Resources Observatory</p>                      
+                      <p class="text-muted">mauricio.zambrano@ufrontera.cl</p>
+                      <a class="btn btn-social mx-2" href="https://orcid.org/0000-0002-9536-643X" aria-label="ORCID Profile" target="_blank"><i class="fa-brands fa-orcid" style="color: #a6ce39; font-size: 42px;"></i></a>
+                      <a class="btn btn-social mx-2" href="https://scholar.google.com/citations?user=D1ups5sAAAAJ&hl=en&oi=ao" aria-label="Google Scholar Profile" target="_blank">
+                        <i class="custom-icon" style="color: #007bb5; font-size: 42px;">
+                          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0,0,256,256">
+                            <g transform="translate(-25.6,-25.6) scale(1.2,1.2)">
+                              <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+                                <g transform="scale(5.33333,5.33333)">
+                                  <path d="M24,4c-11.046,0 -20,8.954 -20,20c0,11.046 8.954,20 20,20c11.046,0 20,-8.954 20,-20c0,-11.046 -8.954,-20 -20,-20z" fill="#1e88e5"></path>
+                                  <path d="M35,16.592v-3.878l2,-1.714h-10l0.917,1.833c-1.236,0 -2.265,0 -2.265,0c0,0 -6.557,0.167 -6.557,5.915c0,5.752 5.732,5.088 5.732,5.088c0,0 0,0.865 0,1.453c0,0.594 0.77,0.391 0.864,1.583c-0.388,0 -7.964,-0.208 -7.964,4.998c0,5.206 6.679,4.959 6.679,4.959c0,0 7.722,0.365 7.722,-6.104c0,-3.871 -4.405,-5.121 -4.405,-6.686c0,-1.563 3.319,-2.012 3.319,-5.684c0,-0.823 -0.028,-1.524 -0.149,-2.12l3.107,-2.664v3.02c-0.581,0.207 -1,0.756 -1,1.408v4.5c0,0.829 0.672,1.5 1.5,1.5c0.828,0 1.5,-0.671 1.5,-1.5v-4.499c0,-0.652 -0.419,-1.201 -1,-1.408zM30.047,31.169c0.131,2.024 -1.929,3.811 -4.603,3.998c-2.671,0.188 -4.946,-1.295 -5.077,-3.316c-0.133,-2.016 1.927,-3.805 4.6,-3.996c2.674,-0.188 4.947,1.297 5.08,3.314zM26.109,22.453c-1.592,0.451 -3.375,-1.062 -3.982,-3.367c-0.604,-2.312 0.195,-4.543 1.786,-4.992c1.593,-0.453 3.374,1.059 3.981,3.367c0.605,2.309 -0.192,4.543 -1.785,4.992z" fill="#1565c0"></path>
+                                  <path d="M34,16.592v-4.592c0,-0.051 -0.015,-0.097 -0.029,-0.143l1.029,-0.857h-14l-9,8h5.383c0.174,5.466 5.715,4.836 5.715,4.836c0,0 0,0.865 0,1.453c0,0.594 0.771,0.391 0.865,1.583c-0.388,0 -7.964,-0.208 -7.964,4.998c0,5.206 6.679,4.959 6.679,4.959c0,0 7.721,0.365 7.721,-6.104c0,-3.871 -4.404,-5.121 -4.404,-6.686c0,-1.563 3.318,-2.012 3.318,-5.684c0,-0.971 -0.047,-1.763 -0.232,-2.422l3.919,-3.266v3.925c-0.581,0.207 -1,0.756 -1,1.408v4.5c0,0.829 0.672,1.5 1.5,1.5c0.828,0 1.5,-0.671 1.5,-1.5v-4.5c0,-0.652 -0.419,-1.201 -1,-1.408zM28.319,31.169c0.131,2.024 -1.928,3.811 -4.602,3.998c-2.671,0.188 -4.946,-1.295 -5.077,-3.316c-0.133,-2.016 1.927,-3.805 4.599,-3.996c2.675,-0.188 4.948,1.297 5.08,3.314zM24.38,22.453c-1.591,0.451 -3.373,-1.062 -3.981,-3.367c-0.604,-2.312 0.194,-4.543 1.785,-4.992c1.593,-0.453 3.374,1.059 3.982,3.367c0.604,2.309 -0.193,4.543 -1.786,4.992z" fill="#e8eaf6"></path>
+                                </g>
+                              </g>
+                            </g>
+                          </svg>
+                        </i>
+                      </a>
+                      <a class="btn btn-social mx-2" href="https://www.webofscience.com/wos/author/record/C-7855-2012" aria-label="Web of Science Profile" target="_blank">
+                        <i class="custom-icon" style="color: #007bb5; font-size: 42px;">
+                          <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1420 1563" width="1420" height="1563">
+                            <title>logo (14)-svg</title>
+                            <style>
+                              .s0 { fill: #16ab03 } 
+                              .s1 { fill: #5e33bf } 
+                              .s2 { fill: #000000 } 
+                            </style>
+                            <g id="Layer">
+                              <g id="Layer">
+                                <path id="Layer" class="s0" d="m1224.2 781.4c79.4 95.7 145.3 203 195 318.8-214.2 223.1-490.1 386.3-800.4 462.4-31.4-41.8-60.5-85.5-86.8-131.1-36.7-63.5-67.3-129.3-92.5-196.5 313.7-53 589.7-218.5 784.7-453.6z"/>
+                                <path id="Layer" class="s1" d="m1419.2 462.6c-49.7 115.9-115.6 223.1-195 318.8-195-235.1-471.1-400.6-784.9-453.6 43.8-118.4 104-228.5 178.6-327.8 310.6 76 586.9 239.4 801.3 462.6z"/>
+                                <path id="Layer" class="s2" d="m222.2 1253.1c-53 0-105.1-3.2-156.4-9.4-89.4-306.8-86.1-627.5 0.2-924.6 51.2-6.2 103.3-9.4 156.2-9.4 73.9 0 146.4 6.2 217.1 18.1-14.1 38.1-26.7 77-37.3 116.7-71 264.8-56.9 538.8 37.5 790.5-70.7 11.9-143.3 18.1-217.3 18.1z"/>
+                              </g>
+                            </g>
+                          </svg>
+                        </i>
+                      </a>                     
+                      <a class="btn btn-dark btn-social mx-2" href="https://hzambran.github.io/" aria-label="Github Profile" target="_blank"><i class="fa-solid fa-link"></i></a>
+                      <a class="btn btn-social mx-2" href="https://www.linkedin.com/in/hzambran/" aria-label="LinkedIn Profile" target="_blank"><i class="fa-brands fa-linkedin" style="color: #007bb5; font-size: 42px;"></i></a>                    
+                  </div>
+              </div>
+              <div class="col-lg-4"></div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="Rebeca_Martinez.jpg" alt="..." />
+                        <h4>PhD. Rebeca Martínez Retureta</h4>
+                        <p class="text-muted">Geographer - PhD. in Environmental Sciences specializing in Continental Aquatic Systems, UdeC.</p>
+                        <p class="text-muted">Postdoctoral Researcher</p>
+                        <p class="text-muted">rebeca.martinez@ufrontera.cl</p>
+                        <a class="btn btn-social mx-2" href="https://orcid.org/0000-0003-3553-315X" aria-label="ORCID Profile" target="_blank"><i class="fa-brands fa-orcid" style="color: #a6ce39; font-size: 42px;"></i></a>
+                        <a class="btn btn-social mx-2" href="https://cl.linkedin.com/in/rebeca-mart%C3%ADnez-retureta-a29300141" aria-label="LinkedIn Profile" target="_blank"><i class="fa-brands fa-linkedin" style="color: #007bb5; font-size: 42px;"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                  <div class="team-member">
+                      <img class="mx-auto rounded-circle" src="Violeta_Tolorza.jpg" alt="..." />
+                      <h4>PhD. Violeta Tolorza Tolorza</h4>
+                      <p class="text-muted">Geologist - PhD. in Geosciences specializing in Geology, UChile. </p>
+                      <p class="text-muted">Postdoctoral Researcher</p>
+                      <p class="text-muted">violeta.tolorza@ufrontera.cl</p>
+                      <a class="btn btn-social mx-2" href="https://orcid.org/0000-0002-0281-4476" aria-label="ORCID Profile" target="_blank"><i class="fa-brands fa-orcid" style="color: #a6ce39; font-size: 42px;"></i></a>
+                      <a class="btn btn-social mx-2" href="https://cl.linkedin.com/in/violeta-tolorza-17256041" aria-label="LinkedIn Profile" target="_blank"><i class="fa-brands fa-linkedin" style="color: #007bb5; font-size: 42px;"></i></a>
+                  </div>
+              </div>
+              <div class="col-lg-4">
+                <div class="team-member">
+                    <img class="mx-auto rounded-circle" src="Fernando_Gimeno.jpg" alt="..." />
+                    <h4>PhD(c). Fernando Gimeno Molina</h4>
+                    <p class="text-muted">Geographer - MSc. in Environment and Nature, UChile. </p>
+                    <p class="text-muted">Doctoral Researcher</p>
+                    <p class="text-muted">f.gimeno01@ufromail.cl</p>
+                    <a class="btn btn-social mx-2" href="https://orcid.org/0000-0003-0723-5251" aria-label="ORCID Profile" target="_blank"><i class="fa-brands fa-orcid" style="color: #a6ce39; font-size: 42px;"></i></a>
+                    <a class="btn btn-social mx-2" href="https://cl.linkedin.com/in/fernando-gimeno-molina-23b08376" aria-label="LinkedIn Profile" target="_blank"><i class="fa-brands fa-linkedin" style="color: #007bb5; font-size: 42px;"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-1"></div>
+              <div class="col-lg-1"></div>
+              <div class="col-lg-4">
+                  <div class="team-member">
+                      <img class="mx-auto rounded-circle" src="Rodrigo_Marinao.jpg" alt="..." />
+                      <h4>Eng. Rodrigo Marinao Rivas</h4>
+                      <p class="text-muted">Civil Engineer - MSc. Student in Engineering Sciences, UFRO</p>
+                      <p class="text-muted">Research Assistant Fondecyt 1212071</p>
+                      <p class="text-muted">rodrigo.marinao@ufrontera.cl</p>
+                      <a class="btn btn-social mx-2" href="https://cl.linkedin.com/in/rmarinao" aria-label="LinkedIn Profile" target="_blank"><i class="fa-brands fa-linkedin" style="color: #007bb5; font-size: 42px;"></i></a>
+                  </div>
+              </div>
+              <div class="col-lg-4">
+                <div class="team-member">
+                    <img class="mx-auto rounded-circle" src="Marfa_Saldivia.jpg" alt="..." />
+                    <h4>BSc. Marfa Saldivia Mayorga</h4>
+                    <p class="text-muted">BSc. in Engineering Sciences - Civil Engineering Student, UFRO</p>
+                    <p class="text-muted">Research Assistant</p>
+                    <p class="text-muted">m.saldivia02@ufromail.cl</p>
+                    <a class="btn btn-social mx-2" href="#!" aria-label="LinkedIn Profile" target="_blank"><i class="fa-brands fa-linkedin" style="color: #007bb5; font-size: 42px;"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-1"></div>
+          </div>
+        </div>
+    </section>
+  </body>
+</html>
