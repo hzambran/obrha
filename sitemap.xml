@@ -155,6 +155,9 @@
 <loc>http://localhost:4000/Cauquenes-en/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/SSH_y_screen/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/Datos-en/</loc>
 </url>
 <url>
@@ -235,6 +238,9 @@
 <url>
 <loc>http://localhost:4000/terms/</loc>
 <lastmod>2016-06-06T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tutoriales/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
