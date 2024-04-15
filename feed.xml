@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-12T10:54:13-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Sistema frontal provoca fuertes precipitaciones en la región de La Araucanía y alerta por vientos en el sur de Chile</title><link href="http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania/" rel="alternate" type="text/html" title="Sistema frontal provoca fuertes precipitaciones en la región de La Araucanía y alerta por vientos en el sur de Chile" /><published>2024-04-02T20:30:00-03:00</published><updated>2024-04-02T20:30:00-03:00</updated><id>http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania</id><content type="html" xml:base="http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania/">&lt;p&gt;Un intenso sistema frontal afectó a la ciudad de Temuco el día martes 02 de abril, dejando importantes registros de precipitaciones y generando preocupación en el sur de Chile. Según datos del &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;, las precipitaciones acumuladas en las últimas 15 horas han superado los 40 mm en las localidades de Temuco, Villarrica y Pucón.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-15T15:42:10-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Instalación de anemómetro impulsa investigación de recursos hídricos en el Parque Nacional Conguillio</title><link href="http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada/" rel="alternate" type="text/html" title="Instalación de anemómetro impulsa investigación de recursos hídricos en el Parque Nacional Conguillio" /><published>2024-04-09T17:10:00-04:00</published><updated>2024-04-09T17:10:00-04:00</updated><id>http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada</id><content type="html" xml:base="http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada/">&lt;p&gt;El pasado martes 9 de abril, parte del equipo del Observatorio de
+Recursos Hídricos del Departamento de ing. en Obras Civiles (Kimün-Ko)
+de la Universidad de La Frontera realizó la instalación de un
+anemómetro en una estación meteorológica ubicada en el Parque Nacional
+Conguillio (sector Los Paraguas), específicamente cerca de la
+guardería Invernada.&lt;/p&gt;
+
+&lt;p&gt;La instalación de este anemómetro permitirá que la estación pueda
+registrar tanto la velocidad media horaria del viento, la velocidad de
+ráfaga (máxima velocidad instantánea), y la dirección del viento.
+Estos parámetros se suman a las mediciones ya existentes de
+precipitación, temperatura del aire, radiación solar, humedad relativa
+y punto de rocío, proporcionando datos esenciales para futuras
+investigaciones relacionadas a los recursos hídricos en la región. En
+particular, desde ahora será posible estimar la evapotranspiración de
+referencia, la cual da cuenta de la máxima cantidad de agua que un
+cultivo estándar es capaz de evaporar.&lt;/p&gt;
+
+&lt;p&gt;Es importante destacar que esta estación es una de las pocas ubicadas
+a una elevación cercana 1000 metros sobre el nivel del mar en la
+Región de La Araucanía. Además, esta estación transmite los datos en
+tiempo (casi) real, los cuales son posibles de visualizar en el
+siguiente link: https://dashboard.hobolink.com/public/invernada.&lt;/p&gt;
+
+&lt;p&gt;Este hito marcó el término de una gran jornada para el equipo de
+trabajo, el cual incluyó en esta oportunidad a la Dra. Rebeca
+Martínez, al Ing. Civil Rodrigo Marinao, a la estudiante de Ing. Civil
+Marfa Saldivia y al Dr. Mauricio Zambrano-Bigiarini. Durante la
+jornada también fue posible llevar a cabo otras actividades
+rutinarias, incluyendo realización de estimaciones de caudal en
+esteros (mediante aforos y balance másico) y mediciones de
+conductividad hidráulica del suelo.&lt;/p&gt;
+
+&lt;p&gt;Estos avances han sido posibles gracias al financiamiento
+proporcionado por los proyectos: ANID Fondecyt Regular 1212071,
+ANID-NSFC 190018, ANID Fondecyt Postdoctoral 11190864, UFRO Postdoc
+grant405VRIP20P001, and ANID Fondecyt Postdoctoral 3220382.&lt;/p&gt;
+
+&lt;p&gt;Para más información sobre el Observatorio de Recursos Hídricos de La Araucanía y sus proyectos de investigación, visite el sitio web https://kimunko.ufro.cl/.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+ &lt;img src=&quot;/assets/posts/2024-04-09/Anemometro.jpeg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
+ &lt;img src=&quot;/assets/posts/2024-04-09/estacion_invernada.jpeg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
+ &lt;img src=&quot;/assets/posts/2024-04-09/equipo_trabajo_2.jpeg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
+ &lt;img src=&quot;/assets/posts/2024-04-09/equipo_trabajo_1.jpeg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figura 1&lt;/strong&gt;. Instalación de anemómetro en la Estación meteorológica Invernada en el Parque Nacional Conguillio.&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="Araucania" /><category term="anemometro" /><category term="recursos-hidricos" /><category term="estacion-invernada" /><summary type="html">El pasado martes 9 de abril, parte del equipo del Observatorio de Recursos Hídricos del Departamento de ing. en Obras Civiles (Kimün-Ko) de la Universidad de La Frontera realizó la instalación de un anemómetro en una estación meteorológica ubicada en el Parque Nacional Conguillio (sector Los Paraguas), específicamente cerca de la guardería Invernada.</summary></entry><entry><title type="html">Contribuciones destacadas en la EGU 2024: Investigaciones clave sobre hidrología y suelos en Chile</title><link href="http://localhost:4000/curvas-idf/mapeos-suelos/swat/recursos-hidricos/egu-2024/Participacion_EGU_2024/" rel="alternate" type="text/html" title="Contribuciones destacadas en la EGU 2024: Investigaciones clave sobre hidrología y suelos en Chile" /><published>2024-04-09T17:10:00-04:00</published><updated>2024-04-09T17:10:00-04:00</updated><id>http://localhost:4000/curvas-idf/mapeos-suelos/swat/recursos-hidricos/egu-2024/Participacion_EGU_2024</id><content type="html" xml:base="http://localhost:4000/curvas-idf/mapeos-suelos/swat/recursos-hidricos/egu-2024/Participacion_EGU_2024/">&lt;p&gt;Durante la semana del 15 al 19 de abril de 2024 se presentarán dos
+trabajos del Doctor(c) Fernando Gimeno en la &lt;a href=&quot;https://www.egu24.eu/&quot;&gt;Conferencia de la Unión
+Europea de Geociencias (EGU 2024)&lt;/a&gt;, celebrada
+en la ciudad de Viena (Austria):&lt;/p&gt;
+
+&lt;p&gt;1) &lt;a href=&quot;https://zenodo.org/doi/10.5281/zenodo.10968549&quot;&gt;Curvas de Intensidad-Duración-Frecuencia (IDF) distribuidas
+espacialmente para Chile utilizando conjuntos de datos cuadriculados
+subdiarios&lt;/a&gt;. Este
+trabajo presenta el desarrollo de curvas de
+Intensidad-Duratina-Frecuencia (IDF) para el territorio chileno
+climática y topográficamente diverso (17-56ºS), utilizando enfoques
+tanto estacionarios como no estacionarios basados en tres conjuntos de
+datos cuadriculados de última generación ( IMERGv06B, ERA5,
+ERA5-Tierra). Esta colaboración sólo fue posible gracias al
+financiamiento proporcionado por ANID-Fondecyt Regular 1212071,
+ANID-PCI NSFC 190018 y ANID-Fondecyt Iniciación 111908064.&lt;/p&gt;
+
+&lt;p&gt;2) &lt;a href=&quot;https://doi.org/10.5194/egusphere-egu24-12291&quot;&gt;Evaluación de métodos de mapeo de suelos para el modelo
+hidrológico SWAT mediante calibración
+multiobjetivo&lt;/a&gt;. Este
+trabajo aborda la necesidad apremiante de datos de entrada de suelo
+sólidos para el modelo hidrológico SWAT+, mediante la evaluación del
+desempeño de cuatro mapas de tipos de suelo diferentes en la
+representación de caudales y datos de humedad del suelo en los
+Cauquenes mediterráneos en la cuenca del río Desembocadura. Este
+trabajo sólo fue posible gracias al financiamiento proporcionado por
+ANID-Fondecyt Regular 1212071, ANID-PCI NSFC 190018.&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="Curvas-IDF" /><category term="mapeos-suelos" /><category term="SWAT" /><category term="recursos-hidricos" /><category term="egu-2024" /><summary type="html">Durante la semana del 15 al 19 de abril de 2024 se presentarán dos trabajos del Doctor(c) Fernando Gimeno en la Conferencia de la Unión Europea de Geociencias (EGU 2024), celebrada en la ciudad de Viena (Austria):</summary></entry><entry><title type="html">Sistema frontal provoca fuertes precipitaciones en la región de La Araucanía y alerta por vientos en el sur de Chile</title><link href="http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania/" rel="alternate" type="text/html" title="Sistema frontal provoca fuertes precipitaciones en la región de La Araucanía y alerta por vientos en el sur de Chile" /><published>2024-04-02T20:30:00-03:00</published><updated>2024-04-02T20:30:00-03:00</updated><id>http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania</id><content type="html" xml:base="http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania/">&lt;p&gt;Un intenso sistema frontal afectó a la ciudad de Temuco el día martes 02 de abril, dejando importantes registros de precipitaciones y generando preocupación en el sur de Chile. Según datos del &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;, las precipitaciones acumuladas en las últimas 15 horas han superado los 40 mm en las localidades de Temuco, Villarrica y Pucón.&lt;/p&gt;
 
 &lt;p&gt;El &lt;a href=&quot;https://www.senapred.cl/informate/evento/monitoreo-por-evento-meteorologico-en-las-regiones-de-la-araucania--los-rios-y-los-lagos&quot;&gt;Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred)&lt;/a&gt; emitió una alerta temprana preventiva para tres regiones del sur del país debido a un pronóstico de vientos. Las regiones afectadas, La Araucanía, Los Ríos y Los Lagos, se preparan para enfrentar vientos que podrían alcanzar entre los 40 y 95 kilómetros por hora (km/h).&lt;/p&gt;
 
@@ -689,69 +762,4 @@ La situación de los embalses en Chile, especialmente en la Región de Coquimbo,
 
 &lt;p&gt;[2] &lt;a href=&quot;https://www.larazon.es/el-tiempo/llega-mas-crudo-invierno-aemet-pone-alerta-toda-espana-lluvia-viento-nieve-aludes_2024022765dd8cc9344c980001c28d43.html&quot;&gt;Llega lo más crudo del invierno: la AEMET pone en alerta a casi toda España por lluvia, viento, nieve y aludes &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[3] &lt;a href=&quot;https://www.tiempo.com/noticias/prediccion/el-tiempo-en-espana-esta-semana-el-invierno-mas-crudo-llega-ahora-con-varios-envites-de-aire-polar-lluvias-y-nieve.html&quot;&gt;El tiempo en España esta semana: el invierno más crudo llega ahora, con varios envites de aire polar, lluvias y nieve&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="cambio-climatico" /><category term="invierno" /><category term="tormentas" /><category term="nevadas" /><summary type="html">El invierno en España se despide con un golpe de fuerza, trayendo consigo nevadas excepcionales y fuertes tormentas que han puesto en alerta a gran parte del país. A medida que marzo se acerca, las condiciones invernales persisten, desafiando las expectativas de transición a la primavera.</summary></entry><entry><title type="html">Catástrofes climáticas golpean a Chile y California: incendios mortales e inundaciones históricas</title><link href="http://localhost:4000/temperaturas-extremas/inundaciones/cambio-climatico/catastrofes-climaticas/Catastrofes_climaticas_en_Chile_y_California/" rel="alternate" type="text/html" title="Catástrofes climáticas golpean a Chile y California: incendios mortales e inundaciones históricas" /><published>2024-02-07T16:20:00-03:00</published><updated>2024-02-07T16:20:00-03:00</updated><id>http://localhost:4000/temperaturas-extremas/inundaciones/cambio-climatico/catastrofes-climaticas/Catastrofes_climaticas_en_Chile_y_California</id><content type="html" xml:base="http://localhost:4000/temperaturas-extremas/inundaciones/cambio-climatico/catastrofes-climaticas/Catastrofes_climaticas_en_Chile_y_California/">&lt;p&gt;Chile y California están enfrentando consecuencias mortales debido a fenómenos climáticos extremos. Mientras que Chile se ve afectado por devastadores incendios forestales que han dejado más de 120 muertos, California enfrenta inundaciones históricas con miles de evacuados. Tanto el cambio climático como el fenómeno de El Niño están exacerbando estas situaciones, demostrando el riesgo de los climas extremos en todo el mundo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Impacto mortal en Chile y California:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Chile ha sufrido incendios forestales mortales, causados por una combinación de sequías persistentes, altas temperaturas y fuertes vientos, dejando más de 120 muertos. Por otro lado, California enfrenta inundaciones históricas con deslizamientos de tierra, afectando a miles de personas y causando daños significativos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Causas principales:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Tanto el cambio climático como el fenómeno de El Niño están exacerbando estas catástrofes. El calentamiento global ha intensificado sequías y olas de calor, mientras que El Niño ha contribuido a condiciones climáticas extremas, como el río atmosférico que ha generado fuertes lluvias en California.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Preocupaciones y advertencias:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Expertos advierten sobre la necesidad de prepararse para eventos climáticos extremos, ya que el cambio climático y El Niño pueden aumentar su frecuencia e intensidad en el futuro. Se necesitan medidas de adaptación y mitigación para proteger a las poblaciones vulnerables y reducir los riesgos asociados con estos fenómenos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Impacto en la salud y medidas de prevención:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Las altas temperaturas representan un riesgo para la salud, especialmente para grupos vulnerables. Se insta a implementar sistemas de alerta temprana y desarrollar planes de acción contra el calor para proteger a las comunidades y reducir la vulnerabilidad ante eventos climáticos extremos.&lt;/p&gt;
-
-&lt;iframe width=&quot;911&quot; height=&quot;512&quot; src=&quot;https://www.youtube.com/embed/VOQeISM7mSo&quot; title=&quot;Cerca de 40 millones de personas bajo vigilancia por inundaciones en California | Noticias Telemundo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; 
-  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Para mayor información, puede visitar:&lt;/p&gt;
-
-&lt;p&gt;[1] &lt;a href=&quot;https://cnnespanol.cnn.com/2024/02/06/mas-de-medio-millon-de-personas-sin-electricidad-rio-atmosferico-california-trax/&quot;&gt;Más de 35 millones de personas están bajo amenaza de inundaciones en el sur de California y se esperan más lluvias este martes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2] &lt;a href=&quot;https://www.infobae.com/america/the-new-york-times/2024/02/06/el-nino-y-el-cambio-climatico-son-el-comun-denominador-de-los-incendios-de-chile-y-las-inundaciones-de-california/&quot;&gt;El Niño y el cambio climático son la causa de los incendios de Chile y las inundaciones de California&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[3] &lt;a href=&quot;https://www.tiempo.com/ram/el-nino-altas-temperaturas-incendios-forestales-mortiferos-chile.html&quot;&gt;El Niño, altas temperaturas y los incendios forestales mortíferos en Chile&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[4] &lt;a href=&quot;https://imagenagropecuaria.com/2024/incendios-forestales-en-chile-se-producen-en-plena-ola-de-calor-en-sudamerica/&quot;&gt;Incendios forestales en Chile se producen en plena ola de calor en Sudamérica &lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="temperaturas-extremas" /><category term="inundaciones" /><category term="cambio-climatico" /><category term="catastrofes-climaticas" /><summary type="html">Chile y California están enfrentando consecuencias mortales debido a fenómenos climáticos extremos. Mientras que Chile se ve afectado por devastadores incendios forestales que han dejado más de 120 muertos, California enfrenta inundaciones históricas con miles de evacuados. Tanto el cambio climático como el fenómeno de El Niño están exacerbando estas situaciones, demostrando el riesgo de los climas extremos en todo el mundo.</summary></entry><entry><title type="html">Ola de calor azota Sudamérica: Altas temperaturas y riesgos climáticos</title><link href="http://localhost:4000/temperaturas-extremas/cambio-climatico/Ola_de_calor_Sudamerica/" rel="alternate" type="text/html" title="Ola de calor azota Sudamérica: Altas temperaturas y riesgos climáticos" /><published>2024-02-02T13:15:00-03:00</published><updated>2024-02-02T13:15:00-03:00</updated><id>http://localhost:4000/temperaturas-extremas/cambio-climatico/Ola_de_calor_Sudamerica</id><content type="html" xml:base="http://localhost:4000/temperaturas-extremas/cambio-climatico/Ola_de_calor_Sudamerica/">&lt;p&gt;Sudamérica se enfrenta a una ola de calor sin precedentes que ha generado altas temperaturas y preocupaciones por fenómenos climáticos extremos. Expertos atribuyen este fenómeno a factores como El Niño y patrones climáticos adversos, desencadenando incendios forestales y amenazando la salud pública en varios países.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Causas de las altas temperaturas:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Especialistas señalan que el fenómeno de El Niño es uno de los principales responsables de las altas temperaturas en Sudamérica.&lt;/li&gt;
-  &lt;li&gt;Según registros, Chile ha experimentado su temperatura más alta en 112 años, alcanzando los 36,7 °C, mientras que Argentina también se ve afectada.&lt;/li&gt;
-  &lt;li&gt;Meteorólogos explican que un anticiclón ubicado entre la costa de Buenos Aires y Uruguay ha contribuido al aumento de la temperatura en Argentina.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Consecuencias de la ola de calor:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aparte del malestar generalizado, la salud de la población está en riesgo debido a las altas temperaturas, especialmente en áreas como la Patagonia argentina, donde se han registrado temperaturas de hasta 43,9 °C.&lt;/li&gt;
-  &lt;li&gt;Los incendios forestales han devastado miles de hectáreas en países como Colombia, donde 28.000 hectáreas han sido afectadas en lo que va del año.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Impacto regional y medidas de precaución:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;La ola de calor ha afectado a varios países de la región, incluyendo Argentina, Chile, Uruguay, Paraguay y Brasil, con temperaturas que podrían superar los 40 °C.&lt;/li&gt;
-  &lt;li&gt;Se han emitido alertas por salud pública y se insta a la población a tomar precauciones, como evitar la exposición prolongada al sol y mantenerse hidratados.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;La ola de calor en Sudamérica está generando preocupaciones por la salud pública y el medio ambiente, destacando la urgencia de abordar los desafíos del cambio climático. Las autoridades y la población deben tomar medidas para mitigar los impactos adversos de este fenómeno y prepararse para enfrentar condiciones climáticas extremas en el futuro.&lt;/p&gt;
-
-&lt;iframe width=&quot;911&quot; height=&quot;512&quot; src=&quot;https://www.youtube.com/embed/HVJl7b0GZBc&quot; title=&quot;Ola de calor en Sudamérica, las razones y claves de las altas temperaturas - #DNEWS&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; 
-  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Para mayor información, puede visitar:&lt;/p&gt;
-
-&lt;p&gt;[1] &lt;a href=&quot;https://elpais.com/america-futura/2024-02-01/olas-de-calor-en-chile-y-argentina-e-incendios-en-colombia-que-pasa-en-sudamerica.html&quot;&gt;Olas de calor en Chile y Argentina e incendios en Colombia: ¿qué pasa en Sudamérica?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2] &lt;a href=&quot;https://larepublica.pe/mundo/2024/02/01/ola-de-calor-en-sudamerica-cuales-son-las-razones-de-las-altas-temperaturas-en-el-continente-argentina-chile-colombia-incendios-forestales-31062&quot;&gt;Ola de calor en Sudamérica: sensaciones térmicas en el continente llegaron a los 60°C&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[3] &lt;a href=&quot;https://www.biobiochile.cl/noticias/internacional/america-latina/2024/02/03/ola-de-calor-extremo-agobia-a-argentina-chile-uruguay-paraguay-y-brasil-con-hasta-48oc.shtml&quot;&gt;Ola de calor extremo agobia a Argentina, Chile, Uruguay, Paraguay y Brasil con hasta 48ºC &lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="temperaturas-extremas" /><category term="cambio-climatico" /><summary type="html">Sudamérica se enfrenta a una ola de calor sin precedentes que ha generado altas temperaturas y preocupaciones por fenómenos climáticos extremos. Expertos atribuyen este fenómeno a factores como El Niño y patrones climáticos adversos, desencadenando incendios forestales y amenazando la salud pública en varios países.</summary></entry></feed>
+&lt;p&gt;[3] &lt;a href=&quot;https://www.tiempo.com/noticias/prediccion/el-tiempo-en-espana-esta-semana-el-invierno-mas-crudo-llega-ahora-con-varios-envites-de-aire-polar-lluvias-y-nieve.html&quot;&gt;El tiempo en España esta semana: el invierno más crudo llega ahora, con varios envites de aire polar, lluvias y nieve&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="cambio-climatico" /><category term="invierno" /><category term="tormentas" /><category term="nevadas" /><summary type="html">El invierno en España se despide con un golpe de fuerza, trayendo consigo nevadas excepcionales y fuertes tormentas que han puesto en alerta a gran parte del país. A medida que marzo se acerca, las condiciones invernales persisten, desafiando las expectativas de transición a la primavera.</summary></entry></feed>
