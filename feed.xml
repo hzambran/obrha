@@ -1,4 +1,469 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-15T15:49:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Instalación de anemómetro impulsa investigación de recursos hídricos en el Parque Nacional Conguillio</title><link href="http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada/" rel="alternate" type="text/html" title="Instalación de anemómetro impulsa investigación de recursos hídricos en el Parque Nacional Conguillio" /><published>2024-04-09T17:10:00-04:00</published><updated>2024-04-09T17:10:00-04:00</updated><id>http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada</id><content type="html" xml:base="http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada/">&lt;p&gt;El pasado martes 9 de abril, parte del equipo del Observatorio de
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-18T15:23:27-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Nuevo sistema frontal provoca fuertes precipitaciones en la región de La Araucanía</title><link href="http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania/" rel="alternate" type="text/html" title="Nuevo sistema frontal provoca fuertes precipitaciones en la región de La Araucanía" /><published>2024-04-17T13:10:00-04:00</published><updated>2024-04-17T13:10:00-04:00</updated><id>http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania</id><content type="html" xml:base="http://localhost:4000/lluvias/viento/sistema-frontal/sistema_frontal_Araucania/">&lt;p&gt;Un nuevo sistema frontal impactó a la ciudad de Temuco el martes 16 de abril, dejando importantes registros de precipitaciones y suscitando preocupación en el sur de Chile. Según datos del &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;, las lluvias acumuladas en las últimas 24 horas alcanzaron hasta los 25 mm en Temuco y otras localidades de la región, con cifras superiores a los 30 mm en Lautaro.&lt;/p&gt;
+
+&lt;p&gt;Aunque las condiciones climáticas han mejorado esta madrugada, la &lt;a href=&quot;https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml&quot;&gt;Dirección Meteorológica de Chile (DMC)&lt;/a&gt; no emitió una alerta meteorológica para la región.&lt;/p&gt;
+
+&lt;p&gt;Se sugiere a la población mantenerse informada sobre la evolución del sistema frontal y tomar las precauciones necesarias para salvaguardar su seguridad y bienestar.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/assets/posts/2024-04-17/lluvias_Araucania.jpg&quot; alt=&quot;Precipitación acumulada en la Región de La Araucanía de Chile&quot; style=&quot;float: center; margin-right: 10px;&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figura 1&lt;/strong&gt;. Precipitación acumulada en la región de La Araucanía. Fuente: Elaboración propia en base de datos obtenidos en VisMet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tabla 1&lt;/strong&gt;. Precipitación acumulada en las estaciones pluviométricas de la región de La Araucanía el 17/04/2024. Fuente: Elaboración propia en base de datos obtenidos en la &lt;a href=&quot;https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml&quot;&gt;Dirección Meteorológica de Chile (DMC)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-lku7{background-color:#00d2cb;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-96sx{background-color:#00d2cb;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-noe9{background-color:#00d2cb;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+&lt;/style&gt;
+&lt;table class=&quot;tg&quot; style=&quot;undefined;table-layout: fixed; width: 776px&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 82.88333px&quot; /&gt;
+&lt;col style=&quot;width: 181.88333px&quot; /&gt;
+&lt;col style=&quot;width: 102.88333px&quot; /&gt;
+&lt;col style=&quot;width: 121.88333px&quot; /&gt;
+&lt;col style=&quot;width: 119.88333px&quot; /&gt;
+&lt;col style=&quot;width: 166.88333px&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th class=&quot;tg-lku7&quot; colspan=&quot;5&quot;&gt;Estaciones&lt;/th&gt;
+    &lt;th class=&quot;tg-96sx&quot;&gt; Agua Caída 02/04 (mm)&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-noe9&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;Código      &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-noe9&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;Nombre      &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-noe9&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;Provincia   &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-noe9&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;Comuna      &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-noe9&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;Propietario&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-noe9&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;Diaria acumulada&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;370061&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Manzanares &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Renaico &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;0,7&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;370067&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Angol, Húsares &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Angol &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;DMC&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;0,2&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;370073&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Renaico &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Renaico &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;1,0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;370075&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;El Vergel  &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Angol &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;0,3&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380009&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Carillanca&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Vilcún &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;9,7&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380013&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Maquehue, Temuco Ad. &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Temuco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;DMC&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;13,6&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380029&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;La Araucanía Ad. &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Temuco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;DMC&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;8,0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380033&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Maquehue-UFRO &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Temuco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;DMC&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;20,1&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380034&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;La Isla &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Purén &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;2,4&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380035&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Surco y Semilla &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Collipulli &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;9,7&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380041&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Las Palmas &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Victoria &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;8,9&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380043&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;La Providencia &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Traiguén &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;15,1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380046&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;San Fabián &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Galvarino &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;9,4&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380049&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Sta. Ines &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Lautaro &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;24,8&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380051&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Quiripio &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Carahue &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;2,1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380052&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Perales &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cholchol &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;7,2&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380054&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Tranapuente &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Carahue &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;4,2&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380056&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Marimenuco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Lonquimay &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;1,8&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380057&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Sta. Adela &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Nueva Imperial &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;5,4&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380059&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;El Membrillo &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Melipeuco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;4,9&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380061&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Domínguez &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Saavedra &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;4,4&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380062&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;C. Llollinco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Teodoro Schmidt &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;3,1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380063&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Victoria (Reg.) &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Victoria &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;DMC&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;5,2&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380064&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Collipulli &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Collipulli &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;6,0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380065&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Traiguén &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Traiguén &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;19,0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380066&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Traiguén, Galvarino &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Galvarino &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;9,2&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380067&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Nueva Imperial (FDF) &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Nueva Imperial &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;0&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380068&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Freire, Los Quilantos &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Freire &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380070&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Teodoro Schmidt, Pocoyan &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Teodoro Schmidt &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;6,8&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380071&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Freire, Allipén &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Freire &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380072&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;San Rafael &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Los Sauces &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;7,5&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380073&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Gaby Ranquilco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Lumaco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;3,6&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380074&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Pailahueque &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Malleco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Ercilla &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;8,6&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380075&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;San Sebastián &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Perquenco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;21,0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380076&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Collimallin &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Temuco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;7,6&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380077&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Taplón &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Padre Las Casas &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;12,2&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380078&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;El Quincho &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cunco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;16,3&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;380079&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Radal &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Freire &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;15,2&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390028&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Villarrica &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Villarrica &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;DMC&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;10,9&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390034&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cuarta Faja &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Gorbea &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;8,1&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390035&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Huiscapi &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Villarrica &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;11,9&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390036&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Puala &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Curarrehue &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;1,8&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390044&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cunco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cunco &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;12,4&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390045&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Gorbea (FDF) &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Gorbea &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;7,4&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390047&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Loncoche &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Loncoche &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;0&lt;/span&gt;,9&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390048&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Villarrica, Vida Nueva &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Villarrica &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;FDF&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;10,2&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390051&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Faja Maisán &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Pitrufquén &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;7,0&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390052&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Los Arrayanes &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Toltén &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;2,2&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390053&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;San Enrique &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Pucón &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;18,5&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390054&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;La Paz &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Loncoche &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;INIA&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;1,1&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;390056&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Pucón Aeródromo &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Cautín &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;Pucón &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lboi&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;DMC&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-9wq8&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;9,2&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Los datos de precipitaciones acumuladas a nivel nacional para un máximo de 72 horas de datos horarios están disponibles en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El boletín pluviométrico diario regional está disponible en &lt;a href=&quot;https://climatologia.meteochile.gob.cl/application/requerimiento/producto/RE5015&quot;&gt;Dirección Meteorológica de Chile (DMC)&lt;/a&gt;.&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="lluvias" /><category term="viento" /><category term="sistema-frontal" /><summary type="html">Un nuevo sistema frontal impactó a la ciudad de Temuco el martes 16 de abril, dejando importantes registros de precipitaciones y suscitando preocupación en el sur de Chile. Según datos del Visualizador Meteorológico (VisMet), las lluvias acumuladas en las últimas 24 horas alcanzaron hasta los 25 mm en Temuco y otras localidades de la región, con cifras superiores a los 30 mm en Lautaro.</summary></entry><entry><title type="html">Instalación de anemómetro impulsa investigación de recursos hídricos en el Parque Nacional Conguillio</title><link href="http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada/" rel="alternate" type="text/html" title="Instalación de anemómetro impulsa investigación de recursos hídricos en el Parque Nacional Conguillio" /><published>2024-04-09T17:10:00-04:00</published><updated>2024-04-09T17:10:00-04:00</updated><id>http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada</id><content type="html" xml:base="http://localhost:4000/araucania/anemometro/recursos-hidricos/estacion-invernada/Anemometro_Est_Invernada/">&lt;p&gt;El pasado martes 9 de abril, parte del equipo del Observatorio de
 Recursos Hídricos del Departamento de ing. en Obras Civiles (Kimün-Ko)
 de la Universidad de La Frontera realizó la instalación de un
 anemómetro en una estación meteorológica ubicada en el Parque Nacional
@@ -50,17 +515,16 @@ trabajos del Doctor(c) Fernando Gimeno en la &lt;a href=&quot;https://www.egu24.
 Europea de Geociencias (EGU 2024)&lt;/a&gt;, celebrada
 en la ciudad de Viena (Austria):&lt;/p&gt;
 
-&lt;p&gt;1) &lt;a href=&quot;https://zenodo.org/doi/10.5281/zenodo.10968549&quot;&gt;Curvas de Intensidad-Duración-Frecuencia (IDF) distribuidas
-espacialmente para Chile utilizando conjuntos de datos cuadriculados
-subdiarios&lt;/a&gt;. Este
-trabajo presenta el desarrollo de curvas de
-Intensidad-Duratina-Frecuencia (IDF) para el territorio chileno
-climática y topográficamente diverso (17-56ºS), utilizando enfoques
-tanto estacionarios como no estacionarios basados en tres conjuntos de
-datos cuadriculados de última generación ( IMERGv06B, ERA5,
-ERA5-Tierra). Esta colaboración sólo fue posible gracias al
-financiamiento proporcionado por ANID-Fondecyt Regular 1212071,
-ANID-PCI NSFC 190018 y ANID-Fondecyt Iniciación 111908064.&lt;/p&gt;
+&lt;p&gt;1) Curvas de Intensidad-Duración-Frecuencia (IDF) espacialmente
+distribuidas para Chile utilizando conjuntos de datos grillados
+subdiarios. Este trabajo presenta el desarrollo de curvas de
+Intensidad-Duración-Frecuencia (IDF) para el territorio climática y
+topográficamente diverso de Chile (17-56ºS), utilizando enfoques tanto
+estacionarios como no estacionarios basados en tres conjuntos de datos
+grillados de última generación ( IMERGv06B, ERA5, ERA5-Land). Esta
+colaboración sólo fue posible gracias al financiamiento proporcionado
+por ANID-Fondecyt Regular 1212071, ANID-PCI NSFC 190018 y
+ANID-Fondecyt Iniciación 111908064.&lt;/p&gt;
 
 &lt;p&gt;2) &lt;a href=&quot;https://doi.org/10.5194/egusphere-egu24-12291&quot;&gt;Evaluación de métodos de mapeo de suelos para el modelo
 hidrológico SWAT mediante calibración
@@ -725,41 +1189,4 @@ La situación de los embalses en Chile, especialmente en la Región de Coquimbo,
 
 &lt;p&gt;[1] &lt;a href=&quot;https://www.meteored.cl/noticias/actualidad/embalses-en-chile-registran-un-45-mas-de-agua-que-el-ano-pasado-sin-embargo-aun-hay-algunos-en-estado-critico.html&quot;&gt;Embalses en Chile registran un 45% más de agua que el año pasado, sin embargo, aún hay algunos en estado crítico&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[2] &lt;a href=&quot;https://www.meteored.cl/noticias/actualidad/la-region-de-coquimbo-se-encuentra-al-borde-del-limite-critico-por-escasez-de-agua-megasequia-chile.html&quot;&gt;Megasequía en Chile: la Región de Coquimbo se encuentra al borde del límite crítico por escasez de agua&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="cambio-climatico" /><category term="crisis-hidrica" /><summary type="html">¿Cuál es el estado actual de los embalses en Chile? Según la DGA, los embalses en Chile han experimentado un aumento del 45% en el volumen de agua almacenada en comparación con el año anterior, aunque algunos aún están en situación crítica.</summary></entry><entry><title type="html">España se enfrenta a un duro final de invierno con nevadas históricas y fuertes tormentas</title><link href="http://localhost:4000/cambio-climatico/invierno/tormentas/nevadas/El_invierno_persiste_en_Espana/" rel="alternate" type="text/html" title="España se enfrenta a un duro final de invierno con nevadas históricas y fuertes tormentas" /><published>2024-02-27T13:20:00-03:00</published><updated>2024-02-27T13:20:00-03:00</updated><id>http://localhost:4000/cambio-climatico/invierno/tormentas/nevadas/El_invierno_persiste_en_Espana</id><content type="html" xml:base="http://localhost:4000/cambio-climatico/invierno/tormentas/nevadas/El_invierno_persiste_en_Espana/">&lt;p&gt;El invierno en España se despide con un golpe de fuerza, trayendo consigo nevadas excepcionales y fuertes tormentas que han puesto en alerta a gran parte del país. A medida que marzo se acerca, las condiciones invernales persisten, desafiando las expectativas de transición a la primavera.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;¿Qué impacto tienen las nevadas históricas en el norte de España?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Durante la última semana de febrero y los primeros días de marzo, el país ha sido golpeado por una serie de tormentas invernales, con acumulaciones de nieve que podrían superar el metro de altura en algunas áreas del norte.&lt;/li&gt;
-  &lt;li&gt;Las regiones del norte, especialmente en el Cantábrico y los Pirineos, han experimentado intensas nevadas y vientos fuertes, causando preocupación por posibles aludes y condiciones peligrosas en las carreteras.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;¿Por qué se han emitido alertas meteorológicas en toda España?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;La Agencia Estatal de Meteorología (AEMET) ha emitido alertas naranja y amarilla en diez comunidades autónomas debido a la combinación de nieve, lluvia, viento y oleaje.&lt;/li&gt;
-  &lt;li&gt;Desde Aragón hasta Castilla y León, pasando por Cataluña y Cantabria, se han activado alertas por la acumulación de nieve, fuertes rachas de viento y bajas temperaturas que podrían afectar a vastas áreas del país.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;¿Cuáles son las perspectivas para el clima en España a corto plazo y en marzo?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Se espera que las condiciones invernales persistan durante los últimos días de febrero, con precipitaciones en el norte y nordeste peninsular, así como en las Islas Baleares y Canarias.&lt;/li&gt;
-  &lt;li&gt;Aunque se prevé un aumento temporal de las temperaturas a mediados de la semana, las predicciones apuntan a que marzo traerá consigo un retorno del frío y las precipitaciones en gran parte del territorio español.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Conclusión:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El inusual clima invernal que enfrenta España en su transición a la primavera plantea preguntas sobre la duración y la intensidad del invierno en el país. A medida que se enfrenta a nevadas históricas y alertas meteorológicas extendidas, la nación se prepara para un final de invierno desafiante y una entrada en la primavera que podría no ser tan suave como se esperaba.&lt;/p&gt;
-
-&lt;iframe width=&quot;911&quot; height=&quot;512&quot; src=&quot;https://www.youtube.com/embed/rmmIBcwlsWU&quot; title=&quot;BORRASCA LOUIS: DIEZ comunidades en ALERTA NARANJA por fuerte VIENTO, LLUVIAS y NEVADAS | RTVE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; 
-  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Para mayor información, puede visitar:&lt;/p&gt;
-
-&lt;p&gt;[1] &lt;a href=&quot;https://www.tiempo.com/ram/tiempo-invernal-nevadas-acumulaciones-metro.html&quot;&gt;El tiempo invernal en gran parte de España con nevadas en el norte que podrían acumular hasta más de un metro de espesor&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2] &lt;a href=&quot;https://www.larazon.es/el-tiempo/llega-mas-crudo-invierno-aemet-pone-alerta-toda-espana-lluvia-viento-nieve-aludes_2024022765dd8cc9344c980001c28d43.html&quot;&gt;Llega lo más crudo del invierno: la AEMET pone en alerta a casi toda España por lluvia, viento, nieve y aludes &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[3] &lt;a href=&quot;https://www.tiempo.com/noticias/prediccion/el-tiempo-en-espana-esta-semana-el-invierno-mas-crudo-llega-ahora-con-varios-envites-de-aire-polar-lluvias-y-nieve.html&quot;&gt;El tiempo en España esta semana: el invierno más crudo llega ahora, con varios envites de aire polar, lluvias y nieve&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="cambio-climatico" /><category term="invierno" /><category term="tormentas" /><category term="nevadas" /><summary type="html">El invierno en España se despide con un golpe de fuerza, trayendo consigo nevadas excepcionales y fuertes tormentas que han puesto en alerta a gran parte del país. A medida que marzo se acerca, las condiciones invernales persisten, desafiando las expectativas de transición a la primavera.</summary></entry></feed>
+&lt;p&gt;[2] &lt;a href=&quot;https://www.meteored.cl/noticias/actualidad/la-region-de-coquimbo-se-encuentra-al-borde-del-limite-critico-por-escasez-de-agua-megasequia-chile.html&quot;&gt;Megasequía en Chile: la Región de Coquimbo se encuentra al borde del límite crítico por escasez de agua&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="cambio-climatico" /><category term="crisis-hidrica" /><summary type="html">¿Cuál es el estado actual de los embalses en Chile? Según la DGA, los embalses en Chile han experimentado un aumento del 45% en el volumen de agua almacenada en comparación con el año anterior, aunque algunos aún están en situación crítica.</summary></entry></feed>
