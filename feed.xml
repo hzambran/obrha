@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://kimunko.ufro.cl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kimunko.ufro.cl/" rel="alternate" type="text/html" /><updated>2024-07-09T06:12:40-04:00</updated><id>https://kimunko.ufro.cl/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Alerta por amenaza de desborde en La Araucanía</title><link href="https://kimunko.ufro.cl/intensas-lluvias/Alerta_desbordes_Araucania_Los_Rios/" rel="alternate" type="text/html" title="Alerta por amenaza de desborde en La Araucanía" /><published>2024-06-27T15:10:00-04:00</published><updated>2024-06-27T15:10:00-04:00</updated><id>https://kimunko.ufro.cl/intensas-lluvias/Alerta_desbordes_Araucania_Los_Rios</id><content type="html" xml:base="https://kimunko.ufro.cl/intensas-lluvias/Alerta_desbordes_Araucania_Los_Rios/">&lt;p&gt;El Servicio Nacional de Prevención y Respuesta ante Desastres &lt;a href=&quot;https://www.senapred.cl/informate/alerta/se-declara-alerta-roja-para-la-comuna-de-freire-por-desborde&quot;&gt;(Senapred)&lt;/a&gt; ha emitido múltiples alertas debido a las intensas lluvias que están afectando las regiones de La Araucanía, incrementando el caudal de diversos ríos y esteros.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://kimunko.ufro.cl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kimunko.ufro.cl/" rel="alternate" type="text/html" /><updated>2024-07-09T07:36:52-04:00</updated><id>https://kimunko.ufro.cl/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Alerta por amenaza de desborde en La Araucanía</title><link href="https://kimunko.ufro.cl/intensas-lluvias/Alerta_desbordes_Araucania_Los_Rios/" rel="alternate" type="text/html" title="Alerta por amenaza de desborde en La Araucanía" /><published>2024-06-27T15:10:00-04:00</published><updated>2024-06-27T15:10:00-04:00</updated><id>https://kimunko.ufro.cl/intensas-lluvias/Alerta_desbordes_Araucania_Los_Rios</id><content type="html" xml:base="https://kimunko.ufro.cl/intensas-lluvias/Alerta_desbordes_Araucania_Los_Rios/">&lt;p&gt;El Servicio Nacional de Prevención y Respuesta ante Desastres &lt;a href=&quot;https://www.senapred.cl/informate/alerta/se-declara-alerta-roja-para-la-comuna-de-freire-por-desborde&quot;&gt;(Senapred)&lt;/a&gt; ha emitido múltiples alertas debido a las intensas lluvias que están afectando las regiones de La Araucanía, incrementando el caudal de diversos ríos y esteros.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.senapred.cl/informate/alerta/se-declara-alerta-roja-para-la-comuna-de-freire-por-desborde&quot;&gt;Alerta Roja:&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1085,6 +1085,13 @@ a partir del promedio de 156 estaciones. Línea segmentada gris indica la tenden
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;/p&gt;
 
+&lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;/assets/posts/2024-06-25/mapa_estaciones_frente_17-24_jun.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figura 2&lt;/strong&gt;. Mapa de la ubicación espacial e información de las estaciones pluviométricas presentes en la Tabla 1.&lt;/p&gt;
+
 &lt;p&gt;El boletín pluviométrico diario regional está disponible en &lt;a href=&quot;https://climatologia.meteochile.gob.cl/application/requerimiento/producto/RE5015&quot;&gt;Dirección Meteorológica de Chile (DMC)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Para mayor información visite:&lt;/p&gt;
@@ -2060,6 +2067,13 @@ a partir del promedio de 156 estaciones. Línea segmentada gris indica la tenden
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;/assets/posts/2024-06-17/mapa_estaciones_frente_8_al_15_jun.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figura 2&lt;/strong&gt;. Mapa de la ubicación espacial e información de las estaciones pluviométricas presentes en la Tabla 1.&lt;/p&gt;
 
 &lt;p&gt;El boletín pluviométrico diario regional está disponible en &lt;a href=&quot;https://climatologia.meteochile.gob.cl/application/requerimiento/producto/RE5015&quot;&gt;Dirección Meteorológica de Chile (DMC)&lt;/a&gt;.&lt;/p&gt;
 
