@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-09T12:46:26-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Gobierno hace balance sobre afectaciones del sistema frontal en La Araucanía el [1 - 2 de Agosto]</title><link href="http://localhost:4000/sistema-frontal/Alerta_sistema_frontal_Araucania/" rel="alternate" type="text/html" title="Gobierno hace balance sobre afectaciones del sistema frontal en La Araucanía el [1 - 2 de Agosto]" /><published>2024-08-02T15:10:00-04:00</published><updated>2024-08-02T15:10:00-04:00</updated><id>http://localhost:4000/sistema-frontal/Alerta_sistema_frontal_Araucania</id><content type="html" xml:base="http://localhost:4000/sistema-frontal/Alerta_sistema_frontal_Araucania/">&lt;p&gt;El sistema frontal que ha azotado la región de La Araucanía ha dejado más de 100 mil personas sin energía eléctrica, 40 damnificados y daños en cerca de 200 viviendas, según el balance entregado por el gobierno. Como se observa en la Figura 1, la intensidad del viento en la región llegaron hasta los 65 km/hr (35 kt) registrados por la &lt;a href=&quot;https://climatologia.meteochile.gob.cl/application/controlb/graficosRecientesEmas/380029&quot;&gt;estación La Araucanía Ad. (380029) de la DMC&lt;/a&gt; para el día 1 de agosto del presente año.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-19T13:37:12-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía </subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Investigadores lanzan bases de datos para monitorear el uso del suelo en Chile</title><link href="http://localhost:4000/monitoreo-uso-del-suelo/Datos_usos_de_suelo/" rel="alternate" type="text/html" title="Investigadores lanzan bases de datos para monitorear el uso del suelo en Chile" /><published>2024-08-09T15:10:00-04:00</published><updated>2024-08-09T15:10:00-04:00</updated><id>http://localhost:4000/monitoreo-uso-del-suelo/Datos_usos_de_suelo</id><content type="html" xml:base="http://localhost:4000/monitoreo-uso-del-suelo/Datos_usos_de_suelo/">&lt;p&gt;En un esfuerzo colaborativo entre el Observatorio de Recursos Hídricos de La Araucanía Kimün-Ko de la Universidad de La Frontera y el Data Observatory de la Universidad Adolfo Ibáñez, se ha lanzado el innovador producto CLDynamicLandCover, una serie de mapas que cubren la zona central y sur del país. El proyecto, liderado por el Dr. Mauricio Galleguillos, con el apoyo del Dr. (c) Fernando Gimeno, promete ser una herramienta clave para la gestión de recursos naturales y la planificación territorial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://zenodo.org/records/12686927&quot;&gt;CLDynamicLandCover&lt;/a&gt;&lt;/strong&gt; emplea un enfoque de clasificación supervisada utilizando datos satelitales de Landsat y SRTM, lo que permite representar con precisión la reflectividad y la topografía del terreno. Estos mapas incluyen puntos de entrenamiento para 15 clases de cobertura del suelo, que fueron fotointerpretados y georreferenciados en 2018. Para asegurar la precisión del producto, se utilizaron algoritmos de aprendizaje automático y criterios de expertos, logrando valores de precisión que oscilan entre 0.894 y 0.950, con coeficientes Kappa que van de 0.877 a 0.943 a lo largo de los años.&lt;/p&gt;
+
+&lt;p&gt;En el marco de este mismo proyecto, el Dr. Galleguillos presentó &lt;strong&gt;&lt;a href=&quot;https://zenodo.org/records/7464210&quot;&gt;CLSoilMaps&lt;/a&gt;&lt;/strong&gt;, una nueva base de datos cuadriculada que ofrece información detallada sobre propiedades físicas y parámetros hidráulicos del suelo en el área continental de Chile y cuencas binacionales compartidas con Argentina. Esta base de datos, desarrollada utilizando técnicas de mapeo digital de suelos (DSM) y la función de pedotransferencia Rosetta V3, se basa en una reciente recopilación de perfiles de suelos que abarca diversas condiciones de uso de la tierra, como zonas agrícolas, forestales, turberas, matorrales y pastizales andinos. Con una resolución espacial cercana a los 100 metros, los modelos DSM mostraron precisiones moderadas a buenas, con valores de R² que oscilan entre 0.76 y 0.88 para densidad aparente, 0.50 y 0.76 para arcilla, y 0.67 y 0.84 para arena. Además, los mapas de limo se derivaron de las predicciones de arcilla y arena, aprovechando la naturaleza compositiva de las fracciones de tamaño de partícula. Los parámetros hidráulicos del suelo, como la capacidad de campo y el punto de marchitez permanente, se calcularon utilizando el algoritmo Rosetta V3.&lt;/p&gt;
+
+&lt;p&gt;Gracias a estas herramientas, tanto investigadores como el público general podrán monitorear de manera más eficaz y precisa los cambios en el uso del suelo en Chile Central. Esto puede facilitar una mejor planificación territorial, una gestión más eficiente de los recursos naturales y una respuesta más efectiva ante desastres ambientales.&lt;/p&gt;
+
+&lt;p&gt;Los productos mencionados anteriormente, se pueden encontrar en los siguientes enlaces:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenodo.org/records/12686927&quot;&gt;CLDynamicLandCover&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenodo.org/records/7464210&quot;&gt;CLSoilMaps&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="monitoreo-uso-del-suelo" /><category term="mapas" /><category term="uso-del-suelo" /><category term="monitoreo" /><summary type="html">En un esfuerzo colaborativo entre el Observatorio de Recursos Hídricos de La Araucanía Kimün-Ko de la Universidad de La Frontera y el Data Observatory de la Universidad Adolfo Ibáñez, se ha lanzado el innovador producto CLDynamicLandCover, una serie de mapas que cubren la zona central y sur del país. El proyecto, liderado por el Dr. Mauricio Galleguillos, con el apoyo del Dr. (c) Fernando Gimeno, promete ser una herramienta clave para la gestión de recursos naturales y la planificación territorial.</summary></entry><entry><title type="html">Gobierno hace balance sobre afectaciones del sistema frontal en La Araucanía el [1 - 2 de Agosto]</title><link href="http://localhost:4000/sistema-frontal/Alerta_sistema_frontal_Araucania/" rel="alternate" type="text/html" title="Gobierno hace balance sobre afectaciones del sistema frontal en La Araucanía el [1 - 2 de Agosto]" /><published>2024-08-02T15:10:00-04:00</published><updated>2024-08-02T15:10:00-04:00</updated><id>http://localhost:4000/sistema-frontal/Alerta_sistema_frontal_Araucania</id><content type="html" xml:base="http://localhost:4000/sistema-frontal/Alerta_sistema_frontal_Araucania/">&lt;p&gt;El sistema frontal que ha azotado la región de La Araucanía ha dejado más de 100 mil personas sin energía eléctrica, 40 damnificados y daños en cerca de 200 viviendas, según el balance entregado por el gobierno. Como se observa en la Figura 1, la intensidad del viento en la región llegaron hasta los 65 km/hr (35 kt) registrados por la &lt;a href=&quot;https://climatologia.meteochile.gob.cl/application/controlb/graficosRecientesEmas/380029&quot;&gt;estación La Araucanía Ad. (380029) de la DMC&lt;/a&gt; para el día 1 de agosto del presente año.&lt;/p&gt;
 
 &lt;h4 id=&quot;afectaciones-y-medidas&quot;&gt;&lt;strong&gt;Afectaciones y medidas&lt;/strong&gt;&lt;/h4&gt;
 
@@ -2356,85 +2369,4 @@ a partir del promedio de 156 estaciones. Línea segmentada gris indica la tenden
 
 &lt;p&gt;[3] &lt;a href=&quot;https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2024/06/13/gobierno-declara-emergencia-para-5-comunas-de-la-region-de-la-araucania-por-sistema-frontal.shtml&quot;&gt;Gobierno declara emergencia para 5 comunas de la región de La Araucanía por sistema frontal &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[4] &lt;a href=&quot;https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2024/06/12/la-araucania-sistema-frontal-deja-caida-de-puentes-personas-aisladas-y-alerta-amarilla-por-desborde.shtml&quot;&gt;La Araucanía: sistema frontal deja caída de puentes, personas aisladas y Alerta Amarilla por desborde&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="lluvias" /><category term="desbordes" /><category term="Centro-Sur" /><category term="inundaciones" /><summary type="html">Desde el mediodía del miércoles 12, las intensas lluvias comenzaron a causar estragos en diversas zonas de las comunas de Angol y Renaico. Familias en sectores como El Parque, Itraque, El Manzano, Villa Coyanco, Lomas del Toro, Maitenrehue y San Rafael se vieron afectadas por el agua que ingresaba a sus viviendas, a pesar de sus esfuerzos por evitarlo. En el área urbana, los llamados a los equipos de emergencia se multiplicaron, requiriendo una respuesta constante y coordinada.</summary></entry><entry><title type="html">Crecidas Fluviales y Desastres en Europa: Alemania e Italia Luchan Contra Inundaciones Mortales</title><link href="http://localhost:4000/crecidas/inundaciones/desbordes/europa/Inundaciones_en_Europa/" rel="alternate" type="text/html" title="Crecidas Fluviales y Desastres en Europa: Alemania e Italia Luchan Contra Inundaciones Mortales" /><published>2024-06-07T13:10:00-04:00</published><updated>2024-06-07T13:10:00-04:00</updated><id>http://localhost:4000/crecidas/inundaciones/desbordes/europa/Inundaciones_en_Europa</id><content type="html" xml:base="http://localhost:4000/crecidas/inundaciones/desbordes/europa/Inundaciones_en_Europa/">&lt;p&gt;Las intensas lluvias que han azotado diversas regiones de Europa en los últimos días han provocado severas inundaciones, causando múltiples muertes y desapariciones en Alemania e Italia. La crecida repentina de varios ríos ha llevado a las autoridades a declarar estados de emergencia y a implementar operativos de rescate y mitigación. Esta situación crítica resalta la importancia de la hidrología en la gestión de desastres naturales y la protección de la población. En este contexto, se examinan los eventos hidrológicos más relevantes y las respuestas de emergencia en los países afectados.&lt;/p&gt;
-
-&lt;h2 id=&quot;inundaciones-en-alemania-e-italia&quot;&gt;Inundaciones en Alemania e Italia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Alemania&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Muertes y Desapariciones:&lt;/strong&gt; Las inundaciones han causado al menos cinco muertes en el sur de Alemania, principalmente en Baviera y Baden-Württemberg. Tres víctimas fueron encontradas en sótanos anegados, y un bombero murió en labores de rescate.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Río Danubio:&lt;/strong&gt; En Ratisbona, el nivel del Danubio ha alcanzado los 5,9 metros, llevando a la ciudad a declarar el estado de emergencia.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Impacto y Respuesta:&lt;/strong&gt; Las lluvias han provocado cortes de carreteras y bloqueos en líneas ferroviarias, especialmente en Passau y sus alrededores. La situación ha empezado a mejorar en el suroeste del país.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Italia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Búsqueda y Rescate:&lt;/strong&gt; Equipos de rescate con buzos, drones y helicópteros buscan a un joven arrastrado por la crecida del río Natisone en Friuli-Venezia-Giulia. Sus dos amigas murieron en el mismo incidente.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Condiciones Hidrológicas:&lt;/strong&gt; La crecida repentina de los ríos ha sido la causa principal de los desastres, sorprendiendo a los residentes y causando víctimas mortales.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;situación-hidrológica-en-otras-regiones-de-europa&quot;&gt;Situación Hidrológica en Otras Regiones de Europa&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Suiza&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Mejora en Varias Regiones:&lt;/strong&gt; La situación ha mejorado, pero el Rin y el lago Constanza siguen en alerta nivel 3 de 5. Se espera que el nivel del agua suba hasta mediados de la semana.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Austria&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Cierre del Danubio:&lt;/strong&gt; El Danubio ha sido cerrado al transporte marítimo a lo largo de 350 km debido a las inundaciones. La localidad de Schärding ha experimentado niveles máximos de agua, llevando al cierre de carreteras.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Eslovaquia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Preparativos en Bratislava:&lt;/strong&gt; Aviso de inundaciones de segundo nivel emitido para el distrito de Bratislava debido a la subida del Danubio y el río Morava. Zonas cercanas a estos ríos han sido cerradas al público.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Polonia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Inundaciones en Silesia:&lt;/strong&gt; Fuertes lluvias han provocado inundaciones en Bielsko-Biala, afectando carreteras y propiedades. El alcalde ha emitido un aviso de inundación.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;impacto-hidrológico-y-pronósticos&quot;&gt;Impacto Hidrológico y Pronósticos&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Danubio y Rin&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Crecida Continua:&lt;/strong&gt; Los niveles de los ríos Danubio y Rin siguen aumentando, con pronósticos de lluvia adicional que podrían empeorar la situación en los próximos días.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Acciones de Mitigación:&lt;/strong&gt; En Ingolstadt y Passau, se han activado sistemas de protección contra inundaciones y se han llenado sacos de arena para proteger áreas críticas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pronóstico Meteorológico&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Mejoría Esperada:&lt;/strong&gt; Se espera una mejora gradual de las condiciones meteorológicas hasta el miércoles. Sin embargo, se prevén nuevas lluvias intensas en los Alpes para el próximo fin de semana, lo que podría afectar los ríos Isar y Danubio.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;conclusión&quot;&gt;Conclusión&lt;/h2&gt;
-
-&lt;p&gt;Las recientes inundaciones en Europa han tenido un impacto significativo, especialmente en Alemania e Italia, donde las crecidas repentinas de los ríos han causado múltiples víctimas y daños materiales. Los esfuerzos de rescate continúan mientras las autoridades de varios países implementan medidas de emergencia para mitigar los efectos de la subida del nivel del agua. La situación hidrológica sigue siendo crítica, con previsiones de más lluvias que podrían agravar las inundaciones en algunas áreas.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;iframe width=&quot;1202&quot; height=&quot;676&quot; src=&quot;https://www.youtube.com/embed/E16WpN9t2TQ&quot; title=&quot;Las inundaciones que asolan Europa causan varios muertos en Alemania e Italia&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
-  picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;
-  &lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Para mayor información visitar:&lt;/p&gt;
-
-&lt;p&gt;[1] &lt;a href=&quot;https://www.meteored.cl/noticias/actualidad/inundaciones-en-alemania-las-regiones-donde-se-mantiene-el-riesgo-de-lluvias-continuas.html&quot;&gt;Inundaciones en Alemania: las regiones donde se mantiene el riesgo de lluvias continuas&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2] &lt;a href=&quot;https://es.euronews.com/2024/06/04/las-inundaciones-que-asolan-europa-causan-varios-muertos-en-alemania-e-italia&quot;&gt;Las inundaciones que asolan Europa causan varios muertos en Alemania e Italia&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[3] &lt;a href=&quot;https://es.euronews.com/2024/06/05/austria-cierra-el-danubio-al-transporte-maritimo-a-causa-de-las-inundaciones&quot;&gt;Austria cierra el Danubio al transporte marítimo a causa de las inundaciones&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[4] &lt;a href=&quot;https://www.france24.com/es/europa/20240604-lluvias-torrenciales-e-inundaciones-en-el-sur-de-alemania-dejan-al-menos-cinco-personas-muertas&quot;&gt;Lluvias torrenciales e inundaciones en el sur de Alemania dejan al menos cinco personas muertas&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="crecidas" /><category term="inundaciones" /><category term="desbordes" /><category term="Europa" /><summary type="html">Las intensas lluvias que han azotado diversas regiones de Europa en los últimos días han provocado severas inundaciones, causando múltiples muertes y desapariciones en Alemania e Italia. La crecida repentina de varios ríos ha llevado a las autoridades a declarar estados de emergencia y a implementar operativos de rescate y mitigación. Esta situación crítica resalta la importancia de la hidrología en la gestión de desastres naturales y la protección de la población. En este contexto, se examinan los eventos hidrológicos más relevantes y las respuestas de emergencia en los países afectados.</summary></entry></feed>
+&lt;p&gt;[4] &lt;a href=&quot;https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2024/06/12/la-araucania-sistema-frontal-deja-caida-de-puentes-personas-aisladas-y-alerta-amarilla-por-desborde.shtml&quot;&gt;La Araucanía: sistema frontal deja caída de puentes, personas aisladas y Alerta Amarilla por desborde&lt;/a&gt;&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="lluvias" /><category term="desbordes" /><category term="Centro-Sur" /><category term="inundaciones" /><summary type="html">Desde el mediodía del miércoles 12, las intensas lluvias comenzaron a causar estragos en diversas zonas de las comunas de Angol y Renaico. Familias en sectores como El Parque, Itraque, El Manzano, Villa Coyanco, Lomas del Toro, Maitenrehue y San Rafael se vieron afectadas por el agua que ingresaba a sus viviendas, a pesar de sus esfuerzos por evitarlo. En el área urbana, los llamados a los equipos de emergencia se multiplicaron, requiriendo una respuesta constante y coordinada.</summary></entry></feed>
