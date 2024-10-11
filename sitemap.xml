@@ -117,6 +117,10 @@
 <lastmod>2024-05-09T09:20:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/cuencas-chile/Estudio_humedad_del_suelo_en_ECOCIENCIAS/</loc>
+<lastmod>2024-05-10T09:10:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/inundaciones/cambio-climatico/catastrofes-climaticas/Inundaciones_Afganistan/</loc>
 <lastmod>2024-05-14T15:45:00-04:00</lastmod>
 </url>
@@ -175,6 +179,10 @@
 <url>
 <loc>http://localhost:4000/monitoreo-uso-del-suelo/Datos_usos_de_suelo/</loc>
 <lastmod>2024-08-09T15:10:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sistema-frontal/Sistema_frontal_Araucania_25-26_ago/</loc>
+<lastmod>2024-08-27T09:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/sistema-frontal/Sistema_frontal_Araucania_21-24_sep/</loc>
@@ -363,6 +371,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page9/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page10/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/Figuras/01_Region_de_la_araucania/comunas_provincias.html</loc>
@@ -619,6 +630,10 @@
 <url>
 <loc>http://localhost:4000/assets/posts/2024-06-25/mapa_estaciones_frente_17-24_jun.html</loc>
 <lastmod>2024-07-09T07:34:07-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/posts/2024-08-26/estaciones_frente_25-26_08.html</loc>
+<lastmod>2024-10-11T10:39:45-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/google0c27e26c8f670424.html</loc>
