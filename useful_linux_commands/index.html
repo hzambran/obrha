@@ -1,0 +1,442 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Useful Commands in Linux - Kimün-Ko</title>
+<meta name="description" content="Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía">
+
+
+  <meta name="author" content="Kimün-Ko">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Kimün-Ko">
+<meta property="og:title" content="Useful Commands in Linux">
+<meta property="og:url" content="http://localhost:4000/useful_linux_commands/">
+
+
+  <meta property="og:description" content="Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/useful_linux_commands/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Kimün-Ko Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+
+  <body class="layout--single-en" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/">
+            <img src="/assets/images/logo_ORH.png" alt="Kimün-Ko">
+          </a>
+        
+        <a class="site-title" href="/">
+          Kimün-Ko
+          
+        </a>
+
+        <!-- Menú principal -->
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/en/lines-of-research/"
+                
+                
+              >Investigation</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/en/thematic_information/"
+                
+                
+              >Thematic information</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/en/web_platforms/"
+                
+                
+              >Web platforms</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/en/gis_explorer/"
+                
+                
+              >GIS Explorer</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/en/tutorials/"
+                
+                
+              >Tutorials</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/en/posts/"
+                
+                
+              >Posts</a>
+            </li></ul>
+
+        <!-- Botón de búsqueda -->
+        
+
+        <!-- Menú responsive -->
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+
+        <!-- Botón de cambio de idioma -->
+        <a href="/index.html" class="btn btn--primary">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png" alt="Spa" height="8px" width="20px" style="display:inline;">
+          <span style="display:inline;"></span>
+        </a>
+
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Useful Commands in Linux">
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/useful_linux_commands/" itemprop="url">Useful Commands in Linux
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#command-usage">Command Usage</a></li><li><a href="#command-explanation">Command Explanation</a></li><li><a href="#practical-example">Practical Example</a></li><li><a href="#additional-notes">Additional Notes</a></li><li><a href="#variations-of-the-find-command">Variations of the find Command</a><ul><li><a href="#search-by-file-type">Search by File Type</a></li><li><a href="#filter-by-file-size">Filter by File Size</a></li><li><a href="#filter-by-modification-date">Filter by Modification Date</a></li></ul></li><li><a href="#advanced-mv-options">Advanced mv Options</a><ul><li><a href="#handling-conflicts">Handling Conflicts</a></li><li><a href="#show-files-being-moved">Show Files Being Moved</a></li></ul></li><li><a href="#alternative-solutions">Alternative Solutions</a><ul><li><a href="#using-xargs">Using xargs</a></li></ul></li><li><a href="#best-practices">Best Practices</a><ul><li><a href="#backup">Backup</a></li><li><a href="#verify-files">Verify Files</a></li></ul></li><li><a href="#conclusion">Conclusion</a></li></ul>
+            </nav>
+          </aside>
+        
+        <p><strong>mv: Argument list too long?</strong></p>
+
+<p>In Linux systems, it is common to move files from one directory to another using the <code class="language-plaintext highlighter-rouge">mv</code> command. However, when dealing with a large number of files, the command may fail, returning the error <strong>“Argument list too long”</strong>. This issue arises because the argument list exceeds the maximum size allowed by the operating system. To address this problem, a combination of the <code class="language-plaintext highlighter-rouge">find</code> and <code class="language-plaintext highlighter-rouge">mv</code> commands can be used to efficiently move the files.</p>
+
+<h3 id="command-usage">Command Usage</h3>
+
+<p>To move files when the argument list is too long, you can use the following command:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-name</span> <span class="s1">'*.*'</span> <span class="nt">-exec</span> <span class="nb">mv</span> <span class="o">{}</span> destination_directory <span class="se">\;</span>
+</code></pre></div></div>
+
+<h3 id="command-explanation">Command Explanation</h3>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">find</code></strong>: Used to search the file system.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">source_directory</code></strong>: Specifies the directory where you want to search for files.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">-name '*.*'</code></strong>: Tells <code class="language-plaintext highlighter-rouge">find</code> to look for all files with an extension (i.e., containing a dot in their name).</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">-exec</code></strong>: Allows executing a command for each file found.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">mv</code></strong>: The command to move files from one location to another.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">{}</code></strong>: Placeholder for each file found by <code class="language-plaintext highlighter-rouge">find</code>.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">destination_directory</code></strong>: Specifies the directory where you want to move the files.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">\;</code></strong>: Marks the end of the <code class="language-plaintext highlighter-rouge">mv</code> command execution.</li>
+</ul>
+
+<h3 id="practical-example">Practical Example</h3>
+
+<p>Suppose you want to move all files with any extension from the directory <code class="language-plaintext highlighter-rouge">/home/user/source</code> to <code class="language-plaintext highlighter-rouge">/home/user/destination</code>. You can do this as follows:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find /home/user/source <span class="nt">-name</span> <span class="s1">'*.*'</span> <span class="nt">-exec</span> <span class="nb">mv</span> <span class="o">{}</span> /home/user/destination <span class="se">\;</span>
+</code></pre></div></div>
+
+<p>In this example, <code class="language-plaintext highlighter-rouge">find</code> searches for all files with an extension in <code class="language-plaintext highlighter-rouge">/home/user/source</code> and executes the <code class="language-plaintext highlighter-rouge">mv</code> command for each file found, moving them to <code class="language-plaintext highlighter-rouge">/home/user/destination</code>.</p>
+
+<h3 id="additional-notes">Additional Notes</h3>
+
+<p>Using <code class="language-plaintext highlighter-rouge">mv</code> within <code class="language-plaintext highlighter-rouge">-exec</code> executes the command once per file found, which may be less time-efficient compared to moving all files in a single <code class="language-plaintext highlighter-rouge">mv</code> command. However, this approach is highly effective in avoiding the “Argument list too long” error and ensures that all files are moved without exceeding the argument limit.</p>
+
+<h3 id="variations-of-the-find-command">Variations of the <code class="language-plaintext highlighter-rouge">find</code> Command</h3>
+
+<h4 id="search-by-file-type">Search by File Type</h4>
+
+<p>To search for specific file types, e.g., regular files (excluding directories and symbolic links):</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s1">'*.*'</span> <span class="nt">-exec</span> <span class="nb">mv</span> <span class="o">{}</span> destination_directory <span class="se">\;</span>
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">-type f</code></strong>: Tells <code class="language-plaintext highlighter-rouge">find</code> to only search for regular files.</li>
+</ul>
+
+<h4 id="filter-by-file-size">Filter by File Size</h4>
+
+<p>To move only files larger than 1MB:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-type</span> f <span class="nt">-size</span> +1M <span class="nt">-exec</span> <span class="nb">mv</span> <span class="o">{}</span> destination_directory <span class="se">\;</span>
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">-size +1M</code></strong>: Tells <code class="language-plaintext highlighter-rouge">find</code> to look for files larger than 1 megabyte.</li>
+</ul>
+
+<h4 id="filter-by-modification-date">Filter by Modification Date</h4>
+
+<p>To move files modified in the last 7 days:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-type</span> f <span class="nt">-mtime</span> <span class="nt">-7</span> <span class="nt">-exec</span> <span class="nb">mv</span> <span class="o">{}</span> destination_directory <span class="se">\;</span>
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">-mtime -7</code></strong>: Tells <code class="language-plaintext highlighter-rouge">find</code> to look for files modified in the last 7 days.</li>
+</ul>
+
+<h3 id="advanced-mv-options">Advanced <code class="language-plaintext highlighter-rouge">mv</code> Options</h3>
+
+<h4 id="handling-conflicts">Handling Conflicts</h4>
+
+<p>To prompt before overwriting files in the destination:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-name</span> <span class="s1">'*.*'</span> <span class="nt">-exec</span> <span class="nb">mv</span> <span class="nt">-i</span> <span class="o">{}</span> destination_directory <span class="se">\;</span>
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">-i</code></strong>: Instructs <code class="language-plaintext highlighter-rouge">mv</code> to prompt before overwriting files.</li>
+</ul>
+
+<p>To force overwrite without prompting:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-name</span> <span class="s1">'*.*'</span> <span class="nt">-exec</span> <span class="nb">mv</span> <span class="nt">-f</span> <span class="o">{}</span> destination_directory <span class="se">\;</span>
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">-f</code></strong>: Forces <code class="language-plaintext highlighter-rouge">mv</code> to overwrite files without asking.</li>
+</ul>
+
+<h4 id="show-files-being-moved">Show Files Being Moved</h4>
+
+<p>To display a list of files as they are moved:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-name</span> <span class="s1">'*.*'</span> <span class="nt">-exec</span> <span class="nb">mv</span> <span class="nt">-v</span> <span class="o">{}</span> destination_directory <span class="se">\;</span>
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">-v</code></strong>: Instructs <code class="language-plaintext highlighter-rouge">mv</code> to show each file as it is moved.</li>
+</ul>
+
+<h3 id="alternative-solutions">Alternative Solutions</h3>
+
+<h4 id="using-xargs">Using <code class="language-plaintext highlighter-rouge">xargs</code></h4>
+
+<p><code class="language-plaintext highlighter-rouge">xargs</code> can construct and execute commands with a large number of arguments, avoiding the “Argument list too long” issue:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find source_directory <span class="nt">-name</span> <span class="s1">'*.*'</span> <span class="nt">-print0</span> | xargs <span class="nt">-0</span> <span class="nb">mv</span> <span class="nt">-t</span> destination_directory
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">-print0</code></strong>: Instructs <code class="language-plaintext highlighter-rouge">find</code> to print file names ending with a null character (instead of a newline).</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">xargs -0</code></strong>: Tells <code class="language-plaintext highlighter-rouge">xargs</code> to read input with null delimiters, useful for handling file names with spaces or special characters.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">mv -t destination_directory</code></strong>: Specifies the destination as a directory where files should be moved.</li>
+</ul>
+
+<h3 id="best-practices">Best Practices</h3>
+
+<h4 id="backup">Backup</h4>
+
+<p>Before moving a large number of files, it’s prudent to create a backup:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cp</span> <span class="nt">-r</span> source_directory backup_directory
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">cp -r</code></strong>: Copies the source directory recursively, including all subdirectories and files.</li>
+</ul>
+
+<h4 id="verify-files">Verify Files</h4>
+
+<p>After moving the files, verify they were moved correctly:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">ls </span>destination_directory
+</code></pre></div></div>
+
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">ls</code></strong>: Lists the files in the specified directory.</li>
+</ul>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>This guide provides a detailed overview of how to use the <code class="language-plaintext highlighter-rouge">find</code> command with <code class="language-plaintext highlighter-rouge">mv</code> to handle large numbers of files in Linux, avoiding the “Argument list too long” error. With these techniques and best practices, you can manage files more efficiently and safely.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+      </footer>
+
+      
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Kimün-Ko</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
