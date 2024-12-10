@@ -29,7 +29,23 @@
 
 
 
+  <meta property="og:image" content="http://localhost:4000/">
 
+
+
+  <meta name="twitter:site" content="@mmistakes">
+  <meta name="twitter:title" content="Agua potable rural">
+  <meta name="twitter:description" content="Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía">
+  <meta name="twitter:url" content="http://localhost:4000/agua_potable_rural/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="http://localhost:4000/">
+    
+  
+
+  
 
 
 
@@ -106,6 +122,8 @@
         <a class="site-title" href="/">
           Kimün-Ko
           
+            <span class="site-subtitle"></span>
+          
         </a>
 
         <!-- Menú principal -->
@@ -148,6 +166,11 @@
             </li></ul>
 
         <!-- Botón de búsqueda -->
+        
+          <button class="search__toggle" type="button">
+            <span class="visually-hidden">Toggle search</span>
+            <i class="fas fa-search"></i>
+          </button>
         
 
         <!-- Menú responsive -->
@@ -250,6 +273,17 @@ Se observan importantes diferencias entre los consumos per cápita de las zonas 
     </div>
 
     
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
 
     <div id="footer" class="page__footer">
       <footer>
@@ -265,15 +299,15 @@ Se observan importantes diferencias entre los consumos per cápita de las zonas 
     
       
         
-      
+          <li><a href="https://twitter.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
         
       
         
-      
+          <li><a href="https://github.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
         
       
         
-      
+          <li><a href="https://instagram.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
         
       
     
@@ -294,6 +328,10 @@ Se observan importantes diferencias entre los consumos per cápita de las zonas 
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 

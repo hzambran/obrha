@@ -29,7 +29,23 @@
 
 
 
+  <meta property="og:image" content="http://localhost:4000/">
 
+
+
+  <meta name="twitter:site" content="@mmistakes">
+  <meta name="twitter:title" content="Posts by Collection">
+  <meta name="twitter:description" content="Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía">
+  <meta name="twitter:url" content="http://localhost:4000/collection-archive/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="http://localhost:4000/">
+    
+  
+
+  
 
 
 
@@ -106,6 +122,8 @@
         <a class="site-title" href="/">
           Kimün-Ko
           
+            <span class="site-subtitle"></span>
+          
         </a>
 
         <!-- Menú principal -->
@@ -149,6 +167,11 @@
 
         <!-- Botón de búsqueda -->
         
+          <button class="search__toggle" type="button">
+            <span class="visually-hidden">Toggle search</span>
+            <i class="fas fa-search"></i>
+          </button>
+        
 
         <!-- Menú responsive -->
         <button class="greedy-nav__toggle hidden" type="button">
@@ -185,6 +208,12 @@
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
+    <div class="author__avatar">
+      <a href="http://localhost:4000/">
+        <img src="" alt="Kimün-Ko" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
@@ -210,15 +239,19 @@
       
         
           
-        
+            <li><a href="https://your-site.com" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Your Website</span></a></li>
           
         
           
-        
+            <li><a href="https://twitter.com/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
           
         
           
+            <li><a href="https://github.com/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
         
+          
+            <li><a href="https://instagram.com/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
           
         
       
@@ -295,6 +328,24 @@
 
 
   
+    
+    
+      <h2 id="pets" class="archive__subtitle">pets</h2>
+      
+    
+  
+  
+
+  
+    
+    
+      <h2 id="portfolio" class="archive__subtitle">portfolio</h2>
+      
+    
+  
+  
+
+  
   
     
   
@@ -407,6 +458,15 @@
     
   
     
+  
+
+  
+    
+    
+      <h2 id="recipes" class="archive__subtitle">recipes</h2>
+      
+    
+  
   
 
   </div>
@@ -415,6 +475,17 @@
       
     </div>
 
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
     
 
     <div id="footer" class="page__footer">
@@ -431,15 +502,15 @@
     
       
         
-      
+          <li><a href="https://twitter.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
         
       
         
-      
+          <li><a href="https://github.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
         
       
         
-      
+          <li><a href="https://instagram.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
         
       
     
@@ -460,6 +531,10 @@
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
