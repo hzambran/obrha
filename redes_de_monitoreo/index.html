@@ -1,13 +1,21 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
-  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
-
-<html lang="en-US" class="no-js">
+<html lang="en" class="no-js">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía">
+    <title>Redes de monitoreo</title>
+
+    
+      <meta name="robots" content="index, follow">
+    
+
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Redes de monitoreo - Kimün-Ko</title>
@@ -63,7 +71,17 @@
 
 
 
-
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "",
+      "url": "http://localhost:4000/",
+      "sameAs": ["https://twitter.com/","https://github.com/"]
+    
+  }
+</script>
 
 
 
@@ -76,18 +94,20 @@
 
 
   <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Kimün-Ko Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-  
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
-
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" rel="stylesheet"/>
 
 
     <!-- start custom head snippets -->
@@ -98,8 +118,7 @@
 
   </head>
 
-
-  <body class="layout--single" dir="ltr">
+  <body class="layout--single">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -115,83 +134,41 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/">
-            <img src="/assets/images/logo_ORH.png" alt="Kimün-Ko">
-          </a>
+          <a class="site-logo" href="/"><img src="/assets/images/logo_ORH.png" alt="Kimün-Ko"></a>
         
         <a class="site-title" href="/">
           Kimün-Ko
-          
-            <span class="site-subtitle"></span>
-          
+          <span class="site-subtitle"></span>
         </a>
-
-        <!-- Menú principal -->
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a
-                href="/es/lineas-de-investigacion/"
-                
-                
-              >Investigación</a>
+              <a href="/lineas-de-investigacion/">Investigación</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/es/informacion_tematica/"
-                
-                
-              >Información temática</a>
+              <a href="/informacion_tematica/">Información temática</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/es/plataforma-web/"
-                
-                
-              >Plataformas web</a>
+              <a href="/plataforma-web/">Plataformas web</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/es/explorador_sig/"
-                
-                
-              >Explorador SIG</a>
+              <a href="/explorador_sig/">Explorador SIG</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/es/tutoriales/"
-                
-                
-              >Tutoriales</a>
+              <a href="/tutoriales/">Tutoriales</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/es/posts/"
-                
-                
-              >Posts</a>
+              <a href="/Posts/">Posts</a>
             </li></ul>
-
-        <!-- Botón de búsqueda -->
         
-          <button class="search__toggle" type="button">
-            <span class="visually-hidden">Toggle search</span>
-            <i class="fas fa-search"></i>
-          </button>
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
-
-        <!-- Menú responsive -->
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
-
-        <!-- Botón de cambio de idioma -->
-        <a href="/index-en.html" class="btn btn--primary">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png" alt="Eng" height="8px" width="20px" style="display:inline;">
-          <span style="display:inline;"></span>
-        </a>
-
+        <a href="/index-en.html" class="btn btn--primary"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png" alt="France" height="13px" width="20px" display="inline"> <span display="inline"> English</a>
       </nav>
     </div>
   </div>
 </div>
-
-
 
 
     <div class="initial-content">
@@ -205,7 +182,7 @@
   
 
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Redes de monitoreo">
     
     
@@ -214,8 +191,8 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">
-            <a href="http://localhost:4000/redes_de_monitoreo/" itemprop="url">Redes de monitoreo
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="http://localhost:4000/redes_de_monitoreo/" class="u-url" itemprop="url">Redes de monitoreo
 </a>
           </h1>
           
@@ -224,12 +201,13 @@
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
           <aside class="sidebar__right ">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
               <ul class="toc__menu"><li><a href="#infraestructura-hidrométrica">Infraestructura hidrométrica</a></li><li><a href="#estaciones-pluviométricas">Estaciones pluviométricas</a><ul><li><a href="#subcuenca-río-renaico">Subcuenca Río Renaico</a></li><li><a href="#subcuenca-ríos-malleco-y-vergara">Subcuenca Ríos Malleco y Vergara</a></li><li><a href="#subcuenca-río-bio-bio-alto-hasta-despues-de-junta-río-lamin">Subcuenca Río Bio-Bio Alto (hasta despues de junta Río Lamin)</a></li><li><a href="#subcuenca-río-lumaco">Subcuenca Río Lumaco</a></li><li><a href="#subcuenca-río-chol-chol">Subcuenca Río Chol Chol</a></li><li><a href="#subcuenca-cautin-alto-hasta-antes-de-junta-río-quepe">Subcuenca Cautin Alto (hasta antes de junta Río Quepe)</a></li><li><a href="#subcuenca-río-imperial">Subcuenca Río Imperial</a></li><li><a href="#subcuenca-río-allipen">Subcuenca Río Allipen</a></li><li><a href="#subcuenca-río-quepe">Subcuenca Río Quepe</a></li><li><a href="#subcuenca-río-cautin-entre-río-quepe-y-río-chol-chol">Subcuenca Río Cautin entre Río Quepe y Río Chol Chol</a></li><li><a href="#subcuenca-toltén-bajo">Subcuenca Toltén Bajo</a></li><li><a href="#subcuenca-río-pucón">Subcuenca Río Pucón</a></li><li><a href="#subcuenca-lago-villarrica-y-tolten-alto">Subcuenca Lago Villarrica y Tolten Alto</a></li><li><a href="#subcuenca-río-valdivia-alto-hasta-desagüe-lago-panguipulli">Subcuenca Río Valdivia Alto (hasta desagüe Lago Panguipulli)</a></li></ul></li><li><a href="#estaciones-fluviométricas">Estaciones fluviométricas</a><ul><li><a href="#subcuenca-río-renaico-1">Subcuenca Río Renaico</a></li><li><a href="#subcuenca-ríos-malleco-y-vergara-1">Subcuenca Ríos Malleco y Vergara</a></li><li><a href="#subcuenca-río-bio-bio-alto-hasta-despues-de-junta-río-lamin-1">Subcuenca Río Bio-Bio Alto (hasta despues de junta Río Lamin)</a></li><li><a href="#subcuenca-río-lumaco-1">Subcuenca Río Lumaco</a></li><li><a href="#subcuenca-río-chol-chol-1">Subcuenca Río Chol Chol</a></li><li><a href="#subcuenca-cautin-alto-hasta-antes-de-junta-río-quepe-1">Subcuenca Cautin Alto (hasta antes de junta Río Quepe)</a></li><li><a href="#subcuenca-río-allipen-1">Subcuenca Río Allipen</a></li><li><a href="#subcuenca-río-quepe-1">Subcuenca Río Quepe</a></li><li><a href="#subcuenca-toltén-bajo-1">Subcuenca Toltén Bajo</a></li><li><a href="#subcuenca-río-pucón-1">Subcuenca Río Pucón</a></li><li><a href="#subcuenca-lago-villarrica-y-tolten-alto-1">Subcuenca Lago Villarrica y Tolten Alto</a></li></ul></li><li><a href="#estaciones-meteorológicas">Estaciones meteorológicas</a><ul><li><a href="#subcuenca-río-bio-bio-alto-hasta-despues-de-junta-río-lamin-2">Subcuenca Río Bio-Bio Alto (hasta despues de junta Río Lamin)</a></li><li><a href="#subcuenca-ríos-malleco-y-vergara-2">Subcuenca Ríos Malleco y Vergara</a></li><li><a href="#subcuenca-río-lumaco-2">Subcuenca Río Lumaco</a></li><li><a href="#subcuenca-cautin-alto-hasta-antes-de-junta-río-quepe-2">Subcuenca Cautin Alto (hasta antes de junta Río Quepe)</a></li><li><a href="#subcuenca-río-allipen-2">Subcuenca Río Allipen</a></li><li><a href="#subcuenca-toltén-bajo-2">Subcuenca Toltén Bajo</a></li><li><a href="#subcuenca-río-pucón-2">Subcuenca Río Pucón</a></li></ul></li><li><a href="#estaciones-de-niveles-de-pozos">Estaciones de niveles de pozos</a></li></ul>
+
             </nav>
           </aside>
         
@@ -2015,7 +1993,6 @@
       
 
       
-
     </div>
 
     
@@ -2025,7 +2002,6 @@
   
 </div>
 
-      
     </div>
 
     
@@ -2074,7 +2050,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Kimün-Ko</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2024 Kimün-Ko. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
@@ -2088,6 +2064,7 @@
 <script src="/assets/js/lunr/lunr.min.js"></script>
 <script src="/assets/js/lunr/lunr-store.js"></script>
 <script src="/assets/js/lunr/lunr-en.js"></script>
+
 
 
 

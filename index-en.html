@@ -1,16 +1,15 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
-  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
-
-<html lang="en-US" class="no-js">
+<html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Kimün-Ko</title>
+<!-- begin _includes/seo.html --><title>Kimün-Ko - Kimün-Ko</title>
 <meta name="description" content="Observatory of Water Resources in La Araucanía">
 
 
@@ -65,7 +64,17 @@
 
 
 
-
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "",
+      "url": "http://localhost:4000/",
+      "sameAs": ["https://twitter.com/","https://github.com/"]
+    
+  }
+</script>
 
 
 
@@ -78,18 +87,20 @@
 
 
   <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Kimün-Ko Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-  
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
-
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" rel="stylesheet"/>
 
 
     <!-- start custom head snippets -->
@@ -100,8 +111,7 @@
 
   </head>
 
-
-  <body class="layout--splash-en wide" dir="ltr">
+  <body class="layout--splash-en wide">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -117,83 +127,43 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/">
-            <img src="/assets/images/logo_ORH.png" alt="Kimün-Ko">
-          </a>
+          <a class="site-logo" href="/"><img src="/assets/images/logo_ORH.png" alt="Kimün-Ko"></a>
         
         <a class="site-title" href="/">
           Kimün-Ko
-          
-            <span class="site-subtitle"></span>
-          
+          <span class="site-subtitle"></span>
         </a>
-
-        <!-- Menú principal -->
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a
-                href="/en/lines-of-research/"
-                
-                
-              >Investigation</a>
+              <a href="/Objetivos-en/">Objectives</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/en/thematic_information/"
-                
-                
-              >Thematic information</a>
+              <a href="/Posts-en/">Posts</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/en/web_platforms/"
-                
-                
-              >Web platforms</a>
+              <a href="/Integrantes-en/">Research Group</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/en/gis_explorer/"
-                
-                
-              >GIS Explorer</a>
+              <a href="/Zonasdeestudio-en/">Study area</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/en/tutorials/"
-                
-                
-              >Tutorials</a>
+              <a href="/Datos-en/">Explore GIS</a>
             </li><li class="masthead__menu-item">
-              <a
-                href="/en/posts/"
-                
-                
-              >Posts</a>
+              <a href="/ModelosHidrologicos-en/">Hydrological modeling</a>
             </li></ul>
-
-        <!-- Botón de búsqueda -->
         
-          <button class="search__toggle" type="button">
-            <span class="visually-hidden">Toggle search</span>
-            <i class="fas fa-search"></i>
-          </button>
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
-
-        <!-- Menú responsive -->
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
+        <a href="/index.html" class="btn btn--primary"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png" alt="France" height="13px" width="20px" display="inline"> <span display="inline"> Spanish</a>
 
-        <!-- Botón de cambio de idioma -->
-        <a href="/index.html" class="btn btn--primary">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png" alt="Spa" height="8px" width="20px" style="display:inline;">
-          <span style="display:inline;"></span>
-        </a>
 
       </nav>
     </div>
   </div>
 </div>
-
-
 
 
     <div class="initial-content">
@@ -224,6 +194,7 @@
       
 
 
+      
       
     </div>
   
@@ -319,7 +290,6 @@
   </article>
 </div>
 
-      
     </div>
 
     
@@ -368,7 +338,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Kimün-Ko</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2024 Kimün-Ko. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
@@ -382,6 +352,7 @@
 <script src="/assets/js/lunr/lunr.min.js"></script>
 <script src="/assets/js/lunr/lunr-store.js"></script>
 <script src="/assets/js/lunr/lunr-en.js"></script>
+
 
 
 
