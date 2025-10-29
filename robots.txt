@@ -1,1 +1,1 @@
-Sitemap: https://kimunko.ufro.cl/sitemap.xml
+Sitemap: ufro.cl/sitemap.xml
