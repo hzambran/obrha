@@ -1,4 +1,847 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-07-21T21:33:29-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía</subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">Río atmosférico en el sur de Chile: por qué el temporal del 6 al 9 de julio fue tan dañino</title><link href="http://localhost:4000/sistema-frontal/r%C3%ADo%20atmosf%C3%A9rico/Evento_extremo_Corral_06-09_Julio_2026/" rel="alternate" type="text/html" title="Río atmosférico en el sur de Chile: por qué el temporal del 6 al 9 de julio fue tan dañino" /><published>2026-07-20T08:00:00-04:00</published><updated>2026-07-20T08:00:00-04:00</updated><id>http://localhost:4000/sistema-frontal/r%C3%ADo%20atmosf%C3%A9rico/Evento_extremo_Corral_06-09_Julio_2026</id><content type="html" xml:base="http://localhost:4000/sistema-frontal/r%C3%ADo%20atmosf%C3%A9rico/Evento_extremo_Corral_06-09_Julio_2026/">&lt;p&gt;Entre el lunes 6 y el jueves 9 de julio de 2026, un sistema frontal reforzado por un &lt;strong&gt;río atmosférico de categoría 3-4&lt;/strong&gt; descargó lluvias intensas sobre La Araucanía, Los Ríos y Los Lagos &lt;a href=&quot;#ref2&quot;&gt;²&lt;/a&gt; &lt;a href=&quot;#ref3&quot;&gt;³&lt;/a&gt;. La combinación de abundante vapor de agua procedente del Pacífico, viento fuerte y una isoterma cero situada sobre los 3.000 m elevó de forma considerable el riesgo hidrológico &lt;a href=&quot;#ref4&quot;&gt;⁴&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-07-21T22:25:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kimün-Ko</title><subtitle>Kimün-Ko: Observatorio de Recursos Hídricos de la Región de La Araucanía</subtitle><author><name>Kimün-Ko</name></author><entry><title type="html">De Los Lagos a Atacama: un ‘tren de sistemas frontales’ que movió la lluvia extrema a través de Chile</title><link href="http://localhost:4000/sistema-frontal/rios-atmosfericos/EventoExtremo_AtacamaCoquimbo_15-19_Julio_2026/" rel="alternate" type="text/html" title="De Los Lagos a Atacama: un ‘tren de sistemas frontales’ que movió la lluvia extrema a través de Chile" /><published>2026-07-20T18:00:00-04:00</published><updated>2026-07-20T18:00:00-04:00</updated><id>http://localhost:4000/sistema-frontal/rios-atmosfericos/EventoExtremo_AtacamaCoquimbo_15-19_Julio_2026</id><content type="html" xml:base="http://localhost:4000/sistema-frontal/rios-atmosfericos/EventoExtremo_AtacamaCoquimbo_15-19_Julio_2026/">&lt;p&gt;Entre el 15 y el 19 de julio de 2026, Chile experimentó una secuencia meteorológica poco habitual por su extensión, persistencia y desplazamiento territorial. Varios sistemas frontales, reforzados por ríos atmosféricos, llevaron precipitación desde Los Lagos hasta Atacama. El máximo no permaneció fijo: comenzó en el centro-sur, alcanzó la zona central el 17 de julio y terminó concentrándose en Coquimbo y el sur de Atacama durante el fin de semana.&lt;/p&gt;
+
+&lt;p&gt;Los registros del Visualizador Meteorológico del &lt;a href=&quot;https://www.cr2.cl&quot;&gt;Centro de Ciencia del Clima y la Resiliencia&lt;/a&gt; (&lt;a href=&quot;https://vismet.cr2.cl&quot;&gt;VisMet&lt;/a&gt;) permiten reconstruir ese desplazamiento. En las estaciones analizadas, los acumulados superaron 250 mm en Coquimbo, Valparaíso y la Región Metropolitana. Sin embargo, el riesgo no dependió solo del total. También importaron la intensidad horaria, la concentración en uno o dos días, la repetición de pulsos sobre suelos húmedos y la exposición de ciudades, caminos, quebradas y sistemas de agua potable.&lt;/p&gt;
+
+&lt;p&gt;Este artículo resume la evolución nacional del episodio y presenta los registros regionales entre el 15 y el 19 de julio. Las cifras de impactos corresponden a balances oficiales difundidos mientras la emergencia aún estaba en desarrollo y, por ello, deben interpretarse como antecedentes provisionales.&lt;/p&gt;
+
+&lt;h2 id=&quot;índice&quot;&gt;Índice&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#balance-nacional&quot;&gt;Un episodio nacional, pero no simultáneo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#norte-chico&quot;&gt;Cómo el máximo de lluvia avanzó hacia el norte&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#atacama&quot;&gt;Reporte regional&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sintesis-nacional&quot;&gt;Síntesis hidrometeorológica&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lo-que-viene&quot;&gt;Implicaciones para la gestión del riesgo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#preguntas-frecuentes&quot;&gt;Preguntas frecuentes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fuentes&quot;&gt;Fuentes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;un-episodio-nacional-pero-no-simultáneo&quot;&gt;&lt;a id=&quot;balance-nacional&quot;&gt;&lt;/a&gt;Un episodio nacional, pero no simultáneo&lt;/h2&gt;
+
+&lt;p&gt;Los balances de Senapred publicados entre el 18 y el 20 de julio informaron fallecimientos, personas lesionadas, miles de damnificados y aislados, daños en viviendas, cortes de electricidad y agua potable, y numerosas interrupciones de rutas &lt;a href=&quot;#ref1&quot;&gt;¹&lt;/a&gt; &lt;a href=&quot;#ref2&quot;&gt;²&lt;/a&gt; &lt;a href=&quot;#ref9&quot;&gt;⁹&lt;/a&gt;. Coquimbo y la provincia de Huasco concentraron la fase más crítica al final del episodio, lo que llevó al anuncio de Estado de Catástrofe para esos territorios &lt;a href=&quot;#ref10&quot;&gt;¹⁰&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;La secuencia tuvo tres rasgos hidrometeorológicos principales. Primero, una cobertura latitudinal excepcional, con precipitación relevante a lo largo de más de 1.500 km. Segundo, una migración del máximo desde el centro-sur hacia el norte. Tercero, mecanismos de daño diferentes entre regiones: pulsos breves y muy intensos en la zona central; lluvias persistentes en Coquimbo; y varios pulsos sucesivos en Ñuble y Biobío.&lt;/p&gt;
+
+&lt;h2 id=&quot;cómo-el-máximo-de-lluvia-avanzó-hacia-el-norte&quot;&gt;&lt;a id=&quot;norte-chico&quot;&gt;&lt;/a&gt;Cómo el máximo de lluvia avanzó hacia el norte&lt;/h2&gt;
+
+&lt;p&gt;Durante la primera mitad del periodo, los mayores montos se concentraron entre La Araucanía y Ñuble. El 17 de julio, la banda más intensa alcanzó Valparaíso, la Región Metropolitana y O’Higgins. Entre el 18 y el 19, el foco se desplazó a Coquimbo y Atacama, donde la lluvia activó quebradas, elevó caudales y agravó problemas de conectividad y abastecimiento de agua.&lt;/p&gt;
+
+&lt;p&gt;Este desplazamiento es crucial para interpretar los datos: comparar solo los acumulados regionales oculta que cada territorio recibió el máximo en momentos distintos y bajo condiciones antecedentes diferentes.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-de-atacama&quot;&gt;&lt;a id=&quot;atacama&quot;&gt;&lt;/a&gt;Región de Atacama&lt;/h3&gt;
+
+&lt;p&gt;Atacama concentró el tramo final del episodio. La provincia de Huasco y Tierra Amarilla permanecieron bajo alerta roja por crecidas, activación de quebradas y riesgo de remociones en masa. Las estaciones seleccionadas muestran que el máximo se desplazó hacia el 18 y 19 de julio: Altar de la Virgen acumuló 159,6 mm y Alto del Carmen 133,3 mm, valores excepcionales para un territorio árido y con alta sensibilidad a lluvias intensas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Atacama.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 1. Ubicación de las estaciones pluviométricas analizadas en la Región de Atacama durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Atacama.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 1. Precipitación acumulada registrada en las estaciones pluviométricas de la Región de Atacama durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/Altar_de_la_Virgen.png&quot; alt=&quot;Altar de la Virgen — 159,6 mm acumulados, día de máximo 18-07&quot; /&gt;
+&lt;em&gt;Figura 1. Precipitación horaria y acumulada registrada en la estación Altar de la Virgen (Región de Atacama) entre el 15 y el 19 de julio de 2026, con un total de 159,6 mm y un monto máximo diario de 109,8 mm el 18-07. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/Alto_del_Carmen.png&quot; alt=&quot;Alto del Carmen — 133,3 mm acumulados, día de máximo 18-07&quot; /&gt;
+&lt;em&gt;Figura 2. Precipitación horaria y acumulada registrada en la estación Alto del Carmen (Región de Atacama) entre el 15 y el 19 de julio de 2026, con un total de 133,3 mm y un monto máximo diario de 99,7 mm el 18-07. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/CE_Huasco_Vallenar.png&quot; alt=&quot;CE Huasco Vallenar — 104,0 mm acumulados, día de máximo 19-07&quot; /&gt;
+&lt;em&gt;Figura 3. Precipitación horaria y acumulada registrada en la estación CE Huasco Vallenar (Región de Atacama) entre el 15 y el 19 de julio de 2026, con un total de 104,0 mm y un monto máximo diario de 50,3 mm el 19-07. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/Iglesia_Colorada.png&quot; alt=&quot;Iglesia Colorada — 94,8 mm acumulados, día de máximo 18-07&quot; /&gt;
+&lt;em&gt;Figura 4. Precipitación horaria y acumulada registrada en la estación Iglesia Colorada (Región de Atacama) entre el 15 y el 19 de julio de 2026, con un total de 94,8 mm y un monto máximo diario de 94,8 mm el 18-07. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-de-coquimbo&quot;&gt;&lt;a id=&quot;coquimbo&quot;&gt;&lt;/a&gt;Región de Coquimbo&lt;/h3&gt;
+
+&lt;p&gt;Coquimbo se convirtió en el principal foco de la emergencia. La persistencia de la lluvia durante aproximadamente 72 horas saturó los suelos, interrumpió rutas y comprometió sistemas de agua potable. Las Cardas acumuló 256,2 mm y Combarbalá 204,6 mm. El máximo regional ocurrió más tarde que en la zona central, coherente con el desplazamiento del sistema hacia el norte.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Coquimbo.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 2. Ubicación de las estaciones pluviométricas analizadas en la Región de Coquimbo durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Coquimbo.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 2. Precipitación acumulada registrada en las estaciones pluviométricas de la Región de Coquimbo durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Las_Cardas.png&quot; alt=&quot;Las Cardas — 256,2 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figura 5. Precipitación horaria y acumulada registrada en la estación Las Cardas (Región de Coquimbo) entre el 15 y el 19 de julio de 2026, con un total de 256,2 mm y un monto máximo diario de 153,9 mm el 18-Jul, valor que empata con San Diego (RM) como la estación con mayor acumulado total del país en el período de este informe. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Combarbala.png&quot; alt=&quot;Combarbalá — 204,6 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figura 6. Precipitación horaria y acumulada registrada en la estación Combarbalá (Región de Coquimbo) entre el 15 y el 19 de julio de 2026, con un total de 204,6 mm y un monto máximo diario de 94,4 mm el 18-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Quebrada_Seca.png&quot; alt=&quot;Quebrada Seca — 176,8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 7. Precipitación horaria y acumulada registrada en la estación Quebrada Seca (Región de Coquimbo) entre el 15 y el 19 de julio de 2026, con un total de 176,8 mm y un monto máximo diario de 82,0 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Salamanca.png&quot; alt=&quot;Salamanca — 173,8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 8. Precipitación horaria y acumulada registrada en la estación Salamanca (Región de Coquimbo) entre el 15 y el 19 de julio de 2026, con un total de 173,8 mm y un monto máximo diario de 104,4 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-de-valparaíso&quot;&gt;&lt;a id=&quot;valparaiso&quot;&gt;&lt;/a&gt;Región de Valparaíso&lt;/h3&gt;
+
+&lt;p&gt;Valparaíso combinó acumulados muy altos con pulsos de gran intensidad. La Cruz registró 250,6 mm, incluidos 214,4 mm el 17 de julio, mientras Catapilco y Palquico superaron 235 mm. Esta combinación de volumen, intensidad y concentración temporal favoreció anegamientos, deslizamientos y fallas prolongadas del suministro eléctrico.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Valparaiso.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 3. Ubicación de las estaciones pluviométricas analizadas en la Región de Valparaíso durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Valparaiso.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 3. Precipitación acumulada registrada en las estaciones pluviométricas de la Región de Valparaíso durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Valparaiso/La_Cruz.png&quot; alt=&quot;La Cruz — 250,6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 9. Precipitación horaria y acumulada registrada en la estación La Cruz (Región de Valparaíso) entre el 15 y el 19 de julio de 2026, con un total de 250,6 mm y un monto máximo diario de 214,4 mm el 17-Jul, el segundo más alto detectado en la red de estaciones analizada. La región registra una segunda estación con el mismo nombre (233,1 mm acumulados, 179,7 mm el 17-Jul), de la cual no se dispone de serie de tiempo. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Valparaiso/Catapilco.png&quot; alt=&quot;Catapilco — 237,2 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 10. Precipitación horaria y acumulada registrada en la estación Catapilco (Región de Valparaíso) entre el 15 y el 19 de julio de 2026, con un total de 237,2 mm y un monto máximo diario de 145,8 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Valparaiso/Palquico.png&quot; alt=&quot;Palquico — 235,6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 11. Precipitación horaria y acumulada registrada en la estación Palquico (Región de Valparaíso) entre el 15 y el 19 de julio de 2026, con un total de 235,6 mm y un monto máximo diario de 138,2 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-metropolitana-de-santiago&quot;&gt;&lt;a id=&quot;metropolitana&quot;&gt;&lt;/a&gt;Región Metropolitana de Santiago&lt;/h3&gt;
+
+&lt;p&gt;La Región Metropolitana registró el pulso diario más intenso de la red analizada. San Diego acumuló 217,6 mm el 17 de julio y 256,2 mm durante el periodo completo. Melipilla, El Monte y Calera de Tango siguieron un patrón similar, con gran parte de la precipitación concentrada en menos de 48 horas, una configuración especialmente crítica en cuencas urbanizadas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_Metropolitana_de_Santiago.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 4. Ubicación de las estaciones pluviométricas analizadas en la Región Metropolitana de Santiago durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_Metropolitana_de_Santiago.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 4. Precipitación acumulada registrada en las estaciones pluviométricas de la Región Metropolitana de Santiago durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/San_Diego.png&quot; alt=&quot;San Diego — 256,2 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 12. Precipitación horaria y acumulada registrada en la estación San Diego (Región Metropolitana) entre el 15 y el 19 de julio de 2026, con un total de 256,2 mm y un monto máximo diario de 217,6 mm el 17-Jul, el más alto registrado en todo el país durante el evento. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/Melipilla.png&quot; alt=&quot;Melipilla — 200,5 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 13. Precipitación horaria y acumulada registrada en la estación Melipilla (Región Metropolitana) entre el 15 y el 19 de julio de 2026, con un total de 200,5 mm y un monto máximo diario de 129,9 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/El_Monte.png&quot; alt=&quot;El Monte — 184,2 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 14. Precipitación horaria y acumulada registrada en la estación El Monte (Región Metropolitana) entre el 15 y el 19 de julio de 2026, con un total de 184,2 mm y un monto máximo diario de 136,2 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/Calera_de_Tango.png&quot; alt=&quot;Calera de Tango — 167,7 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 15. Precipitación horaria y acumulada registrada en la estación Calera de Tango (Región Metropolitana) entre el 15 y el 19 de julio de 2026, con un total de 167,7 mm y un monto máximo diario de 135,1 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-del-libertador-bernardo-ohiggins&quot;&gt;&lt;a id=&quot;ohiggins&quot;&gt;&lt;/a&gt;Región del Libertador Bernardo O’Higgins&lt;/h3&gt;
+
+&lt;p&gt;En O’Higgins predominó un único pulso muy concentrado entre la noche del 16 y el 17 de julio. Graneros Norte acumuló 236,8 mm, mientras Nancagua 2, Hidango y Palmilla superaron 200 mm. Las curvas acumuladas aumentan casi verticalmente durante pocas horas, señal de una respuesta potencialmente rápida de cauces, drenajes y laderas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_del_Libertador_Bernardo_OHiggins.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 5. Ubicación de las estaciones pluviométricas analizadas en la Región del Libertador Bernardo O’Higgins durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_del_Libertador_Bernardo_OHiggins.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 5. Precipitación acumulada registrada en las estaciones pluviométricas de la Región del Libertador Bernardo O’Higgins durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Graneros_Norte.png&quot; alt=&quot;Graneros Norte — 236,8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 16. Precipitación horaria y acumulada registrada en la estación Graneros Norte (Región de O’Higgins) entre el 15 y el 19 de julio de 2026, con un total de 236,8 mm y un monto máximo diario de 143,4 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Nancagua_2.png&quot; alt=&quot;Nancagua 2 — 226,6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 17. Precipitación horaria y acumulada registrada en la estación Nancagua 2 (Región de O’Higgins) entre el 15 y el 19 de julio de 2026, con un total de 226,6 mm y un monto máximo diario de 110,8 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Hidango.png&quot; alt=&quot;Hidango — 210,6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 18. Precipitación horaria y acumulada registrada en la estación Hidango (Región de O’Higgins) entre el 15 y el 19 de julio de 2026, con un total de 210,6 mm y un monto máximo diario de 127,9 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Palmilla.png&quot; alt=&quot;Palmilla — 206,6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 19. Precipitación horaria y acumulada registrada en la estación Palmilla (Región de O’Higgins) entre el 15 y el 19 de julio de 2026, con un total de 206,6 mm y un monto máximo diario de 115,0 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-del-maule&quot;&gt;&lt;a id=&quot;maule&quot;&gt;&lt;/a&gt;Región del Maule&lt;/h3&gt;
+
+&lt;p&gt;El Maule marcó una zona de transición entre los pulsos del centro-sur y el máximo de la zona central. Algunas estaciones alcanzaron su mayor precipitación el 15 de julio y otras el 17, lo que evidencia el paso sucesivo de bandas frontales. Los acumulados de las cuatro estaciones destacadas variaron entre 177,7 y 195,9 mm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_del_Maule.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 6. Ubicación de las estaciones pluviométricas analizadas en la Región del Maule durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_del_Maule.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 6. Precipitación acumulada registrada en las estaciones pluviométricas de la Región del Maule durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Lomas.png&quot; alt=&quot;Lomas — 195,9 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 20. Precipitación horaria y acumulada registrada en la estación Lomas (Región del Maule) entre el 15 y el 19 de julio de 2026, con un total de 195,9 mm y un monto máximo diario de 129,8 mm el 15-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Luis_Felipe_Edwards-Las_Rosas.png&quot; alt=&quot;Luis Felipe Edwards-Las Rosas — 192,1 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 21. Precipitación horaria y acumulada registrada en la estación Luis Felipe Edwards-Las Rosas (Región del Maule) entre el 15 y el 19 de julio de 2026, con un total de 192,1 mm y un monto máximo diario de 74,7 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Miraflores.png&quot; alt=&quot;Miraflores — 182,8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figura 22. Precipitación horaria y acumulada registrada en la estación Miraflores (Región del Maule) entre el 15 y el 19 de julio de 2026, con un total de 182,8 mm y un monto máximo diario de 79,2 mm el 17-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Retiro_Copihue.png&quot; alt=&quot;Retiro Copihue — 177,7 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 23. Precipitación horaria y acumulada registrada en la estación Retiro Copihue (Región del Maule) entre el 15 y el 19 de julio de 2026, con un total de 177,7 mm y un monto máximo diario de 74,0 mm el 15-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-de-ñuble&quot;&gt;&lt;a id=&quot;nuble&quot;&gt;&lt;/a&gt;Región de Ñuble&lt;/h3&gt;
+
+&lt;p&gt;Ñuble recibió dos pulsos bien diferenciados sobre un territorio ya húmedo. Yungay acumuló 217,5 mm y Chillán Mayulermo registró 140,0 mm el 15 de julio. La repetición de lluvias intensas, más que un único máximo aislado, aumentó la saturación del suelo y redujo la capacidad de almacenamiento de las cuencas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Nuble.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 7. Ubicación de las estaciones pluviométricas analizadas en la Región de Ñuble durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Nuble.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 7. Precipitación acumulada registrada en las estaciones pluviométricas de la Región de Ñuble durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Yungay.png&quot; alt=&quot;Yungay — 217,5 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 24. Precipitación horaria y acumulada registrada en la estación Yungay (Región de Ñuble) entre el 15 y el 19 de julio de 2026, con un total de 217,5 mm y un monto máximo diario de 97,9 mm el 15-07. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Chillan_Mayulermo.png&quot; alt=&quot;Chillán Mayulermo — 210,1 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 25. Precipitación horaria y acumulada registrada en la estación Chillán Mayulermo (Región de Ñuble) entre el 15 y el 19 de julio de 2026, con un total de 210,1 mm y un monto máximo diario de 140,0 mm el 15-Jul, el más alto detectado en todo el sur del país durante la primera mitad del evento. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Coihueco.png&quot; alt=&quot;Coihueco — 201,2 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 26. Precipitación horaria y acumulada registrada en la estación Coihueco (Región de Ñuble) entre el 15 y el 19 de julio de 2026, con un total de 201,2 mm y un monto máximo diario de 130,8 mm el 15-07. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Centro_Experimental_Arroz_INIA.png&quot; alt=&quot;Centro Experimental Arroz INIA — 170,2 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 27. Precipitación horaria y acumulada registrada en la estación Centro Experimental Arroz INIA (Región de Ñuble) entre el 15 y el 19 de julio de 2026, con un total de 170,2 mm y un monto máximo diario de 80,2 mm el 15-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-del-biobío&quot;&gt;&lt;a id=&quot;biobio&quot;&gt;&lt;/a&gt;Región del Biobío&lt;/h3&gt;
+
+&lt;p&gt;Biobío mostró la secuencia de pulsos más clara del centro-sur. Human acumuló 187,4 mm y Antuco 174,2 mm, pero los máximos diarios se repartieron entre el 15 y el 18 de julio. Esta persistencia explica acumulados elevados aun cuando los máximos diarios fueron menores que los observados en la zona central.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_del_Bio-Bio.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 8. Ubicación de las estaciones pluviométricas analizadas en la Región del Biobío durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_del_Bio-Bio.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 8. Precipitación acumulada registrada en las estaciones pluviométricas de la Región del Biobío durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Human.png&quot; alt=&quot;Human — 187,4 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 28. Precipitación horaria y acumulada registrada en la estación Human (Región del Biobío) entre el 15 y el 19 de julio de 2026, con un total de 187,4 mm y un monto máximo diario de 57,6 mm el 15-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Antuco.png&quot; alt=&quot;Antuco — 174,2 mm acumulados, día de máximo 18-07&quot; /&gt;
+&lt;em&gt;Figura 29. Precipitación horaria y acumulada registrada en la estación Antuco (Región del Biobío) entre el 15 y el 19 de julio de 2026, con un total de 174,2 mm y un monto máximo diario de 59,2 mm el 18-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Tierras_Nobles.png&quot; alt=&quot;Tierras Nobles — 157,8 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 30. Precipitación horaria y acumulada registrada en la estación Tierras Nobles (Región del Biobío) entre el 15 y el 19 de julio de 2026, con un total de 157,8 mm y un monto máximo diario de 42,4 mm el 15-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Mulchen.png&quot; alt=&quot;Mulchén — 157,6 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 31. Precipitación horaria y acumulada registrada en la estación Mulchén (Región del Biobío) entre el 15 y el 19 de julio de 2026, con un total de 157,6 mm y un monto máximo diario de 61,0 mm el 15-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-de-la-araucanía&quot;&gt;&lt;a id=&quot;araucania&quot;&gt;&lt;/a&gt;Región de La Araucanía&lt;/h3&gt;
+
+&lt;p&gt;La Araucanía recibió dos fases principales: una primera entre el 14 y el 15 de julio y otra entre el 16 y el 17. Renaico acumuló 154,6 mm y El Vergel 146,6 mm. El patrón confirma que ambos sistemas afectaron a la región, aunque con intensidades inferiores a las registradas más al norte.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_La_Araucania.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 9. Ubicación de las estaciones pluviométricas analizadas en la Región de La Araucanía durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_La_Araucania.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 9. Precipitación acumulada registrada en las estaciones pluviométricas de la Región de La Araucanía durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/Renaico.png&quot; alt=&quot;Renaico — 154,6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 32. Precipitación horaria y acumulada registrada en la estación Renaico (Región de La Araucanía) entre el 15 y el 19 de julio de 2026, con un total de 154,6 mm y un monto máximo diario de 61,2 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/El_Vergel.png&quot; alt=&quot;El Vergel — 146,6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 33. Precipitación horaria y acumulada registrada en la estación El Vergel (Región de La Araucanía) entre el 15 y el 19 de julio de 2026, con un total de 146,6 mm y un monto máximo diario de 73,5 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/San_Enrique.png&quot; alt=&quot;San Enrique — 131,0 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figura 34. Precipitación horaria y acumulada registrada en la estación San Enrique (Región de La Araucanía) entre el 15 y el 19 de julio de 2026, con un total de 131,0 mm y un monto máximo diario de 68,8 mm el 15-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/Las_Palmas.png&quot; alt=&quot;Las Palmas — 119,4 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 35. Precipitación horaria y acumulada registrada en la estación Las Palmas (Región de La Araucanía) entre el 15 y el 19 de julio de 2026, con un total de 119,4 mm y un monto máximo diario de 60,3 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-de-los-ríos&quot;&gt;&lt;a id=&quot;los-rios&quot;&gt;&lt;/a&gt;Región de Los Ríos&lt;/h3&gt;
+
+&lt;p&gt;Los Ríos fue una de las primeras regiones alcanzadas por la secuencia frontal. Las estaciones muestran un pulso inicial débil y una intensificación más clara el 16 de julio. La Estación Experimental Austral acumuló 95,3 mm; después del 17, la actividad disminuyó de forma marcada.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Los_Rios.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 10. Ubicación de las estaciones pluviométricas analizadas en la Región de Los Ríos durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Los_Rios.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 10. Precipitación acumulada registrada en las estaciones pluviométricas de la Región de Los Ríos durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Estacion_Experimental_Austral.png&quot; alt=&quot;Estación Experimental Austral — 95,3 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 36. Precipitación horaria y acumulada registrada en la Estación Experimental Austral (Región de Los Ríos) entre el 15 y el 19 de julio de 2026, con un total de 95,3 mm y un monto máximo diario de 53,2 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Santa_Carla.png&quot; alt=&quot;Santa Carla — 81,9 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 37. Precipitación horaria y acumulada registrada en la estación Santa Carla (Región de Los Ríos) entre el 15 y el 19 de julio de 2026, con un total de 81,9 mm y un monto máximo diario de 33,2 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Panguipulli.png&quot; alt=&quot;Panguipulli — 67,6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 38. Precipitación horaria y acumulada registrada en la estación Panguipulli (Región de Los Ríos) entre el 15 y el 19 de julio de 2026, con un total de 67,6 mm y un monto máximo diario de 35,3 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Isla_Teja_Universidad_Austral_Valdivia.png&quot; alt=&quot;Isla Teja (Universidad Austral Valdivia) — 67,4 mm acumulados, día de máximo 16-07&quot; /&gt;
+&lt;em&gt;Figura 39. Precipitación horaria y acumulada registrada en la estación Isla Teja (Universidad Austral Valdivia), Región de Los Ríos, entre el 15 y el 19 de julio de 2026, con un total de 67,4 mm y un monto máximo diario de 53,7 mm el 16-07. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;región-de-los-lagos&quot;&gt;&lt;a id=&quot;los-lagos&quot;&gt;&lt;/a&gt;Región de Los Lagos&lt;/h3&gt;
+
+&lt;p&gt;Los Lagos recibió lluvias persistentes, pero menos extremas que las observadas durante el episodio de comienzos de julio. Huacamapu acumuló 104,9 mm y Pid-Pid 82,6 mm, con máximos concentrados el 16 de julio. Las curvas se estabilizan rápidamente después de ese día, indicando un agotamiento temprano del evento en la región.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Series de tiempo y elementos interactivos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Los_Lagos.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Mapa 11. Ubicación de las estaciones pluviométricas analizadas en la Región de Los Lagos durante el sistema frontal del 15-19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Los_Lagos.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Tabla 11. Precipitación acumulada registrada en las estaciones pluviométricas de la Región de Los Lagos durante el período comprendido entre el 15 y el 19 de julio de 2026. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Huacamapu.png&quot; alt=&quot;Huacamapu — 104,9 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 40. Precipitación horaria y acumulada registrada en la estación Huacamapu (Región de Los Lagos) entre el 15 y el 19 de julio de 2026, con un total de 104,9 mm y un monto máximo diario de 51,6 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Pid-Pid.png&quot; alt=&quot;Pid-Pid — 82,6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 41. Precipitación horaria y acumulada registrada en la estación Pid-Pid (Región de Los Lagos) entre el 15 y el 19 de julio de 2026, con un total de 82,6 mm y un monto máximo diario de 76,1 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Quilquico.png&quot; alt=&quot;Quilquico — 76,9 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 42. Precipitación horaria y acumulada registrada en la estación Quilquico (Región de Los Lagos) entre el 15 y el 19 de julio de 2026, con un total de 76,9 mm y un monto máximo diario de 58,5 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Ancud_Liceo_Agricola.png&quot; alt=&quot;Ancud Liceo Agrícola — 69,8 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figura 43. Precipitación horaria y acumulada registrada en la estación Tenaún (Región de Los Lagos) entre el 15 y el 19 de julio de 2026, con un total de 69,8 mm y un monto máximo diario de 62,3 mm el 16-Jul. Fuente: Elaboración propia en base a datos obtenidos en el &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;Visualizador Meteorológico (VisMet)&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;síntesis-hidrometeorológica&quot;&gt;&lt;a id=&quot;sintesis-nacional&quot;&gt;&lt;/a&gt;Síntesis hidrometeorológica&lt;/h2&gt;
+
+&lt;p&gt;El episodio no fue una sola tormenta homogénea, sino una secuencia de sistemas frontales (“tren de sitemas frontales”) cuyo máximo se desplazó aproximadamente de sur a norte. Los Ríos y Los Lagos alcanzaron sus mayores montos el 16 de julio; Ñuble, Maule, O’Higgins, Valparaíso y la Región Metropolitana concentraron buena parte de la lluvia entre el 15 y el 17; Coquimbo y Atacama alcanzaron sus máximos entre el 18 y el 19.&lt;/p&gt;
+
+&lt;p&gt;En la red analizada, San Diego registró el mayor monto diario, con 217,6 mm el 17 de julio. Las Cardas y San Diego compartieron el mayor acumulado del periodo, con 256,2 mm. Estos valores describen estaciones concretas y no deben extrapolarse automáticamente a toda una región. La distribución espacial de la precipitación fue muy heterogénea, especialmente en zonas de relieve complejo.&lt;/p&gt;
+
+&lt;p&gt;La comparación regional también muestra que acumulados similares pueden producir respuestas distintas. Un pulso de 200 mm concentrado en menos de 24 horas no tiene las mismas implicaciones que el mismo volumen distribuido durante tres días. La intensidad, la humedad antecedente, la topografía, el uso del suelo, la capacidad de drenaje y la exposición de la población determinan conjuntamente el impacto.&lt;/p&gt;
+
+&lt;h2 id=&quot;implicaciones-para-la-gestión-del-riesgo&quot;&gt;&lt;a id=&quot;lo-que-viene&quot;&gt;&lt;/a&gt;Implicaciones para la gestión del riesgo&lt;/h2&gt;
+
+&lt;p&gt;Este evento refuerza cuatro prioridades para la gestión hidrometeorológica:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Integrar intensidad, duración y humedad antecedente en los sistemas de alerta, en lugar de depender solo del acumulado previsto.&lt;/li&gt;
+  &lt;li&gt;Monitorear quebradas y cuencas pequeñas, que pueden responder con gran rapidez aun cuando los ríos principales todavía no muestran crecidas extremas.&lt;/li&gt;
+  &lt;li&gt;Mantener redundancia en electricidad, comunicaciones, caminos y agua potable, porque las fallas encadenadas prolongan la emergencia después de que cesa la lluvia.&lt;/li&gt;
+  &lt;li&gt;Comunicar la incertidumbre y actualizar los balances con fecha y hora, especialmente durante eventos que se desplazan entre regiones.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;La recomendación operativa sigue siendo consultar información oficial de Senapred, la DMC, Sernageomin, la Dirección General de Aguas y los municipios; evitar cauces, quebradas y caminos inundados; y no ingresar a sectores con deslizamientos activos o daños estructurales.&lt;/p&gt;
+
+&lt;h2 id=&quot;preguntas-frecuentes&quot;&gt;&lt;a id=&quot;preguntas-frecuentes&quot;&gt;&lt;/a&gt;Preguntas frecuentes&lt;/h2&gt;
+
+&lt;h3 id=&quot;por-qué-se-habla-de-un-evento-nacional-si-no-llovió-con-la-misma-intensidad-en-todas-partes&quot;&gt;¿Por qué se habla de un evento nacional si no llovió con la misma intensidad en todas partes?&lt;/h3&gt;
+
+&lt;p&gt;Porque la secuencia afectó una franja territorial muy extensa, pero el máximo se desplazó con el tiempo. Las regiones del sur, centro y Norte Chico experimentaron fases distintas del mismo periodo sinóptico.&lt;/p&gt;
+
+&lt;h3 id=&quot;cuál-fue-el-mayor-registro-de-la-red-analizada&quot;&gt;¿Cuál fue el mayor registro de la red analizada?&lt;/h3&gt;
+
+&lt;p&gt;San Diego registró 217,6 mm en un día. San Diego y Las Cardas acumularon 256,2 mm durante el periodo completo. Son valores puntuales de estaciones y no promedios regionales.&lt;/p&gt;
+
+&lt;h3 id=&quot;por-qué-una-lluvia-persistente-puede-ser-tan-dañina-como-un-pulso-extremo&quot;&gt;¿Por qué una lluvia persistente puede ser tan dañina como un pulso extremo?&lt;/h3&gt;
+
+&lt;p&gt;Porque reduce progresivamente la capacidad de infiltración y almacenamiento del suelo. Cuando llega un nuevo pulso, una proporción mayor de la lluvia puede transformarse rápidamente en escorrentía.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-información-falta-para-estimar-plenamente-la-excepcionalidad-del-evento&quot;&gt;¿Qué información falta para estimar plenamente la excepcionalidad del evento?&lt;/h3&gt;
+
+&lt;p&gt;Se requieren series históricas homogéneas, control de calidad de los registros, análisis de frecuencia para varias duraciones, estimaciones espaciales y una evaluación conjunta de precipitación, caudales, humedad del suelo y daños observados.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;fuentes&quot;&gt;&lt;/a&gt;Fuentes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref1&quot;&gt;[1]: &lt;a href=&quot;https://www.latercera.com/nacional/noticia/sistema-frontal-en-chile-en-vivo-monitorea-las-lluvias-alertas-y-la-emergencia-en-el-norte-este-domingo/&quot; target=&quot;_blank&quot;&gt;Sistema frontal en Chile, EN VIVO: monitorea las lluvias, alertas y la emergencia en el norte este domingo - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref2&quot;&gt;[2]: &lt;a href=&quot;https://www.latercera.com/nacional/noticia/balance-por-sistema-frontal-cuatro-fallecidos-una-persona-desaparecida-969-albergadas-y-mas-de-11-mil-viviendas-danadas/&quot; target=&quot;_blank&quot;&gt;Balance por sistema frontal: cuatro fallecidos, una persona desaparecida, 969 albergadas y más de 11 mil viviendas dañadas - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref3&quot;&gt;[3]: &lt;a href=&quot;https://www.elmostrador.cl/noticias/pais/2026/07/14/dmc-emite-alarma-por-rio-atmosferico-en-la-zona-central-es-el-nivel-de-advertencia-mas-alto/&quot; target=&quot;_blank&quot;&gt;DMC emite alarma por río atmosférico en la zona central: es el nivel de advertencia más alto - El Mostrador&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref4&quot;&gt;[4]: &lt;a href=&quot;https://www.meteored.cl/noticias/prediccion/las-lluvias-no-terminan-en-la-region-metropolitana-otro-frente-con-rio-atmosferico-llegara-la-proxima-semana.html&quot; target=&quot;_blank&quot;&gt;Las lluvias no terminan en la Región Metropolitana: otro frente con río atmosférico llegará la próxima semana - Meteored Chile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref5&quot;&gt;[5]: &lt;a href=&quot;https://www.biobiochile.cl/biobiotv/programas/expreso-bio-bio/2026/07/17/se-aproxima-peak-del-sistema-frontal-dmc-detalla-los-diferentes-escenarios-en-las-regiones-del-pais.shtml&quot; target=&quot;_blank&quot;&gt;¿Se aproxima peak del sistema frontal? DMC detalla los diferentes escenarios en las regiones del país - BioBioChile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref6&quot;&gt;[6]: &lt;a href=&quot;https://www.latercera.com/servicios/noticia/sistema-frontal-traera-lluvia-viento-y-nevadas-revisa-el-pronostico-del-tiempo-para-las-distintas-regiones/&quot; target=&quot;_blank&quot;&gt;Sistema frontal traerá lluvia, viento y nevadas: revisa el pronóstico del tiempo para las distintas regiones - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref7&quot;&gt;[7]: &lt;a href=&quot;https://vismet.cr2.cl/&quot; target=&quot;_blank&quot;&gt;Datos de precipitación: Visualizador Meteorológico (VisMet)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref8&quot;&gt;[8]: &lt;a href=&quot;https://www.meteored.cl/noticias/prediccion/semana-full-lluvia-en-chile-centro-sur-sistemas-frontales-con-rio-atmosferico-se-aproximan-entre-nuble-y-los-rios.html&quot; target=&quot;_blank&quot;&gt;Semana full lluvia en Chile centro-sur: sistemas frontales con río atmosférico se aproximan entre Ñuble y Los Ríos - Meteored Chile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref9&quot;&gt;[9]: &lt;a href=&quot;https://www.latercera.com/nacional/noticia/preocupacion-por-sistema-frontal-se-focaliza-en-coquimbo-y-atacama-mientras-crece-presion-por-declarar-estado-de-catastrofe/&quot; target=&quot;_blank&quot;&gt;Preocupación por sistema frontal se focaliza en Coquimbo y Atacama mientras crece presión por declarar estado de catástrofe - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref10&quot;&gt;[10]: &lt;a href=&quot;https://www.emol.com/noticias/Nacional/2026/07/20/1206114/coquimbo-compleja-afectacion-sistema-frontal.html&quot; target=&quot;_blank&quot;&gt;En Coquimbo &quot;no había pasado nunca&quot;: Revisa el agua caída región por región y la comparación con el año pasado - Emol&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref11&quot;&gt;[11]: &lt;a href=&quot;https://www.meganoticias.cl/nacional/527307-actualizan-alarma-meteorologica-lluvias-coquimbo-montos-lluvia-pronostico-del-tiempo-19-07-2026.html&quot; target=&quot;_blank&quot;&gt;Hasta 60 mm de lluvia: Actualizan alarma meteorológica por precipitaciones intensas en la región de Coquimbo - Meganoticias&lt;/a&gt;&lt;/p&gt;</content><author><name>Lucas Salinas-Morales y Mauricio Zambrano-Bigiarini</name></author><category term="sistema-frontal" /><category term="rios-atmosfericos" /><category term="sistema-frontal" /><category term="rio-atmosferico" /><category term="precipitacion-extrema" /><category term="Chile" /><category term="emergencia" /><summary type="html">Entre el 15 y el 19 de julio de 2026, sucesivos sistemas frontales desplazaron el máximo de precipitación desde el sur hacia el Norte Chico, con acumulados superiores a 250 mm y graves impactos territoriales.</summary></entry><entry><title type="html">From Los Lagos to Atacama: a ‘train of frontal systems’ that shifted extreme rain across Chile</title><link href="http://localhost:4000/frontal-system/atmospheric-rivers/ExtremeEvent_AtacamaCoquimbo_15-19_July_2026/" rel="alternate" type="text/html" title="From Los Lagos to Atacama: a ‘train of frontal systems’ that shifted extreme rain across Chile" /><published>2026-07-20T18:00:00-04:00</published><updated>2026-07-20T18:00:00-04:00</updated><id>http://localhost:4000/frontal-system/atmospheric-rivers/ExtremeEvent_AtacamaCoquimbo_15-19_July_2026</id><content type="html" xml:base="http://localhost:4000/frontal-system/atmospheric-rivers/ExtremeEvent_AtacamaCoquimbo_15-19_July_2026/">&lt;p&gt;Between 15 and 19 July 2026, Chile experienced a meteorological sequence that was unusual in its spatial extent, persistence and geographical progression. Several frontal systems, reinforced by atmospheric rivers, brought rainfall from Los Lagos to Atacama. The maximum did not remain stationary: it began in south-central Chile, reached the central regions on 17 July, and finally concentrated over Coquimbo and southern Atacama during the weekend.&lt;/p&gt;
+
+&lt;p&gt;Records from the &lt;a href=&quot;https://vismet.cr2.cl&quot;&gt;VisMet&lt;/a&gt; meteorological viewer of the &lt;a href=&quot;https://www.cr2.cl&quot;&gt;Center for Climate Science and Resilience&lt;/a&gt; reveal this northward progression. At the analysed gauges, event totals exceeded 250 mm in Coquimbo, Valparaíso and the Santiago Metropolitan Region. Risk, however, was not controlled by the total alone. Hourly intensity, concentration within one or two days, repeated pulses over wet soils, and the exposure of cities, roads, ephemeral channels and drinking-water systems were equally important.&lt;/p&gt;
+
+&lt;p&gt;This article summarises the national evolution of the event and presents regional observations for 15-19 July. Impact figures were published while the emergency was still developing and should therefore be treated as provisional.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#national-overview&quot;&gt;A nationwide event, but not a simultaneous one&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#northward-shift&quot;&gt;How the rainfall maximum moved northwards&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#atacama&quot;&gt;Regional report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#national-synthesis&quot;&gt;Hydrometeorological synthesis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#risk-management&quot;&gt;Implications for risk management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#frequently-asked-questions&quot;&gt;Frequently asked questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sources&quot;&gt;Sources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-nationwide-event-but-not-a-simultaneous-one&quot;&gt;&lt;a id=&quot;national-overview&quot;&gt;&lt;/a&gt;A nationwide event, but not a simultaneous one&lt;/h2&gt;
+
+&lt;p&gt;Senapred situation reports issued between 18 and 20 July documented fatalities, injuries, thousands of displaced or isolated people, damage to housing, electricity and drinking-water outages, and numerous road closures &lt;a href=&quot;#ref1&quot;&gt;¹&lt;/a&gt; &lt;a href=&quot;#ref2&quot;&gt;²&lt;/a&gt; &lt;a href=&quot;#ref9&quot;&gt;⁹&lt;/a&gt;. Coquimbo and Huasco Province experienced the most critical final phase, leading to the announcement of a State of Catastrophe for those territories &lt;a href=&quot;#ref10&quot;&gt;¹⁰&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The sequence had three main hydrometeorological characteristics. First, it covered an exceptional latitudinal range, with substantial rainfall over more than 1.500 km. Secondly, the rainfall maximum migrated from south-central Chile towards the north. Thirdly, the dominant damage mechanism differed among regions: short and very intense bursts in central Chile, persistent rainfall in Coquimbo, and repeated pulses in Ñuble and Biobío.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-the-rainfall-maximum-moved-northwards&quot;&gt;&lt;a id=&quot;northward-shift&quot;&gt;&lt;/a&gt;How the rainfall maximum moved northwards&lt;/h2&gt;
+
+&lt;p&gt;During the first half of the period, the largest totals were concentrated between La Araucanía and Ñuble. On 17 July, the most intense rainband reached Valparaíso, the Santiago Metropolitan Region and O’Higgins. During 18-19 July, the main focus shifted to Coquimbo and Atacama, where rainfall activated ephemeral channels, increased river flows, and aggravated transport and drinking-water disruptions.&lt;/p&gt;
+
+&lt;p&gt;This progression is essential for interpreting the observations: comparisons based only on regional totals conceal the fact that each territory experienced its maximum at a different time and under different antecedent conditions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;atacama-region&quot;&gt;&lt;a id=&quot;atacama&quot;&gt;&lt;/a&gt;Atacama Region&lt;/h3&gt;
+
+&lt;p&gt;Atacama experienced the final and northernmost phase of the event. Huasco Province and Tierra Amarilla remained under red alert because of rising rivers, activated ephemeral channels and landslide risk. The selected gauges show that the maximum shifted to 18-19 July: Altar de la Virgen recorded 159.6 mm and Alto del Carmen 133.3 mm, exceptional totals for an arid region highly sensitive to intense rainfall.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Atacama.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 1. Location of the rain gauges analysed in the Atacama Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Atacama.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 1. Accumulated precipitation recorded at rain gauges in the Atacama Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/Altar_de_la_Virgen.png&quot; alt=&quot;Altar de la Virgen — 159.6 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figure 1. Hourly and accumulated precipitation recorded at Altar de la Virgen (Atacama) between 15 and 19 July 2026, with an event total of 159.6 mm and a maximum daily total of 109.8 mm on 18 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/Alto_del_Carmen.png&quot; alt=&quot;Alto del Carmen — 133.3 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figure 2. Hourly and accumulated precipitation recorded at Alto del Carmen (Atacama) between 15 and 19 July 2026, with an event total of 133.3 mm and a maximum daily total of 99.7 mm on 18 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/CE_Huasco_Vallenar.png&quot; alt=&quot;CE Huasco Vallenar — 104.0 mm acumulados, día de máximo 19-Jul&quot; /&gt;
+&lt;em&gt;Figure 3. Hourly and accumulated precipitation recorded at CE Huasco Vallenar (Atacama) between 15 and 19 July 2026, with an event total of 104.0 mm and a maximum daily total of 50.3 mm on 19 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Atacama/Iglesia_Colorada.png&quot; alt=&quot;Iglesia Colorada — 94.8 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figure 4. Hourly and accumulated precipitation recorded at Iglesia Colorada (Atacama) between 15 and 19 July 2026, with an event total of 94.8 mm and a maximum daily total of 94.8 mm on 18 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;coquimbo-region&quot;&gt;&lt;a id=&quot;coquimbo&quot;&gt;&lt;/a&gt;Coquimbo Region&lt;/h3&gt;
+
+&lt;p&gt;Coquimbo became the main focus of the emergency. Rainfall persisted for roughly 72 hours, saturating soils, disrupting roads and affecting drinking-water systems. Las Cardas recorded 256.2 mm and Combarbalá 204.6 mm. The regional maximum occurred later than in central Chile, consistent with the northward movement of the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Coquimbo.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 2. Location of the rain gauges analysed in the Coquimbo Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Coquimbo.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 2. Accumulated precipitation recorded at rain gauges in the Coquimbo Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Las_Cardas.png&quot; alt=&quot;Las Cardas — 256.2 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figure 5. Hourly and accumulated precipitation recorded at Las Cardas (Coquimbo) between 15 and 19 July 2026, with an event total of 256.2 mm and a maximum daily total of 153.9 mm on 18 July, equal to San Diego (Santiago Metropolitan Region) as the largest event total in this report. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Combarbala.png&quot; alt=&quot;Combarbalá — 204.6 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figure 6. Hourly and accumulated precipitation recorded at Combarbalá (Coquimbo) between 15 and 19 July 2026, with an event total of 204.6 mm and a maximum daily total of 94.4 mm on 18 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Quebrada_Seca.png&quot; alt=&quot;Quebrada Seca — 176.8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 7. Hourly and accumulated precipitation recorded at Quebrada Seca (Coquimbo) between 15 and 19 July 2026, with an event total of 176.8 mm and a maximum daily total of 82.0 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Coquimbo/Salamanca.png&quot; alt=&quot;Salamanca — 173.8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 8. Hourly and accumulated precipitation recorded at Salamanca (Coquimbo) between 15 and 19 July 2026, with an event total of 173.8 mm and a maximum daily total of 104.4 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;valparaíso-region&quot;&gt;&lt;a id=&quot;valparaiso&quot;&gt;&lt;/a&gt;Valparaíso Region&lt;/h3&gt;
+
+&lt;p&gt;Valparaíso combined very large totals with exceptionally intense bursts. La Cruz recorded 250.6 mm, including 214.4 mm on 17 July, while Catapilco and Palquico exceeded 235 mm. The combination of volume, intensity and short duration increased the likelihood of flooding, slope failures and prolonged electricity outages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Valparaiso.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 3. Location of the rain gauges analysed in the Valparaíso Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Valparaiso.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 3. Accumulated precipitation recorded at rain gauges in the Valparaíso Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Valparaiso/La_Cruz.png&quot; alt=&quot;La Cruz — 250.6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 9. Hourly and accumulated precipitation recorded at La Cruz (Valparaíso) between 15 and 19 July 2026, with an event total of 250.6 mm and a maximum daily total of 214.4 mm on 17 July, the second-largest daily total in the analysed gauge network. La región registra una segunda estación con el mismo nombre (233.1 mm acumulados, 179.7 mm on 17 July), de la cual no se dispone de serie de tiempo. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Valparaiso/Catapilco.png&quot; alt=&quot;Catapilco — 237.2 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 10. Hourly and accumulated precipitation recorded at Catapilco (Valparaíso) between 15 and 19 July 2026, with an event total of 237.2 mm and a maximum daily total of 145.8 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Valparaiso/Palquico.png&quot; alt=&quot;Palquico — 235.6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 11. Hourly and accumulated precipitation recorded at Palquico (Valparaíso) between 15 and 19 July 2026, with an event total of 235.6 mm and a maximum daily total of 138.2 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;santiago-metropolitan-region&quot;&gt;&lt;a id=&quot;metropolitana&quot;&gt;&lt;/a&gt;Santiago Metropolitan Region&lt;/h3&gt;
+
+&lt;p&gt;The Santiago Metropolitan Region recorded the largest daily total in the analysed network. San Diego received 217.6 mm on 17 July and 256.2 mm over the full period. Melipilla, El Monte and Calera de Tango followed a similar pattern, with much of the rainfall concentrated within 48 hours - a particularly critical configuration in urbanised catchments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_Metropolitana_de_Santiago.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 4. Location of the rain gauges analysed in the Santiago Metropolitan Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_Metropolitana_de_Santiago.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 4. Accumulated precipitation recorded at rain gauges in the Santiago Metropolitan Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/San_Diego.png&quot; alt=&quot;San Diego — 256.2 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 12. Hourly and accumulated precipitation recorded at San Diego (Santiago Metropolitan Region) between 15 and 19 July 2026, with an event total of 256.2 mm and a maximum daily total of 217.6 mm on 17 July, the largest daily total recorded in the country during the event. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/Melipilla.png&quot; alt=&quot;Melipilla — 200.5 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 13. Hourly and accumulated precipitation recorded at Melipilla (Santiago Metropolitan Region) between 15 and 19 July 2026, with an event total of 200.5 mm and a maximum daily total of 129.9 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/El_Monte.png&quot; alt=&quot;El Monte — 184.2 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 14. Hourly and accumulated precipitation recorded at El Monte (Santiago Metropolitan Region) between 15 and 19 July 2026, with an event total of 184.2 mm and a maximum daily total of 136.2 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_Metropolitana_de_Santiago/Calera_de_Tango.png&quot; alt=&quot;Calera de Tango — 167.7 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 15. Hourly and accumulated precipitation recorded at Calera de Tango (Santiago Metropolitan Region) between 15 and 19 July 2026, with an event total of 167.7 mm and a maximum daily total of 135.1 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;libertador-general-bernardo-ohiggins-region&quot;&gt;&lt;a id=&quot;ohiggins&quot;&gt;&lt;/a&gt;Libertador General Bernardo O’Higgins Region&lt;/h3&gt;
+
+&lt;p&gt;O’Higgins was dominated by a single, highly concentrated pulse between the night of 16 July and 17 July. Graneros Norte recorded 236.8 mm, while Nancagua 2, Hidango and Palmilla exceeded 200 mm. Their accumulation curves rise almost vertically over only a few hours, indicating the potential for rapid responses in channels, drainage systems and hillslopes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_del_Libertador_Bernardo_OHiggins.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 5. Location of the rain gauges analysed in the O’Higgins Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_del_Libertador_Bernardo_OHiggins.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 5. Accumulated precipitation recorded at rain gauges in the O’Higgins Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Graneros_Norte.png&quot; alt=&quot;Graneros Norte — 236.8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 16. Hourly and accumulated precipitation recorded at Graneros Norte (O’Higgins) between 15 and 19 July 2026, with an event total of 236.8 mm and a maximum daily total of 143.4 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Nancagua_2.png&quot; alt=&quot;Nancagua 2 — 226.6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 17. Hourly and accumulated precipitation recorded at Nancagua 2 (O’Higgins) between 15 and 19 July 2026, with an event total of 226.6 mm and a maximum daily total of 110.8 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Hidango.png&quot; alt=&quot;Hidango — 210.6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 18. Hourly and accumulated precipitation recorded at Hidango (O’Higgins) between 15 and 19 July 2026, with an event total of 210.6 mm and a maximum daily total of 127.9 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Libertador_Bernardo_OHiggins/Palmilla.png&quot; alt=&quot;Palmilla — 206.6 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 19. Hourly and accumulated precipitation recorded at Palmilla (O’Higgins) between 15 and 19 July 2026, with an event total of 206.6 mm and a maximum daily total of 115.0 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;maule-region&quot;&gt;&lt;a id=&quot;maule&quot;&gt;&lt;/a&gt;Maule Region&lt;/h3&gt;
+
+&lt;p&gt;Maule marked the transition between the earlier south-central pulses and the central-Chile maximum. Some gauges peaked on 15 July and others on 17 July, showing the passage of successive frontal rainbands. Totals at the four highlighted stations ranged from 177.7 to 195.9 mm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_del_Maule.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 6. Location of the rain gauges analysed in the Maule Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_del_Maule.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 6. Accumulated precipitation recorded at rain gauges in the Maule Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Lomas.png&quot; alt=&quot;Lomas — 195.9 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 20. Hourly and accumulated precipitation recorded at Lomas (Maule Region) between 15 and 19 July 2026, with an event total of 195.9 mm and a maximum daily total of 129.8 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Luis_Felipe_Edwards-Las_Rosas.png&quot; alt=&quot;Luis Felipe Edwards-Las Rosas — 192.1 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 21. Hourly and accumulated precipitation recorded at Luis Felipe Edwards-Las Rosas (Maule Region) between 15 and 19 July 2026, with an event total of 192.1 mm and a maximum daily total of 74.7 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Miraflores.png&quot; alt=&quot;Miraflores — 182.8 mm acumulados, día de máximo 17-Jul&quot; /&gt;
+&lt;em&gt;Figure 22. Hourly and accumulated precipitation recorded at Miraflores (Maule Region) between 15 and 19 July 2026, with an event total of 182.8 mm and a maximum daily total of 79.2 mm on 17 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Maule/Retiro_Copihue.png&quot; alt=&quot;Retiro Copihue — 177.7 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 23. Hourly and accumulated precipitation recorded at Retiro Copihue (Maule Region) between 15 and 19 July 2026, with an event total of 177.7 mm and a maximum daily total of 74.0 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;ñuble-region&quot;&gt;&lt;a id=&quot;nuble&quot;&gt;&lt;/a&gt;Ñuble Region&lt;/h3&gt;
+
+&lt;p&gt;Ñuble received two distinct rainfall pulses over already wet ground. Yungay accumulated 217.5 mm, and Chillán Mayulermo recorded 140.0 mm on 15 July. Repeated heavy rainfall, rather than one isolated peak, increased soil saturation and reduced catchment storage capacity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Nuble.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 7. Location of the rain gauges analysed in the Ñuble Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Nuble.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 7. Accumulated precipitation recorded at rain gauges in the Ñuble Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Yungay.png&quot; alt=&quot;Yungay — 217.5 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 24. Hourly and accumulated precipitation recorded at Yungay (Ñuble) between 15 and 19 July 2026, with an event total of 217.5 mm and a maximum daily total of 97.9 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Chillan_Mayulermo.png&quot; alt=&quot;Chillán Mayulermo — 210.1 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 25. Hourly and accumulated precipitation recorded at Chillán Mayulermo (Ñuble) between 15 and 19 July 2026, with an event total of 210.1 mm and a maximum daily total of 140.0 mm on 15 July, the largest daily total detected in southern Chile during the first half of the event. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Coihueco.png&quot; alt=&quot;Coihueco — 201.2 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 26. Hourly and accumulated precipitation recorded at Coihueco (Ñuble) between 15 and 19 July 2026, with an event total of 201.2 mm and a maximum daily total of 130.8 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Nuble/Centro_Experimental_Arroz_INIA.png&quot; alt=&quot;Centro Experimental Arroz INIA — 170.2 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 27. Hourly and accumulated precipitation recorded at Centro Experimental Arroz INIA (Ñuble) between 15 and 19 July 2026, with an event total of 170.2 mm and a maximum daily total of 80.2 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;biobío-region&quot;&gt;&lt;a id=&quot;biobio&quot;&gt;&lt;/a&gt;Biobío Region&lt;/h3&gt;
+
+&lt;p&gt;Biobío displayed the clearest sequence of multiple pulses in south-central Chile. Human accumulated 187.4 mm and Antuco 174.2 mm, while daily maxima were distributed between 15 and 18 July. This persistence produced large event totals even though daily maxima were lower than those observed farther north.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_del_Bio-Bio.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 8. Location of the rain gauges analysed in the Biobío Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_del_Bio-Bio.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 8. Accumulated precipitation recorded at rain gauges in the Biobío Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Human.png&quot; alt=&quot;Human — 187.4 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 28. Hourly and accumulated precipitation recorded at Human (Biobío Region) between 15 and 19 July 2026, with an event total of 187.4 mm and a maximum daily total of 57.6 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Antuco.png&quot; alt=&quot;Antuco — 174.2 mm acumulados, día de máximo 18-Jul&quot; /&gt;
+&lt;em&gt;Figure 29. Hourly and accumulated precipitation recorded at Antuco (Biobío Region) between 15 and 19 July 2026, with an event total of 174.2 mm and a maximum daily total of 59.2 mm on 18 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Tierras_Nobles.png&quot; alt=&quot;Tierras Nobles — 157.8 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 30. Hourly and accumulated precipitation recorded at Tierras Nobles (Biobío Region) between 15 and 19 July 2026, with an event total of 157.8 mm and a maximum daily total of 42.4 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_del_Bio-Bio/Mulchen.png&quot; alt=&quot;Mulchén — 157.6 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 31. Hourly and accumulated precipitation recorded at Mulchén (Biobío Region) between 15 and 19 July 2026, with an event total of 157.6 mm and a maximum daily total of 61.0 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;la-araucanía-region&quot;&gt;&lt;a id=&quot;araucania&quot;&gt;&lt;/a&gt;La Araucanía Region&lt;/h3&gt;
+
+&lt;p&gt;La Araucanía experienced two main phases: one during 14-15 July and another during 16-17 July. Renaico accumulated 154.6 mm and El Vergel 146.6 mm. The pattern confirms that both frontal systems affected the region, although less intensely than farther north.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_La_Araucania.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 9. Location of the rain gauges analysed in the La Araucanía Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_La_Araucania.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 9. Accumulated precipitation recorded at rain gauges in the La Araucanía Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/Renaico.png&quot; alt=&quot;Renaico — 154.6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 32. Hourly and accumulated precipitation recorded at Renaico (La Araucanía) between 15 and 19 July 2026, with an event total of 154.6 mm and a maximum daily total of 61.2 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/El_Vergel.png&quot; alt=&quot;El Vergel — 146.6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 33. Hourly and accumulated precipitation recorded at El Vergel (La Araucanía) between 15 and 19 July 2026, with an event total of 146.6 mm and a maximum daily total of 73.5 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/San_Enrique.png&quot; alt=&quot;San Enrique — 131.0 mm acumulados, día de máximo 15-Jul&quot; /&gt;
+&lt;em&gt;Figure 34. Hourly and accumulated precipitation recorded at San Enrique (La Araucanía) between 15 and 19 July 2026, with an event total of 131.0 mm and a maximum daily total of 68.8 mm on 15 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_La_Araucania/Las_Palmas.png&quot; alt=&quot;Las Palmas — 119.4 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 35. Hourly and accumulated precipitation recorded at Las Palmas (La Araucanía) between 15 and 19 July 2026, with an event total of 119.4 mm and a maximum daily total of 60.3 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;los-ríos-region&quot;&gt;&lt;a id=&quot;los-rios&quot;&gt;&lt;/a&gt;Los Ríos Region&lt;/h3&gt;
+
+&lt;p&gt;Los Ríos was among the first regions reached by the frontal sequence. The gauges show a weak initial pulse followed by clearer intensification on 16 July. Estación Experimental Austral accumulated 95.3 mm; rainfall activity declined sharply after 17 July.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Los_Rios.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 10. Location of the rain gauges analysed in the Los Ríos Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Los_Rios.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 10. Accumulated precipitation recorded at rain gauges in the Los Ríos Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Estacion_Experimental_Austral.png&quot; alt=&quot;Estación Experimental Austral — 95.3 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 36. Hourly and accumulated precipitation recorded at Experimental Austral (Los Ríos) between 15 and 19 July 2026, with an event total of 95.3 mm and a maximum daily total of 53.2 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Santa_Carla.png&quot; alt=&quot;Santa Carla — 81.9 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 37. Hourly and accumulated precipitation recorded at Santa Carla (Los Ríos) between 15 and 19 July 2026, with an event total of 81.9 mm and a maximum daily total of 33.2 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Panguipulli.png&quot; alt=&quot;Panguipulli — 67.6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 38. Hourly and accumulated precipitation recorded at Panguipulli (Los Ríos) between 15 and 19 July 2026, with an event total of 67.6 mm and a maximum daily total of 35.3 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Rios/Isla_Teja_Universidad_Austral_Valdivia.png&quot; alt=&quot;Isla Teja (Universidad Austral Valdivia) — 67.4 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 39. Hourly and accumulated precipitation recorded at Isla Teja (Universidad Austral Valdivia), Los Ríos, between 15 and 19 July 2026, with an event total of 67.4 mm and a maximum daily total of 53.7 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;los-lagos-region&quot;&gt;&lt;a id=&quot;los-lagos&quot;&gt;&lt;/a&gt;Los Lagos Region&lt;/h3&gt;
+
+&lt;p&gt;Los Lagos received persistent rainfall, but conditions were less extreme than during the early-July episode. Huacamapu accumulated 104.9 mm and Pid-Pid 82.6 mm, with maxima concentrated on 16 July. The accumulation curves flatten rapidly afterwards, indicating that the event ended relatively early in this region.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time series and interactive elements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_map_Region_de_Los_Lagos.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Map 11. Location of the rain gauges analysed in the Los Lagos Region during the frontal-system event of 15-19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;420&quot; src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/report_table_Region_de_Los_Lagos.html&quot; frameborder=&quot;0&quot; style=&quot;display: block; margin: 0 auto&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Table 11. Accumulated precipitation recorded at rain gauges in the Los Lagos Region between 15 and 19 July 2026. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Huacamapu.png&quot; alt=&quot;Huacamapu — 104.9 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 40. Hourly and accumulated precipitation recorded at Huacamapu (Los Lagos) between 15 and 19 July 2026, with an event total of 104.9 mm and a maximum daily total of 51.6 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Pid-Pid.png&quot; alt=&quot;Pid-Pid — 82.6 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 41. Hourly and accumulated precipitation recorded at Pid-Pid (Los Lagos) between 15 and 19 July 2026, with an event total of 82.6 mm and a maximum daily total of 76.1 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Quilquico.png&quot; alt=&quot;Quilquico — 76.9 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 42. Hourly and accumulated precipitation recorded at Quilquico (Los Lagos) between 15 and 19 July 2026, with an event total of 76.9 mm and a maximum daily total of 58.5 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2026-07-20/atacama-coquimbo/Data/Region_de_Los_Lagos/Ancud_Liceo_Agricola.png&quot; alt=&quot;Ancud Liceo Agrícola — 69.8 mm acumulados, día de máximo 16-Jul&quot; /&gt;
+&lt;em&gt;Figure 43. Hourly and accumulated precipitation recorded at Tenaún (Los Lagos) between 15 and 19 July 2026, with an event total of 69.8 mm and a maximum daily total of 62.3 mm on 16 July. Source: Authors’ analysis based on data from the &lt;a href=&quot;https://vismet.cr2.cl/&quot;&gt;VisMet meteorological viewer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;hydrometeorological-synthesis&quot;&gt;&lt;a id=&quot;national-synthesis&quot;&gt;&lt;/a&gt;Hydrometeorological synthesis&lt;/h2&gt;
+
+&lt;p&gt;This was not one spatially uniform storm, but a sequence of systems whose rainfall maximum moved broadly from south to north. Los Ríos and Los Lagos reached their largest totals on 16 July; Ñuble, Maule, O’Higgins, Valparaíso and the Santiago Metropolitan Region received much of their rainfall between 15 and 17 July; Coquimbo and Atacama peaked during 18-19 July.&lt;/p&gt;
+
+&lt;p&gt;Within the analysed network, San Diego recorded the largest daily total, 217.6 mm on 17 July. Las Cardas and San Diego shared the largest event total, 256.2 mm. These values represent individual gauges and should not be extrapolated automatically to an entire region. Rainfall was highly heterogeneous, particularly across complex terrain.&lt;/p&gt;
+
+&lt;p&gt;The regional comparison also shows that similar totals can produce different responses. Two hundred millimetres falling within 24 hours does not have the same implications as the same amount distributed over three days. Intensity, antecedent moisture, topography, land use, drainage capacity and population exposure jointly determine the resulting impacts.&lt;/p&gt;
+
+&lt;h2 id=&quot;implications-for-risk-management&quot;&gt;&lt;a id=&quot;risk-management&quot;&gt;&lt;/a&gt;Implications for risk management&lt;/h2&gt;
+
+&lt;p&gt;The event reinforces four priorities for hydrometeorological risk management:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Warning systems should combine intensity, duration and antecedent wetness rather than relying only on forecast event totals.&lt;/li&gt;
+  &lt;li&gt;Small catchments and ephemeral channels require direct monitoring because they can respond rapidly before major rivers reach extreme levels.&lt;/li&gt;
+  &lt;li&gt;Electricity, communications, roads and drinking-water systems need operational redundancy because cascading failures can extend the emergency after rainfall has ended.&lt;/li&gt;
+  &lt;li&gt;Public communication should state uncertainty and timestamp every update, particularly during events whose main impact area shifts between regions.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Operational guidance remains to follow official information from Senapred, the Chilean Meteorological Directorate, Sernageomin, the General Water Directorate and municipalities; avoid rivers, ephemeral channels and flooded roads; and stay away from active landslides or structurally damaged areas.&lt;/p&gt;
+
+&lt;h2 id=&quot;frequently-asked-questions&quot;&gt;&lt;a id=&quot;frequently-asked-questions&quot;&gt;&lt;/a&gt;Frequently asked questions&lt;/h2&gt;
+
+&lt;h3 id=&quot;why-is-this-described-as-a-nationwide-event-if-rainfall-intensity-differed-among-regions&quot;&gt;Why is this described as a nationwide event if rainfall intensity differed among regions?&lt;/h3&gt;
+
+&lt;p&gt;Because the sequence affected a very large part of continental Chile, although the maximum shifted over time. Southern, central and Norte Chico regions experienced different phases of the same synoptic period.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-was-the-largest-observation-in-the-analysed-network&quot;&gt;What was the largest observation in the analysed network?&lt;/h3&gt;
+
+&lt;p&gt;San Diego recorded 217.6 mm in one day. San Diego and Las Cardas each accumulated 256.2 mm over the full period. These are point-gauge values, not regional averages.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-can-persistent-rainfall-be-as-damaging-as-a-short-extreme-burst&quot;&gt;Why can persistent rainfall be as damaging as a short extreme burst?&lt;/h3&gt;
+
+&lt;p&gt;Persistent rainfall progressively reduces soil infiltration and storage capacity. When a new pulse arrives, a larger fraction of the precipitation may be converted rapidly into runoff.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-evidence-is-still-needed-to-quantify-the-events-rarity&quot;&gt;What evidence is still needed to quantify the event’s rarity?&lt;/h3&gt;
+
+&lt;p&gt;A robust assessment requires quality-controlled, homogeneous historical series; frequency analysis across several durations; spatial rainfall estimates; and a joint evaluation of precipitation, streamflow, soil moisture and observed damage.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;sources&quot;&gt;&lt;/a&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;p id=&quot;ref1&quot;&gt;[1]: &lt;a href=&quot;https://www.latercera.com/nacional/noticia/sistema-frontal-en-chile-en-vivo-monitorea-las-lluvias-alertas-y-la-emergencia-en-el-norte-este-domingo/&quot; target=&quot;_blank&quot;&gt;Sistema frontal en Chile, EN VIVO: monitorea las lluvias, alertas y la emergencia en el norte este domingo - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref2&quot;&gt;[2]: &lt;a href=&quot;https://www.latercera.com/nacional/noticia/balance-por-sistema-frontal-cuatro-fallecidos-una-persona-desaparecida-969-albergadas-y-mas-de-11-mil-viviendas-danadas/&quot; target=&quot;_blank&quot;&gt;Balance por sistema frontal: cuatro fallecidos, una persona desaparecida, 969 albergadas y más de 11 mil viviendas dañadas - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref3&quot;&gt;[3]: &lt;a href=&quot;https://www.elmostrador.cl/noticias/pais/2026/07/14/dmc-emite-alarma-por-rio-atmosferico-en-la-zona-central-es-el-nivel-de-advertencia-mas-alto/&quot; target=&quot;_blank&quot;&gt;DMC emite alarma por río atmosférico en la zona central: es el nivel de advertencia más alto - El Mostrador&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref4&quot;&gt;[4]: &lt;a href=&quot;https://www.meteored.cl/noticias/prediccion/las-lluvias-no-terminan-en-la-region-metropolitana-otro-frente-con-rio-atmosferico-llegara-la-proxima-semana.html&quot; target=&quot;_blank&quot;&gt;Las lluvias no terminan en la Región Metropolitana: otro frente con río atmosférico llegará la próxima semana - Meteored Chile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref5&quot;&gt;[5]: &lt;a href=&quot;https://www.biobiochile.cl/biobiotv/programas/expreso-bio-bio/2026/07/17/se-aproxima-peak-del-sistema-frontal-dmc-detalla-los-diferentes-escenarios-en-las-regiones-del-pais.shtml&quot; target=&quot;_blank&quot;&gt;¿Se aproxima peak del sistema frontal? DMC detalla los diferentes escenarios en las regiones del país - BioBioChile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref6&quot;&gt;[6]: &lt;a href=&quot;https://www.latercera.com/servicios/noticia/sistema-frontal-traera-lluvia-viento-y-nevadas-revisa-el-pronostico-del-tiempo-para-las-distintas-regiones/&quot; target=&quot;_blank&quot;&gt;Sistema frontal traerá lluvia, viento y nevadas: revisa el pronóstico del tiempo para las distintas regiones - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref7&quot;&gt;[7]: &lt;a href=&quot;https://vismet.cr2.cl/&quot; target=&quot;_blank&quot;&gt;Datos de precipitación: Visualizador Meteorológico (VisMet)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref8&quot;&gt;[8]: &lt;a href=&quot;https://www.meteored.cl/noticias/prediccion/semana-full-lluvia-en-chile-centro-sur-sistemas-frontales-con-rio-atmosferico-se-aproximan-entre-nuble-y-los-rios.html&quot; target=&quot;_blank&quot;&gt;Semana full lluvia en Chile centro-sur: sistemas frontales con río atmosférico se aproximan entre Ñuble y Los Ríos - Meteored Chile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref9&quot;&gt;[9]: &lt;a href=&quot;https://www.latercera.com/nacional/noticia/preocupacion-por-sistema-frontal-se-focaliza-en-coquimbo-y-atacama-mientras-crece-presion-por-declarar-estado-de-catastrofe/&quot; target=&quot;_blank&quot;&gt;Preocupación por sistema frontal se focaliza en Coquimbo y Atacama mientras crece presión por declarar estado de catástrofe - La Tercera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref10&quot;&gt;[10]: &lt;a href=&quot;https://www.emol.com/noticias/Nacional/2026/07/20/1206114/coquimbo-compleja-afectacion-sistema-frontal.html&quot; target=&quot;_blank&quot;&gt;En Coquimbo &quot;no había pasado nunca&quot;: Revisa el agua caída región por región y la comparación con el año pasado - Emol&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;ref11&quot;&gt;[11]: &lt;a href=&quot;https://www.meganoticias.cl/nacional/527307-actualizan-alarma-meteorologica-lluvias-coquimbo-montos-lluvia-pronostico-del-tiempo-19-Jul-2026.html&quot; target=&quot;_blank&quot;&gt;Hasta 60 mm de lluvia: Actualizan alarma meteorológica por precipitaciones intensas en la región de Coquimbo - Meganoticias&lt;/a&gt;&lt;/p&gt;</content><author><name>Lucas Salinas-Morales and Mauricio Zambrano-Bigiarini</name></author><category term="frontal-system" /><category term="atmospheric-rivers" /><category term="frontal-system" /><category term="atmospheric-river" /><category term="extreme-rainfall" /><category term="Chile" /><category term="emergency" /><summary type="html">Between 15 and 19 July 2026, successive frontal systems shifted the rainfall maximum from southern Chile towards the Norte Chico, producing totals above 250 mm and severe territorial impacts.</summary></entry><entry><title type="html">Río atmosférico en el sur de Chile: por qué el temporal del 6 al 9 de julio fue tan dañino</title><link href="http://localhost:4000/sistema-frontal/r%C3%ADo%20atmosf%C3%A9rico/Evento_extremo_Corral_06-09_Julio_2026/" rel="alternate" type="text/html" title="Río atmosférico en el sur de Chile: por qué el temporal del 6 al 9 de julio fue tan dañino" /><published>2026-07-20T08:00:00-04:00</published><updated>2026-07-20T08:00:00-04:00</updated><id>http://localhost:4000/sistema-frontal/r%C3%ADo%20atmosf%C3%A9rico/Evento_extremo_Corral_06-09_Julio_2026</id><content type="html" xml:base="http://localhost:4000/sistema-frontal/r%C3%ADo%20atmosf%C3%A9rico/Evento_extremo_Corral_06-09_Julio_2026/">&lt;p&gt;Entre el lunes 6 y el jueves 9 de julio de 2026, un sistema frontal reforzado por un &lt;strong&gt;río atmosférico de categoría 3-4&lt;/strong&gt; descargó lluvias intensas sobre La Araucanía, Los Ríos y Los Lagos &lt;a href=&quot;#ref2&quot;&gt;²&lt;/a&gt; &lt;a href=&quot;#ref3&quot;&gt;³&lt;/a&gt;. La combinación de abundante vapor de agua procedente del Pacífico, viento fuerte y una isoterma cero situada sobre los 3.000 m elevó de forma considerable el riesgo hidrológico &lt;a href=&quot;#ref4&quot;&gt;⁴&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Los efectos se hicieron visibles en pocas horas: inundaciones y anegamientos, remociones en masa, cortes de rutas, viviendas afectadas, interrupciones del suministro eléctrico y cierre de pasos fronterizos &lt;a href=&quot;#ref2&quot;&gt;²&lt;/a&gt;. El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) mantuvo la Alerta Amarilla en las tres regiones durante el episodio &lt;a href=&quot;#ref4&quot;&gt;⁴&lt;/a&gt;.&lt;/p&gt;
 
@@ -670,34 +1513,4 @@ La segunda, &lt;strong&gt;HC2. Procesos hidrológicos en un clima que cambia&lt;
  &lt;img src=&quot;/assets/posts/2025-10-27/Oscar-Link.jpg&quot; alt=&quot;Delegación UFRO con Óscar Link&quot; style=&quot;width:1920px;&quot; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figura 2&lt;/strong&gt;. Grupo de estudiantes y profesores de la Universidad de La Frontera que asistieron al XXVII Congreso Chileno de Ingeniería Hidráulica (imagen superior) junto al Dr. Oscar Link (imagen inferior).&lt;/p&gt;</content><author><name>Héctor Garcés-Figueroa</name></author><category term="congresos" /><category term="SOCHID" /><category term="UFRO" /><category term="recursos hídricos" /><summary type="html">Entre el 20 y el 25 de octubre de 2025 se desarrolló en la Universidad de Concepción el XXVII Congreso Chileno de Ingeniería Hidráulica, instancia que reunió a investigadores, académicos y profesionales del país en torno a los más recientes avances en hidráulica e hidrología.</summary></entry><entry><title type="html">Nueva estación meteorológica en Jungla Peumayén impulsa el monitoreo ambiental en la cuenca del río Chillán</title><link href="http://localhost:4000/monitoreo/chillan/recursos-hidricos/Nueva_estacion_meteorologica_Jungla_Peumayen/" rel="alternate" type="text/html" title="Nueva estación meteorológica en Jungla Peumayén impulsa el monitoreo ambiental en la cuenca del río Chillán" /><published>2024-11-19T17:20:00-03:00</published><updated>2024-11-19T17:20:00-03:00</updated><id>http://localhost:4000/monitoreo/chillan/recursos-hidricos/Nueva_estacion_meteorologica_Jungla_Peumayen</id><content type="html" xml:base="http://localhost:4000/monitoreo/chillan/recursos-hidricos/Nueva_estacion_meteorologica_Jungla_Peumayen/">&lt;p&gt;El pasado viernes 15 de noviembre, se instaló una nueva estación meteorológica en el parque ecológico &lt;a href=&quot;https://junglapeumayen.cl/&quot;&gt;Jungla Peumayén&lt;/a&gt;, ubicado a unos 1.100 metros sobre el nivel del mar. Este parque, con sus 3.300 hectáreas de bosque nativo, valles de origen volcánico y glaciar, y cascadas, se ha consolidado como un espacio clave para la conservación y el estudio del medio ambiente en la región. La estación está localizada en la cuenca del río Chillán, específicamente vinculada a la estación fluviométrica &lt;em&gt;Río Chillán en Esperanza&lt;/em&gt; (código 8117006) de la Dirección General de Aguas, lo que permitirá un monitoreo más detallado de las condiciones hidrológicas en la zona.&lt;/p&gt;
-
-&lt;p&gt;La nueva estación meteorológica forma parte de una red de 28 estaciones instaladas por el Observatorio de Recursos Hídricos de La Araucanía (Kimün-Ko) en distintas zonas clave de Chile. Esta red tiene como objetivo mejorar la comprensión de los fenómenos hidrometeorológicos y su impacto en los recursos hídricos. La estación recién instalada medirá variables esenciales como precipitación, humedad relativa, presión atmosférica, velocidad media y ráfagas del viento, además del punto de rocío. Los datos recopilados estarán disponibles de forma pública, facilitando su uso por parte de investigadores, autoridades y la comunidad en general.&lt;/p&gt;
-
-&lt;p&gt;El equipo responsable de la instalación estuvo compuesto por Rodrigo Marinao (Magíster en Ciencias) y Héctor Garcés-Figueroa (estudiante de Ingeniería Civil), quienes forman parte del proyecto Fondecyt Regular 1212071, titulado &lt;em&gt;“The catchment’s memory: understanding how hydrological extremes are modulated by antecedent soil moisture conditions in a warmer climate”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Esta instalación no solo responde a objetivos científicos, sino también al compromiso de Jungla Peumayén de promover un vínculo armónico y sostenible con la naturaleza. Este parque, que en el pasado fue hogar de comunidades Pehuenches y Chiquillanes, busca generar experiencias que sensibilicen sobre la conservación y el cuidado del medio ambiente. En este contexto, la nueva estación meteorológica se suma a los esfuerzos por preservar los ecosistemas locales, fortaleciendo la educación ambiental y fomentando un turismo responsable.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
- &lt;img src=&quot;/assets/posts/2024-11-19/Jungla_Peumayen/IMG_8472.jpg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
- &lt;img src=&quot;/assets/posts/2024-11-19/Jungla_Peumayen/IMG_8520.jpg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
- &lt;img src=&quot;/assets/posts/2024-11-19/Jungla_Peumayen/IMG_8517.jpg&quot; alt=&quot;drawing&quot; style=&quot;width:900px;&quot; /&gt;
- &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figura 1&lt;/strong&gt;. Estaciones de monitoreo.&lt;/p&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="monitoreo" /><category term="Chillan" /><category term="recursos-hidricos" /><summary type="html">El pasado viernes 15 de noviembre, se instaló una nueva estación meteorológica en el parque ecológico Jungla Peumayén, ubicado a unos 1.100 metros sobre el nivel del mar. Este parque, con sus 3.300 hectáreas de bosque nativo, valles de origen volcánico y glaciar, y cascadas, se ha consolidado como un espacio clave para la conservación y el estudio del medio ambiente en la región. La estación está localizada en la cuenca del río Chillán, específicamente vinculada a la estación fluviométrica Río Chillán en Esperanza (código 8117006) de la Dirección General de Aguas, lo que permitirá un monitoreo más detallado de las condiciones hidrológicas en la zona.</summary></entry><entry><title type="html">New Weather Station at Jungla Peumayén Boosts Environmental Monitoring in the Chillán River Basin</title><link href="http://localhost:4000/monitoring/chill%C3%A1n/water-resources/New_Weather_Station_at_Jungla_Peumayen/" rel="alternate" type="text/html" title="New Weather Station at Jungla Peumayén Boosts Environmental Monitoring in the Chillán River Basin" /><published>2024-11-19T17:20:00-03:00</published><updated>2024-11-19T17:20:00-03:00</updated><id>http://localhost:4000/monitoring/chill%C3%A1n/water-resources/New_Weather_Station_at_Jungla_Peumayen</id><content type="html" xml:base="http://localhost:4000/monitoring/chill%C3%A1n/water-resources/New_Weather_Station_at_Jungla_Peumayen/">&lt;p&gt;On Friday, November 15, a new weather station was installed at the ecological park &lt;a href=&quot;https://junglapeumayen.cl/&quot;&gt;Jungla Peumayén&lt;/a&gt;, located approximately 1,100 meters above sea level. This park, spanning 3,300 hectares of native forest, volcanic and glacial-origin valleys, and waterfalls, has become a key site for environmental conservation and research in the region. The station is situated in the Chillán River Basin, specifically linked to the &lt;em&gt;Río Chillán en Esperanza&lt;/em&gt; hydrometric station (code 8117006) of the General Directorate of Water, enabling more detailed monitoring of hydrological conditions in the area.&lt;/p&gt;
-
-&lt;p&gt;The new weather station is part of a network of 28 stations installed by the Kimün-Ko Water Resources Observatory in key areas across Chile. This network aims to enhance the understanding of hydrometeorological phenomena and their impact on water resources. The newly installed station will measure essential variables such as precipitation, relative humidity, atmospheric pressure, mean wind speed, wind gusts, and dew point. The data collected will be publicly available, facilitating its use by researchers, authorities, and the general community.&lt;/p&gt;
-
-&lt;p&gt;The installation team included Rodrigo Marinao (Master in Sciences) and Héctor Garcés-Figueroa (Civil Engineering student), both participants in the Fondecyt Regular 1212071 project, titled &lt;em&gt;“The catchment’s memory: understanding how hydrological extremes are modulated by antecedent soil moisture conditions in a warmer climate.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This installation not only fulfills scientific objectives but also aligns with Jungla Peumayén’s commitment to fostering a harmonious and sustainable connection with nature. This park, once home to Pehuenche and Chiquillán communities, seeks to create experiences that raise awareness about conservation and environmental care. In this context, the new weather station contributes to efforts to preserve local ecosystems, strengthen environmental education, and promote responsible tourism.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
- &lt;img src=&quot;/assets/posts/2024-11-19/Jungla_Peumayen/IMG_8472.jpg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
- &lt;img src=&quot;/assets/posts/2024-11-19/Jungla_Peumayen/IMG_8520.jpg&quot; alt=&quot;drawing&quot; style=&quot;width:450px;&quot; /&gt;
- &lt;img src=&quot;/assets/posts/2024-11-19/Jungla_Peumayen/IMG_8517.jpg&quot; alt=&quot;drawing&quot; style=&quot;width:900px;&quot; /&gt;
- &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 1.&lt;/strong&gt; Monitoring Stations.&lt;/p&gt;
-
-&lt;iframe width=&quot;942&quot; height=&quot;530&quot; src=&quot;https://www.youtube.com/embed/38btURl8aTs&quot; title=&quot;Estación PP28 - Jungla Peumayén - Noviembre 2024&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Mauricio Zambrano-Bigiarini</name></author><category term="monitoring" /><category term="Chillán" /><category term="water-resources" /><summary type="html">On Friday, November 15, a new weather station was installed at the ecological park Jungla Peumayén, located approximately 1,100 meters above sea level. This park, spanning 3,300 hectares of native forest, volcanic and glacial-origin valleys, and waterfalls, has become a key site for environmental conservation and research in the region. The station is situated in the Chillán River Basin, specifically linked to the Río Chillán en Esperanza hydrometric station (code 8117006) of the General Directorate of Water, enabling more detailed monitoring of hydrological conditions in the area.</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;Figura 2&lt;/strong&gt;. Grupo de estudiantes y profesores de la Universidad de La Frontera que asistieron al XXVII Congreso Chileno de Ingeniería Hidráulica (imagen superior) junto al Dr. Oscar Link (imagen inferior).&lt;/p&gt;</content><author><name>Héctor Garcés-Figueroa</name></author><category term="congresos" /><category term="SOCHID" /><category term="UFRO" /><category term="recursos hídricos" /><summary type="html">Entre el 20 y el 25 de octubre de 2025 se desarrolló en la Universidad de Concepción el XXVII Congreso Chileno de Ingeniería Hidráulica, instancia que reunió a investigadores, académicos y profesionales del país en torno a los más recientes avances en hidráulica e hidrología.</summary></entry></feed>
