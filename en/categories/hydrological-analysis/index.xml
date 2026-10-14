@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hydrological-Analysis on Kimün-Ko</title>
+		<link>https://kimunko.ufro.cl/en/categories/hydrological-analysis/</link>
+		<description>Recent content in Hydrological-Analysis on Kimün-Ko</description>
+		<generator>Hugo</generator>
+		<language>en-GB</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 -0300</lastBuildDate>
+		
+			<atom:link href="https://kimunko.ufro.cl/en/categories/hydrological-analysis/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Atmospheric river and high freezing level: record rain, river rises and isolation from Biobío to Los Ríos [22-25 September 2026]</title>
+				<link>https://kimunko.ufro.cl/en/posts/atmospheric-river-flooding-biobio-los-rios-september-2026/</link>
+				<pubDate>Sat, 03 Oct 2026 10:00:00 -0300</pubDate>
+				<guid>https://kimunko.ufro.cl/en/posts/atmospheric-river-flooding-biobio-los-rios-september-2026/</guid>
+				<description>Rainfall and streamflow observations explain how the frontal system isolated 4,606 people and damaged thousands of homes from Biobío to Los Ríos.</description>
+			</item>
+	</channel>
+</rss>

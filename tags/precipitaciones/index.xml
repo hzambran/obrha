@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Precipitaciones on Kimün-Ko</title><link>https://kimunko.ufro.cl/tags/precipitaciones/</link><description>Recent content in Precipitaciones on Kimün-Ko</description><generator>Hugo</generator><language>es-CL</language><lastBuildDate>Mon, 08 Jul 2024 15:10:00 +0000</lastBuildDate><atom:link href="https://kimunko.ufro.cl/tags/precipitaciones/index.xml" rel="self" type="application/rss+xml"/><item><title>Mawün-NRT en CNN Chile: Innovación en Monitoreo de Precipitaciones</title><link>https://kimunko.ufro.cl/posts/mawun-nrt-en-cnn-chile/</link><pubDate>Mon, 08 Jul 2024 15:10:00 +0000</pubDate><guid>https://kimunko.ufro.cl/posts/mawun-nrt-en-cnn-chile/</guid><description>&lt;p&gt;En una reciente intervención en &lt;a href="https://www.cnnchile.com/programas-completos/monitoreo-pronostico-lluvias-cr2_20240706/" target="_blank" rel="noopener noreferrer"&gt;CNN Tiempo&lt;/a&gt;
-, el doctor en Ingeniería Ambiental, Mauricio Zambrano-Bigiarini, presentó la nueva plataforma desarrollada por el Observatorio de Recursos Hídricos del Departamento de Ingeniería en Obras Civiles de la Universidad de La Frontera &lt;a href="https://kimunko.ufro.cl/" target="_blank" rel="noopener noreferrer"&gt;(Kimün-Ko)&lt;/a&gt;
-, en colaboración con el Centro de Investigación sobre el Clima y la Resiliencia &lt;a href="https://www.cr2.cl/" target="_blank" rel="noopener noreferrer"&gt;(CR2)&lt;/a&gt;
-, conocida como &lt;a href="https://mawunNRT.cr2.cl/" target="_blank" rel="noopener noreferrer"&gt;Mawün-NRT&lt;/a&gt;
-. Esta herramienta revolucionaria permite el monitoreo en tiempo real de las precipitaciones, así como la distribución espacial y la cuantificación de las lluvias.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Precipitaciones on Kimün-Ko</title>
+		<link>https://kimunko.ufro.cl/tags/precipitaciones/</link>
+		<description>Recent content in Precipitaciones on Kimün-Ko</description>
+		<generator>Hugo</generator>
+		<language>es-CL</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 -0300</lastBuildDate>
+		
+			<atom:link href="https://kimunko.ufro.cl/tags/precipitaciones/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Río atmosférico e isoterma alta: lluvia récord, crecidas y aislamiento entre el Biobío y Los Ríos [22-25 de septiembre de 2026]</title>
+				<link>https://kimunko.ufro.cl/posts/rio-atmosferico-crecidas-biobio-los-rios-septiembre-2026/</link>
+				<pubDate>Sat, 03 Oct 2026 10:00:00 -0300</pubDate>
+				<guid>https://kimunko.ufro.cl/posts/rio-atmosferico-crecidas-biobio-los-rios-septiembre-2026/</guid>
+				<description>Mapas y datos de precipitación y caudal explican por qué el sistema frontal aisló a 4.606 personas y dañó miles de viviendas entre el Biobío y Los Ríos.</description>
+			</item>
+			<item>
+				<title>Mawün-NRT en CNN Chile: Innovación en Monitoreo de Precipitaciones</title>
+				<link>https://kimunko.ufro.cl/posts/mawun-nrt-en-cnn-chile/</link>
+				<pubDate>Mon, 08 Jul 2024 15:10:00 +0000</pubDate>
+				<guid>https://kimunko.ufro.cl/posts/mawun-nrt-en-cnn-chile/</guid>
+				<description>&lt;p&gt;En una reciente intervención en &lt;a href=&#34;https://www.cnnchile.com/programas-completos/monitoreo-pronostico-lluvias-cr2_20240706/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CNN Tiempo&lt;/a&gt;&#xA;, el doctor en Ingeniería Ambiental, Mauricio Zambrano-Bigiarini, presentó la nueva plataforma desarrollada por el Observatorio de Recursos Hídricos del Departamento de Ingeniería en Obras Civiles de la Universidad de La Frontera &lt;a href=&#34;https://kimunko.ufro.cl/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(Kimün-Ko)&lt;/a&gt;&#xA;, en colaboración con el Centro de Investigación sobre el Clima y la Resiliencia &lt;a href=&#34;https://www.cr2.cl/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(CR2)&lt;/a&gt;&#xA;, conocida como &lt;a href=&#34;https://mawunNRT.cr2.cl/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Mawün-NRT&lt;/a&gt;&#xA;. Esta herramienta revolucionaria permite el monitoreo en tiempo real de las precipitaciones, así como la distribución espacial y la cuantificación de las lluvias.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

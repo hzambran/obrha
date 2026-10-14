@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>River-Flooding on Kimün-Ko</title><link>https://kimunko.ufro.cl/en/tags/river-flooding/</link><description>Recent content in River-Flooding on Kimün-Ko</description><generator>Hugo</generator><language>en-GB</language><lastBuildDate>Mon, 03 Aug 2026 10:00:00 -0400</lastBuildDate><atom:link href="https://kimunko.ufro.cl/en/tags/river-flooding/index.xml" rel="self" type="application/rss+xml"/><item><title>Frontal system in south-central Chile: 2 deaths, 6,183 isolated people and rivers under stress [30 July - 2 August 2026]</title><link>https://kimunko.ufro.cl/en/posts/frontal-system-south-central-chile-30-july-2-august-2026/</link><pubDate>Mon, 03 Aug 2026 10:00:00 -0400</pubDate><guid>https://kimunko.ufro.cl/en/posts/frontal-system-south-central-chile-30-july-2-august-2026/</guid><description>Maps, stations and the updated SENAPRED balance for the 30 July-2 August 2026 frontal system in south-central Chile.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>River-Flooding on Kimün-Ko</title>
+		<link>https://kimunko.ufro.cl/en/tags/river-flooding/</link>
+		<description>Recent content in River-Flooding on Kimün-Ko</description>
+		<generator>Hugo</generator>
+		<language>en-GB</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 -0300</lastBuildDate>
+		
+			<atom:link href="https://kimunko.ufro.cl/en/tags/river-flooding/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Atmospheric river and high freezing level: record rain, river rises and isolation from Biobío to Los Ríos [22-25 September 2026]</title>
+				<link>https://kimunko.ufro.cl/en/posts/atmospheric-river-flooding-biobio-los-rios-september-2026/</link>
+				<pubDate>Sat, 03 Oct 2026 10:00:00 -0300</pubDate>
+				<guid>https://kimunko.ufro.cl/en/posts/atmospheric-river-flooding-biobio-los-rios-september-2026/</guid>
+				<description>Rainfall and streamflow observations explain how the frontal system isolated 4,606 people and damaged thousands of homes from Biobío to Los Ríos.</description>
+			</item>
+			<item>
+				<title>Frontal system in south-central Chile: 2 deaths, 6,183 isolated people and rivers under stress [30 July - 2 August 2026]</title>
+				<link>https://kimunko.ufro.cl/en/posts/frontal-system-south-central-chile-30-july-2-august-2026/</link>
+				<pubDate>Mon, 03 Aug 2026 10:00:00 -0400</pubDate>
+				<guid>https://kimunko.ufro.cl/en/posts/frontal-system-south-central-chile-30-july-2-august-2026/</guid>
+				<description>Maps, stations and the updated SENAPRED balance for the 30 July-2 August 2026 frontal system in south-central Chile.</description>
+			</item>
+	</channel>
+</rss>
