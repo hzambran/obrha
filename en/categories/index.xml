@@ -14,7 +14,7 @@
 		
 			<atom:link href="https://kimunko.ufro.cl/en/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Frontal System</title>
+				<title>Frontal-System</title>
 				<link>https://kimunko.ufro.cl/en/categories/frontal-system/</link>
 				<pubDate>Sat, 03 Oct 2026 10:00:00 -0300</pubDate>
 				<guid>https://kimunko.ufro.cl/en/categories/frontal-system/</guid>
@@ -28,59 +28,59 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Data</title>
-				<link>https://kimunko.ufro.cl/en/categories/data/</link>
-				<pubDate>Thu, 06 Aug 2026 09:00:00 -0400</pubDate>
-				<guid>https://kimunko.ufro.cl/en/categories/data/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Extreme-Events</title>
-				<link>https://kimunko.ufro.cl/en/categories/extreme-events/</link>
-				<pubDate>Thu, 06 Aug 2026 09:00:00 -0400</pubDate>
-				<guid>https://kimunko.ufro.cl/en/categories/extreme-events/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Hydrometeorology</title>
-				<link>https://kimunko.ufro.cl/en/categories/hydrometeorology/</link>
-				<pubDate>Thu, 06 Aug 2026 09:00:00 -0400</pubDate>
-				<guid>https://kimunko.ufro.cl/en/categories/hydrometeorology/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Biobío</title>
 				<link>https://kimunko.ufro.cl/en/categories/biob%C3%ADo/</link>
-				<pubDate>Mon, 03 Aug 2026 10:00:00 -0400</pubDate>
+				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
 				<guid>https://kimunko.ufro.cl/en/categories/biob%C3%ADo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>La Araucanía</title>
 				<link>https://kimunko.ufro.cl/en/categories/la-araucan%C3%ADa/</link>
-				<pubDate>Mon, 03 Aug 2026 10:00:00 -0400</pubDate>
+				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
 				<guid>https://kimunko.ufro.cl/en/categories/la-araucan%C3%ADa/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Los Ríos</title>
 				<link>https://kimunko.ufro.cl/en/categories/los-r%C3%ADos/</link>
-				<pubDate>Mon, 03 Aug 2026 10:00:00 -0400</pubDate>
+				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
 				<guid>https://kimunko.ufro.cl/en/categories/los-r%C3%ADos/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Maule</title>
 				<link>https://kimunko.ufro.cl/en/categories/maule/</link>
-				<pubDate>Mon, 03 Aug 2026 10:00:00 -0400</pubDate>
+				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
 				<guid>https://kimunko.ufro.cl/en/categories/maule/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ñuble</title>
 				<link>https://kimunko.ufro.cl/en/categories/%C3%B1uble/</link>
-				<pubDate>Mon, 03 Aug 2026 10:00:00 -0400</pubDate>
+				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
 				<guid>https://kimunko.ufro.cl/en/categories/%C3%B1uble/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data</title>
+				<link>https://kimunko.ufro.cl/en/categories/data/</link>
+				<pubDate>Sun, 02 Aug 2026 09:00:00 -0400</pubDate>
+				<guid>https://kimunko.ufro.cl/en/categories/data/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Extreme-Events</title>
+				<link>https://kimunko.ufro.cl/en/categories/extreme-events/</link>
+				<pubDate>Sun, 02 Aug 2026 09:00:00 -0400</pubDate>
+				<guid>https://kimunko.ufro.cl/en/categories/extreme-events/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hydrometeorology</title>
+				<link>https://kimunko.ufro.cl/en/categories/hydrometeorology/</link>
+				<pubDate>Sun, 02 Aug 2026 09:00:00 -0400</pubDate>
+				<guid>https://kimunko.ufro.cl/en/categories/hydrometeorology/</guid>
 				<description></description>
 			</item>
 			<item>
