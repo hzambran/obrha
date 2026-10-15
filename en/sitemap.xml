@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kimunko.ufro.cl/en/tags/atmospheric-river/</loc>
-    <lastmod>2026-10-14T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://kimunko.ufro.cl/en/posts/atmospheric-river-flooding-biobio-los-rios-september-2026/</loc>
     <lastmod>2026-10-14T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -17,6 +14,9 @@
                 hreflang="en-GB"
                 href="https://kimunko.ufro.cl/en/posts/atmospheric-river-flooding-biobio-los-rios-september-2026/"
                 />
+  </url><url>
+    <loc>https://kimunko.ufro.cl/en/tags/atmospheric-river/</loc>
+    <lastmod>2026-10-14T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://kimunko.ufro.cl/en/tags/biob%C3%ADo/</loc>
     <lastmod>2026-10-14T00:00:00-03:00</lastmod>
@@ -163,6 +163,41 @@
                 href="https://kimunko.ufro.cl/en/tags/"
                 />
   </url><url>
+    <loc>https://kimunko.ufro.cl/en/tags/anid/</loc>
+    <lastmod>2026-09-15T11:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="https://kimunko.ufro.cl/tags/anid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://kimunko.ufro.cl/en/tags/anid/"
+                />
+  </url><url>
+    <loc>https://kimunko.ufro.cl/en/posts/floodcastcl-wins-viu-2026-funding/</loc>
+    <lastmod>2026-09-15T11:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="https://kimunko.ufro.cl/posts/floodcastcl-adjudica-fondo-viu-2026/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://kimunko.ufro.cl/en/posts/floodcastcl-wins-viu-2026-funding/"
+                />
+  </url><url>
+    <loc>https://kimunko.ufro.cl/en/tags/floods/</loc>
+    <lastmod>2026-09-15T11:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://kimunko.ufro.cl/en/tags/funding/</loc>
+    <lastmod>2026-09-15T11:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://kimunko.ufro.cl/en/categories/news/</loc>
+    <lastmod>2026-09-15T11:00:00-04:00</lastmod>
+  </url><url>
     <loc>https://kimunko.ufro.cl/en/categories/biob%C3%ADo/</loc>
     <lastmod>2026-08-07T10:00:00-04:00</lastmod>
     <xhtml:link
@@ -177,9 +212,6 @@
                 />
   </url><url>
     <loc>https://kimunko.ufro.cl/en/tags/emergency/</loc>
-    <lastmod>2026-08-07T10:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://kimunko.ufro.cl/en/tags/floods/</loc>
     <lastmod>2026-08-07T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://kimunko.ufro.cl/en/posts/frontal-system-south-central-chile-30-july-2-august-2026/</loc>

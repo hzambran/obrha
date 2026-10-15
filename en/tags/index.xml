@@ -14,7 +14,7 @@
 		
 			<atom:link href="https://kimunko.ufro.cl/en/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Atmospheric River</title>
+				<title>Atmospheric-River</title>
 				<link>https://kimunko.ufro.cl/en/tags/atmospheric-river/</link>
 				<pubDate>Sat, 03 Oct 2026 10:00:00 -0300</pubDate>
 				<guid>https://kimunko.ufro.cl/en/tags/atmospheric-river/</guid>
@@ -42,7 +42,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Extreme-Rainfall</title>
+				<title>Extreme Rainfall</title>
 				<link>https://kimunko.ufro.cl/en/tags/extreme-rainfall/</link>
 				<pubDate>Sat, 03 Oct 2026 10:00:00 -0300</pubDate>
 				<guid>https://kimunko.ufro.cl/en/tags/extreme-rainfall/</guid>
@@ -84,17 +84,31 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Emergency</title>
-				<link>https://kimunko.ufro.cl/en/tags/emergency/</link>
-				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
-				<guid>https://kimunko.ufro.cl/en/tags/emergency/</guid>
+				<title>ANID</title>
+				<link>https://kimunko.ufro.cl/en/tags/anid/</link>
+				<pubDate>Tue, 15 Sep 2026 11:00:00 -0400</pubDate>
+				<guid>https://kimunko.ufro.cl/en/tags/anid/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Floods</title>
 				<link>https://kimunko.ufro.cl/en/tags/floods/</link>
-				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
+				<pubDate>Tue, 15 Sep 2026 11:00:00 -0400</pubDate>
 				<guid>https://kimunko.ufro.cl/en/tags/floods/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Funding</title>
+				<link>https://kimunko.ufro.cl/en/tags/funding/</link>
+				<pubDate>Tue, 15 Sep 2026 11:00:00 -0400</pubDate>
+				<guid>https://kimunko.ufro.cl/en/tags/funding/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Emergency</title>
+				<link>https://kimunko.ufro.cl/en/tags/emergency/</link>
+				<pubDate>Fri, 07 Aug 2026 10:00:00 -0400</pubDate>
+				<guid>https://kimunko.ufro.cl/en/tags/emergency/</guid>
 				<description></description>
 			</item>
 			<item>
